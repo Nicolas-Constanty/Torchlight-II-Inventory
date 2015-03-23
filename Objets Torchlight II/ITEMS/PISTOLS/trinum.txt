@@ -1,0 +1,86 @@
+﻿1:Endgame.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY_PISTOL05.DAT
+1:Initiate Matchlock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N00.DAT
+2:Pepperbox.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M01.DAT
+3:Pocket Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N01.DAT
+5:Peasant Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M01B.DAT
+5:Mouse Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N01B.DAT
+5:Rascal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U01.DAT
+7:Stocking Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N01C.DAT
+8:Poacher's Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M01C.DAT
+8:Sprawl Street Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M01SLOTS.DAT
+9:Web-Shooter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U01B.DAT
+10:Grell's Trusty Sidearm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\ZZZ_GRELLS_PISTOL1.DAT
+10:Grell's Missing Sidearm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\ZZZ_GRELLS_PISTOL2.DAT
+11:Ornate Derringer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M02.DAT
+11:Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N02.DAT
+13:Troublemaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U01C.DAT
+14:Riverman's Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M02B.DAT
+15:Sidearm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N02B.DAT
+17:Gambler's Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M02C.DAT
+17:Gambler's Holdout Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M02SLOTS.DAT
+17:Full-Bore Skull-Bore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U02.DAT
+19:Black Powder Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N02C.DAT
+20:Smoothbore Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M03.DAT
+21:My Little Friend.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U02B.DAT
+23:Caplock Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M03B.DAT
+24:Flintlock Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N03.DAT
+25:Outlaw's Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M05_SET_ELGUAPO.DAT
+25:Small Favor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U02C.DAT
+26:Warlock Dueling Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M03SLOTS.DAT
+27:Front-Loading Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M03C.DAT
+29:Matchlock Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N03B.DAT
+30:Brasstaxx.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U03.DAT
+31:Riverman's Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M04.DAT
+34:Wheellock Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N03C.DAT
+35:Hunting Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M04B.DAT
+35:The Wyvern's Sting.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U03B.DAT
+38:Ashenfeld Dueling Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M04SLOTS.DAT
+39:Howdah Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M04C.DAT
+40:Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N04.DAT
+40:The Thunderhammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U03C.DAT
+40:Fist Bullet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U03_SET_BULLETFIST.DAT
+43:Iron-Bore Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M05.DAT
+45:Longshot.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U04.DAT
+46:Six-Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N04B.DAT
+47:Ivory-Handled Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M05B.DAT
+50:Brass-Barrel Fullbore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M05SLOTS.DAT
+50:Dogbark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U04B.DAT
+51:Pearl-Handled Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M05C.DAT
+53:Six-Shooter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N04C.DAT
+54:Beyond the Darkness .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY_PISTOL01.DAT
+55:Trapper Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M06.DAT
+55:Bearhug.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U04C.DAT
+55:Cold Vengeance.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U05_SET_SOLIMA.DAT
+55:Hot Vengeance.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U05_SET_SOLIMA2.DAT
+60:Battle Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M06B.DAT
+60:Heavy Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N05.DAT
+60:The Voice of Pain.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U05.DAT
+63:Industrium Heavy Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M06SLOTS.DAT
+65:Ator the Fighting Eagle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY_PISTOL02.DAT
+65:Match Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M06C.DAT
+65:The Word of Wounds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U05B.DAT
+67:Dragoon Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N05B.DAT
+70:Ten Gauge Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M07.DAT
+70:The Song of Slaying.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U05C.DAT
+74:Cavalry Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N05C.DAT
+75:Steam-Loaded Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M07B.DAT
+75:Kriegsmacher's Patented Pocket Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U06.DAT
+77:The Hobgoblin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY_PISTOL03.DAT
+78:Booster Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M07SLOTS.DAT
+80:Pistonlock Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M07C.DAT
+80:Kriegsmacher's Revolutionary Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U06B.DAT
+81:Brassbarrel Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N06.DAT
+85:Sentinel Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M08.DAT
+85:Kriegsmacher's Superior Sidearm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U06C.DAT
+88:Antropophagus .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY_PISTOL04.DAT
+88:Trophy Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N06B.DAT
+90:Two-Barrel Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M08B.DAT
+90:Steam-Tech Nine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U07.DAT
+93:Over-Under Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M08SLOTS.DAT
+95:Over-Under Revolver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_M08C.DAT
+95:Alchemist Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_N06C.DAT
+95:The Death Toll.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U07B.DAT
+100:Magnum Force.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\PISTOL_U07C.DAT
+105:Blastmaw's Trigger.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY2_PISTOL06.DAT
+105:Dispatch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY2_PISTOL06B.DAT
+105:Netherrealm Pistol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PISTOLS\LEGENDARY2_PISTOL06C.DAT

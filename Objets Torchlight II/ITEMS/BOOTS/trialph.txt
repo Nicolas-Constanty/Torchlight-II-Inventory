@@ -1,0 +1,305 @@
+﻿Adeptus Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_03_BOOTS.DAT
+Adventurer Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_08_BOOTS.DAT
+Adventurer Clog Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_08_BOOTS_ALT_C.DAT
+Adventurer Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_08_BOOTS_ALT_B.DAT
+Alchemical Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_01_BOOTS_ALT_SET.DAT
+Argonaut Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PONYA_01_BOOTS_ALT_SET.DAT
+Aristocrat Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PIMP_01_BOOTS_ALT_SET.DAT
+Ascendant Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_X07_BOOTS.DAT
+Badlands Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DESERT_01_BOOTS_ALT_SET.DAT
+Battlemage Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_04_BOOTS_ALT_C.DAT
+Biggun's Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_02_BOOTS_ALT_C.DAT
+Blood Leather Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VARKOLYN_01_BOOTS_SET_BLOODLEATHER.DAT
+Bloodsteam Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_G_BOOTS_ALT_SET.DAT
+Boots of Blind Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_01_BOOTS_ALT_C.DAT
+Boots of Ferocity.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_05_BOOTS.DAT
+Boots of Missile Deflection.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_06_BOOTS.DAT
+Boots of Routing.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_03_BOOTS.DAT
+Boots of Savagery.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_05_BOOTS_ALT_B.DAT
+Boots of Silent Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_01_BOOTS_ALT_B.DAT
+Boots of the Fire Lord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_06_BOOTS.DAT
+Boots of the Frozen Wastes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_02_BOOTS_ALT_C.DAT
+Boots of the Invincible Overlord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_06_BOOTS_ALT_B.DAT
+Boots of the Lonely Lineman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_06_BOOTS.DAT
+Boots of the Mountain Pass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_02_BOOTS_ALT_B.DAT
+Boots of the Tick-Tock King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOCKWORK_01_BOOTS.DAT
+Boots of the Vibramite.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_06_BOOTS_ALT_B.DAT
+Boots of the Winter Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_06_BOOTS.DAT
+Boots of the Winter Snow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_02_BOOTS.DAT
+Boots of the Wraith Overlord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_06_BOOTS_ALT_C.DAT
+Boots of Tyranny.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_05_BOOTS_ALT_C.DAT
+Boots of Welling Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_01_BOOTS.DAT
+Brogans of Wild Magic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_05_BOOTS_ALT_C.DAT
+Bronze Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_C_BOOTS.DAT
+Bronze Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_C_BOOTS_ALT_C.DAT
+Bronze Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_C_BOOTS_ALT_B.DAT
+Cabalist Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_02_BOOTS_ALT_SET.DAT
+Captain Logan's Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_01_BOOTS_ALT_B.DAT
+Celestial Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOCKWORK_01_BOOTS_ALT_SET.DAT
+Ceremonial Ezrohir Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_01_BOOTS_ALT_SET.DAT
+Chain Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_C_BOOTS.DAT
+Chain Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_C_BOOTS_ALT_B.DAT
+Chain Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_C_BOOTS_ALT_C.DAT
+Chainmail Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_F_BOOTS.DAT
+Chainmail Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_F_BOOTS_ALT_B.DAT
+Chainmail Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_F_BOOTS_ALT_C.DAT
+Clockwork Solleret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOCKWORK_01_BOOTS_ALT_C.DAT
+Clogs of Good Measure.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_04_BOOTS_ALT_B.DAT
+Cloth Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_A_BOOTS.DAT
+Cloth Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_A_BOOTS_ALT_C.DAT
+Cloth Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_A_BOOTS_ALT_B.DAT
+Clovenhoof Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FURHIDE_01_BOOTS_ALT_SET.DAT
+Colonist Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_01_BOOTS.DAT
+Colonist Footwraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_01_BOOTS_ALT_B.DAT
+Colonist Moccasins.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_01_BOOTS_ALT_C.DAT
+Corpseleather Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_02_BOOTS_ALT_C.DAT
+Damascus Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_F_BOOTS_ALT_E.DAT
+Day-Trippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_04_BOOTS.DAT
+Day-Walkers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_04_BOOTS_ALT_C.DAT
+Desert Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DESERT_01_BOOTS.DAT
+Desert Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DESERT_01_BOOTS_ALT_B.DAT
+Desert Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DESERT_01_BOOTS_ALT_C.DAT
+Dog Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PONYA_01_BOOTS_ALT_B.DAT
+Dominion Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_X07_BOOTS.DAT
+Dragonrift Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_G_BOOTS_ALT_SET.DAT
+Draketalon Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_X07_BOOTS.DAT
+Dwarfking Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DWARF_01_BOOTS_ALT_SET.DAT
+Dwarven Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DWARF_01_BOOTS.DAT
+Dwarven Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DWARF_01_BOOTS_ALT_C.DAT
+Dwarven Clog-Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DWARF_01_BOOTS_ALT_B.DAT
+Emberclad Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\EMBER_01_BOOTS_ALT_B.DAT
+Embercraft Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_04_BOOTS_ALT_SET.DAT
+Emberheart Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\EMBER_01_BOOTS.DAT
+Emberplate Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\EMBER_01_BOOTS_ALT_C.DAT
+Emberweave Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_05_BOOTS_ALT_SET.DAT
+Estherian Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_01_BOOTS.DAT
+Estherian Cloth Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_01_BOOTS_ALT_C.DAT
+Estherian Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_01_BOOTS_ALT_B.DAT
+Even More Inferior Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WITCH_BOOTS2.DAT
+Exorcist Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VARKOLYN_01_BOOTS_ALT_SET.DAT
+Explorer Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_05_BOOTS.DAT
+Explorer Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_05_BOOTS_ALT_C.DAT
+Explorer Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_05_BOOTS_ALT_B.DAT
+Ezrohir Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_01_BOOTS.DAT
+Ezrohir Caligae.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_01_BOOTS_ALT_C.DAT
+Ezrohir Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_01_BOOTS_ALT_B.DAT
+Fine-Crafted Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS_ALT_F.DAT
+Fine-Thread Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS_ALT_E.DAT
+Forest Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FOREST_01_BOOTS.DAT
+Forest Moccasins.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FOREST_01_BOOTS_ALT_B.DAT
+Forest Turn-Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FOREST_01_BOOTS_ALT_C.DAT
+Forgecrafted Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_04_BOOTS_ALT_SET.DAT
+Forged Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_F_BOOTS_ALT_D.DAT
+Formal Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS_ALT_F.DAT
+Formal Regent Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_02_BOOTS_ALT_SET.DAT
+Foundation Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_05_BOOTS.DAT
+Ghastly Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZZZ_GHASTLY_BOOTS.DAT
+Grand Architect Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_05_BOOTS_ALT_SET.DAT
+Grand Wazir Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_02_BOOTS_ALT_SET.DAT
+Grandstanders.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_01_BOOTS_ALT_C.DAT
+Granite Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STONE_01_BOOTS_ALT_SET.DAT
+Grimy Work-Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_01_BOOTS_ALT_C.DAT
+Gyrostoic Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZZZ_GYROBOOTS.DAT
+Harbinger Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_06_BOOTS_ALT_SET.DAT
+Hexenjaeger Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_05_BOOTS_ALT_B.DAT
+High Wizard's Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_06_BOOTS_ALT_C.DAT
+Highridge Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MOUNTAIN_01_BOOTS_ALT_SET.DAT
+Homesteader Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_04_BOOTS.DAT
+Homesteader Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_04_BOOTS_ALT_C.DAT
+Homesteader Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_04_BOOTS_ALT_B.DAT
+House Carl Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_05_BOOTS_ALT_B.DAT
+Imperial Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PIMP_01_BOOTS.DAT
+Incubus Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_02_BOOTS_ALT_SET.DAT
+Inferior Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WITCH_BOOTS.DAT
+Inlayed Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS_ALT_E.DAT
+Inquisitor Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_G_BOOTS_ALT_SET.DAT
+Iron Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_E_BOOTS.DAT
+Iron Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_E_BOOTS_ALT_C.DAT
+Iron Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_E_BOOTS_ALT_B.DAT
+Ironmail Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_F_BOOTS_ALT_D.DAT
+Ironwrought Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_F_BOOTS_ALT_E.DAT
+Jackboots of Fortune.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_04_BOOTS_ALT_C.DAT
+Janissary Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_02_BOOTS.DAT
+Janissary Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_02_BOOTS_ALT_B.DAT
+Janissary Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_02_BOOTS_ALT_C.DAT
+Karz's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_01_BOOTS.DAT
+Kicks of the Doom God.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_06_BOOTS_ALT_C.DAT
+Killian's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_04_BOOTS_ALT_SET.DAT
+King's Mail Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_G_BOOTS.DAT
+King's Mail Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_G_BOOTS_ALT_B.DAT
+King's Mail Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_G_BOOTS_ALT_C.DAT
+Labarinto Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_05_BOOTS_ALT_SET.DAT
+Laminated Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_D_BOOTS.DAT
+Laminated Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_D_BOOTS_ALT_C.DAT
+Laminated Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_D_BOOTS_ALT_B.DAT
+Leather Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_A_BOOTS.DAT
+Leather Infantry Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_A_BOOTS_ALT_B.DAT
+Leather Military Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_A_BOOTS_ALT_C.DAT
+Legionnaire Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_E_BOOTS.DAT
+Legionnaire Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_E_BOOTS_ALT_C.DAT
+Legionnaire Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_E_BOOTS_ALT_B.DAT
+Leone's Fancy Footshoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_03_BOOTS_SET_LEONE.DAT
+Liberation Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_04_BOOTS_ALT_SET.DAT
+Light Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_01_BOOTS.DAT
+Light Infantry Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_01_BOOTS_ALT_B.DAT
+Light Military Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_01_BOOTS_ALT_C.DAT
+Lightfoot Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_03_BOOTS_ALT_C.DAT
+Linen Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_D_BOOTS.DAT
+Linen Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_D_BOOTS_ALT_C.DAT
+Linen Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_D_BOOTS_ALT_B.DAT
+Link Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_A_BOOTS.DAT
+Link Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_A_BOOTS_ALT_B.DAT
+Link Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_A_BOOTS_ALT_C.DAT
+Lizard-Hide Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS_ALT_D.DAT
+Low Soft Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_03_BOOTS_ALT_B.DAT
+Machine-Shop Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_03_BOOTS_ALT_C.DAT
+Machinist Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_03_BOOTS_ALT_B.DAT
+Mail Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_D_BOOTS.DAT
+Mail Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_D_BOOTS_ALT_B.DAT
+Mail Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_D_BOOTS_ALT_C.DAT
+Mika's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_01_BOOTS.DAT
+Mondon's Stompers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_06_BOOTS_ALT_SET.DAT
+Mosby's Red Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_05_BOOTS_ALT_C.DAT
+Mountain Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MOUNTAIN_01_BOOTS.DAT
+Mountain Footwraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MOUNTAIN_01_BOOTS_ALT_B.DAT
+Mountain Turn-Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MOUNTAIN_01_BOOTS_ALT_C.DAT
+Mud-Caked Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_01_BOOTS.DAT
+Near-and-Far Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_02_BOOTS_ALT_B.DAT
+Necromius Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BONE_01_BOOTS_ALT_B.DAT
+Necrotic Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BONE_01_BOOTS_ALT_SET.DAT
+Oathbreaker Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HUNTER_01_BOOTS_ALT_B.DAT
+Obscure Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_01_BOOTS_ALT_SET.DAT
+Outercore Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_X07_BOOTS.DAT
+Padded Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS_ALT_C.DAT
+Padded Shin-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS_ALT_B.DAT
+Patchwork Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_C_BOOTS.DAT
+Patchwork Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_C_BOOTS_ALT_C.DAT
+Patchwork Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_C_BOOTS_ALT_B.DAT
+Pathfinder Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_06_BOOTS.DAT
+Pathfinder Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_06_BOOTS_ALT_C.DAT
+Pathfinder Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_06_BOOTS_ALT_B.DAT
+Perdurabo Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_04_BOOTS.DAT
+Phoenix Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_G_BOOTS.DAT
+Phoenix Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_G_BOOTS_ALT_B.DAT
+Phoenix Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_G_BOOTS_ALT_C.DAT
+Pioneer Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_03_BOOTS.DAT
+Pioneer Footwraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_03_BOOTS_ALT_B.DAT
+Pioneer Moccasins.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_03_BOOTS_ALT_C.DAT
+Plate Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_A_BOOTS.DAT
+Plate Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_A_BOOTS_ALT_C.DAT
+Plate Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_A_BOOTS_ALT_B.DAT
+Pleated Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_E_BOOTS.DAT
+Pleated Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS.DAT
+Pleated Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_E_BOOTS_ALT_C.DAT
+Pleated Shin-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_E_BOOTS_ALT_B.DAT
+Plumb-Bob Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_04_BOOTS_ALT_C.DAT
+Ponya Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PONYA_01_BOOTS.DAT
+Praetorian Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_G_BOOTS.DAT
+Praetorian Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_G_BOOTS_ALT_C.DAT
+Praetorian Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_G_BOOTS_ALT_B.DAT
+Precision Pedometric Footgear.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOCKWORK_01_BOOTS_ALT_B.DAT
+Rail-Forge Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_06_BOOTS_ALT_C.DAT
+Railforged Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_02_BOOTS_ALT_SET.DAT
+Railman Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_02_BOOTS_ALT_B.DAT
+Rawhide Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FURHIDE_01_BOOTS.DAT
+Rawhide Moccasins.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FURHIDE_01_BOOTS_ALT_B.DAT
+Rawhide Turn-Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FURHIDE_01_BOOTS_ALT_C.DAT
+Redscale Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_C_BOOTS.DAT
+Redscale Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_C_BOOTS_ALT_C.DAT
+Redscale Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_C_BOOTS_ALT_B.DAT
+Regent Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_02_BOOTS.DAT
+Regent Cloth Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_02_BOOTS_ALT_B.DAT
+Regent Silk Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_02_BOOTS_ALT_C.DAT
+Rhino-Hide Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS.DAT
+Rhino-Hide Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS_ALT_C.DAT
+Rhino-Hide Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_F_BOOTS_ALT_B.DAT
+Ringed Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_01_BOOTS.DAT
+Ringed Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_01_BOOTS_ALT_B.DAT
+Ringed Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_01_BOOTS_ALT_C.DAT
+Ritual Janissary Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\DEZROHIR_02_BOOTS_ALT_SET.DAT
+Rohac's Comic Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PONYA_01_BOOTS_ALT_ROHAC.DAT
+Runemaster Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STURM_01_BOOTS_ALT_SET.DAT
+Salamander Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_G_BOOTS.DAT
+Salamander Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_G_BOOTS_ALT_C.DAT
+Salamander Shin-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_G_BOOTS_ALT_B.DAT
+Sandals of the Heirophant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_03_BOOTS.DAT
+Savage Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_05_BOOTS_ALT_SET.DAT
+Scale Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_E_BOOTS.DAT
+Scale Chausses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_E_BOOTS_ALT_B.DAT
+Scale Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\MEDIUM_E_BOOTS_ALT_C.DAT
+Segmented Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_D_BOOTS.DAT
+Segmented Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_D_BOOTS_ALT_C.DAT
+Segmented Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_D_BOOTS_ALT_B.DAT
+Sentinel Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VANQUISHER_01_BOOTS_ALT_SET.DAT
+Settler Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_02_BOOTS.DAT
+Settler Footwraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_02_BOOTS_ALT_B.DAT
+Settler Moccasins.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_02_BOOTS_ALT_C.DAT
+Shoes of Sodalis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_06_BOOTS_ALT_B.DAT
+Shoes of the Lastwalk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_01_BOOTS_ALT_C.DAT
+Sinfully Ugly Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_02_BOOTS_ALT_C.DAT
+Slippers of Dread.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_02_BOOTS_ALT_B.DAT
+Slippers of the Cloud Lord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_01_BOOTS_ALT_B.DAT
+Slippers of the Ebon Magister.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_01_BOOTS_ALT_B.DAT
+Snowcoursers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_03_BOOTS_ALT_B.DAT
+Snowliners.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_03_BOOTS_ALT_C.DAT
+Steel Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_F_BOOTS.DAT
+Steel Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_F_BOOTS_ALT_C.DAT
+Steel Sollerets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_F_BOOTS_ALT_B.DAT
+Stone Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STONE_01_BOOTS.DAT
+Stone Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STONE_01_BOOTS_ALT_C.DAT
+Stone Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STONE_01_BOOTS_ALT_B.DAT
+Stormfront Stompers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_06_BOOTS_ALT_B.DAT
+Stregheria Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_02_BOOTS_ALT_B.DAT
+Sturdy Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_01_BOOTS.DAT
+Sturdy Brogans.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_01_BOOTS_ALT_C.DAT
+Sturdy Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HEAVY_01_BOOTS_ALT_B.DAT
+Sturmbeorn Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STURM_01_BOOTS.DAT
+Sturmbeorn Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STURM_01_BOOTS_ALT_C.DAT
+Sturmbeorn Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\STURM_01_BOOTS_ALT_B.DAT
+Surveyor Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_04_BOOTS.DAT
+Tarroch's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_05_BOOTS.DAT
+Tarroch's Hobnail Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_05_BOOTS_ALT_C.DAT
+Tarroch's Tackety Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_05_BOOTS_ALT_B.DAT
+Tenebra's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_01_BOOTS.DAT
+Tenebris Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_02_BOOTS.DAT
+Thargo's Mighty Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_04_BOOTS_ALT_B.DAT
+The Boots of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BONE_01_BOOTS.DAT
+The Greaves of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BONE_01_BOOTS_ALT_C.DAT
+The Trollboots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_01_BOOTS_ALT_B.DAT
+The Voynich Sandals.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_03_BOOTS_ALT_B.DAT
+Thuggs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_04_BOOTS.DAT
+Trailblazer Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_07_BOOTS.DAT
+Trailblazer Clog Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_07_BOOTS_ALT_C.DAT
+Trailblazer Clogs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\COLONIST_07_BOOTS_ALT_B.DAT
+Trancendent Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_06_BOOTS_ALT_SET.DAT
+True Estheria Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ESTHERIAN_01_BOOTS_ALT_SET.DAT
+True North Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\BERSERKER_02_BOOTS_ALT_SET.DAT
+Unearthly Hikers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_06_BOOTS_ALT_SET.DAT
+Valkyrie Sabatons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\LIGHT_G_BOOTS_ALT_SET.DAT
+Vance's Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_02_BOOTS_ALT_C.DAT
+Vanquisher Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VANQUISHER_01_BOOTS.DAT
+Varkolyn Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VARKOLYN_01_BOOTS.DAT
+Varkolyn Claw-Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VARKOLYN_01_BOOTS_ALT_B.DAT
+Varkolyn Talon-Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\VARKOLYN_01_BOOTS_ALT_C.DAT
+Walkabout Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_02_BOOTS.DAT
+Wanderlust Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_02_BOOTS_ALT_SET.DAT
+Warcaster Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_05_BOOTS.DAT
+War-Dog Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\PONYA_01_BOOTS_ALT_C.DAT
+Warlock Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_04_BOOTS_ALT_B.DAT
+Warlock Shoes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HUNTER_01_BOOTS.DAT
+Wayfarers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_04_BOOTS_ALT_B.DAT
+Wazir Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_02_BOOTS.DAT
+Wazir Cloth Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_02_BOOTS_ALT_B.DAT
+Wazir Silk Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_02_BOOTS_ALT_C.DAT
+Whisperstep Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_01_BOOTS_ALT_C.DAT
+Wightboots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\NETHERIM_02_BOOTS.DAT
+Wildwood Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\FOREST_01_BOOTS_ALT_SET.DAT
+Witchfinder Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\HUNTER_01_BOOTS_ALT_C.DAT
+Work-Boots of Overtime.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_03_BOOTS.DAT
+Woven Gaiters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CLOTH_F_BOOTS_ALT_D.DAT
+Zeraphi Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_01_BOOTS.DAT
+Zeraphi Cloth Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_01_BOOTS_ALT_B.DAT
+Zeraphi Silk Slippers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ZERAPHI_01_BOOTS_ALT_C.DAT
+Zidders' Boots of the Roo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\CASTER_03_BOOTS_ALT_D.DAT
+Zidders' Flitters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\WANDERER_03_BOOTS_ALT_C.DAT
+Zugmeister's Boots.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BOOTS\ENGINEER_02_BOOTS.DAT

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets" Imagefile="media/ui/icons/pets/pets.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="pandaiconselected" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="pandaiconhover" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="pandaicon" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="owliconselected" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="owliconhover" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="owlicon" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="lynxiconselected" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="lynxiconhover" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="lynxicon" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="headcrabiconselected" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="headcrabiconhover" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="headcrabicon" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="hawkiconselected" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="hawkiconhover" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="hawkicon" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="ferreticonselected" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

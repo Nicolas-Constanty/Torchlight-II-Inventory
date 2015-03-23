@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "deathmenu" Imagefile="media/ui/icons/deathmenu/deathmenu.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="headpiece" XPos="1" YPos="1" Width="333" Height="102" />
+	<Image Name="ig_resurrection_cards_unselected" XPos="336" YPos="1" Width="249" Height="384" />
+	<Image Name="ig_resurrection_cards_selected" XPos="587" YPos="1" Width="249" Height="384" />
+	<Image Name="ig_resurrection_cards_hilited" XPos="1" YPos="105" Width="249" Height="384" />
+	<Image Name="ig_resurrection_panel_town_selected" XPos="336" YPos="387" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_town_rollover" XPos="578" YPos="387" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_town" XPos="1" YPos="491" Width="240" Height="365" />
+</Imageset>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "gems1" Imagefile="media/ui/icons/gems/gems1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_flame_ember4" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_flame_ember3" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_flame_ember2" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_flame_ember1" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_die" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_coin" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember7" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember6" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember5" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember4" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember3" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember2" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_chaos_ember1" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_bolt" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_blood_tooth" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_blood_fang" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_blood_ember7" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember6" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember5" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember4" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember3" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember2" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_blood_ember1" XPos="385" YPos="129" Width="62" Height="62" />
+</Imageset>

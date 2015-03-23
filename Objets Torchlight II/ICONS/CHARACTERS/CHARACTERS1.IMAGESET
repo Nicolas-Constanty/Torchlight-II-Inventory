@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "characters1" Imagefile="media/ui/icons/characters/characters1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="berserkericonmale" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="berserkericonhovermale" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="berserkericonhoverfemale" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="berserkericonfemale" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="arbitericonselectedmale" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="arbitericonselectedfemale" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="arbitericonmale" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="arbitericonhovermale" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="arbitericonhoverfemale" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="arbitericonfemale" XPos="128" YPos="256" Width="128" Height="128" />
+</Imageset>

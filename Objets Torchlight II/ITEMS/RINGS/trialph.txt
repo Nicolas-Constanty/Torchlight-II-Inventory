@@ -1,0 +1,371 @@
+﻿Alchemical Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_ALT_SET.DAT
+Alchemist Ring of Blood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_FINAL_BERSKERKER.DAT
+Alchemist Ring of Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_FINAL_EMBERMAGE.DAT
+Alchemist Ring of Iron.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_FINAL_ENGINEER.DAT
+Alchemist Ring of Sand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_FINAL_OUTLANDER.DAT
+Antikythering.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_F_ALT_C.DAT
+Argonaut Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_E_ALT_SET.DAT
+Aristocrat Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PIMP_01_RING_ALT_SET.DAT
+Babbage Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_E_ALT_C.DAT
+Badlands Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DESERT_01_RING_ALT_SET.DAT
+Bale Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_03_RING.DAT
+Bao Bei's Ring of Forever.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_E.DAT
+Bloodcurdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_P_ALT_C.DAT
+Bloodsteam Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_G_RING_ALT_SET.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_01_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_03_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_04_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_05_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_06_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_07_RING_F.DAT
+Blue Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_08_RING_F.DAT
+Blue Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_02_RING_F.DAT
+Blue Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DESERT_01_RING_E.DAT
+Blue Forest Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FOREST_01_RING_I.DAT
+Blue Lich Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_LICHRING_MANA.DAT
+Blue Mountain Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MOUNTAIN_01_RING_I.DAT
+Blue Vanquisher Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VANQUISHER_01_RING_I.DAT
+Brightember Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\EMBER_01_RING_ALT_C.DAT
+Celestial Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_E_ALT_SET.DAT
+Ceremonial Ezrohir Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DEZROHIR_01_RING_ALT_SET.DAT
+Clovenhoof Loop.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FURHIDE_01_RING_ALT_SET.DAT
+Corbucci's Fortune.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_06_RING_SET_CORBUCCI.DAT
+Coupler Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_02_RING_ALT_C.DAT
+Coyband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_02_RING.DAT
+Crickmer's Ring of Forever.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_E_ALT_C.DAT
+Dextrix.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_E_ALT_B.DAT
+Dragonrift Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_G_RING_ALT_SET.DAT
+Dwarfking Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DWARF_01_RING_ALT_SET.DAT
+Dwarven Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DWARF_01_RING_E.DAT
+Dwarven Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DWARF_01_RING_P.DAT
+Dwarven Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DWARF_01_RING_F.DAT
+Dwarven Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DWARF_01_RING_I.DAT
+Ecclesband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_02_RING_ALT_C.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_A_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_C_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_D_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_E_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_F_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_G_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_01_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_A_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_C_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_D_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_E_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_F_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_G_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_01_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_A_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_C_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_D_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_E_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_F_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_G_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_01_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_A_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_C_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_D_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_E_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_F_RING_E.DAT
+Electric Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_G_RING_E.DAT
+Ember Eye Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\EMBER_01_RING.DAT
+Embercraft Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_04_RING_ALT_SET.DAT
+Embershard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\EMBER_01_RING_ALT_B.DAT
+Emberweave Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_05_RING_ALT_SET.DAT
+Estherian Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_01_RING_E.DAT
+Estherian Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_01_RING_P.DAT
+Estherian Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_01_RING_F.DAT
+Estherian Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_01_RING_I.DAT
+Exorcist Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VARKOLYN_01_RING_ALT_SET.DAT
+Ezrohir Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DEZROHIR_01_RING.DAT
+Feral Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_04_RING_ALT_SET.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_A_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_C_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_D_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_E_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_F_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_G_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_01_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_A_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_C_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_D_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_E_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_F_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_G_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_01_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_A_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_C_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_D_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_E_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_F_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_G_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_01_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_A_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_C_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_D_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_E_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_F_RING_F.DAT
+Fire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_G_RING_F.DAT
+Firebox Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_03_RING_ALT_C.DAT
+Forgecrafted Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_04_RING_ALT_SET.DAT
+Formal Regent Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_02_RING_ALT_SET.DAT
+Fragmentos.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_I.DAT
+Gearspring Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_E_ALT_B.DAT
+Ghostfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_P.DAT
+Gibson's Ring of Forever.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_E_ALT_B.DAT
+Gleamfire.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_P_ALT_C.DAT
+Glimmerdoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_I.DAT
+Gloomband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_E_ALT_B.DAT
+Gloomcircle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_E_ALT_C.DAT
+Gloomring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_E.DAT
+Grand Wazir Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_02_RING_ALT_SET.DAT
+Granite Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STONE_01_RING_ALT_SET.DAT
+Green Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DESERT_01_RING_F.DAT
+Green Forest Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FOREST_01_RING_P.DAT
+Green Mountain Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MOUNTAIN_01_RING_P.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_01_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_02_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_03_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_04_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_05_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_06_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_07_RING_I.DAT
+Green Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_08_RING_I.DAT
+Green Vanquisher Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VANQUISHER_01_RING_P.DAT
+Grell's Personal Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_GRELLS_RING.DAT
+Harbinger Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_06_RING_ALT_SET.DAT
+Heartsalve.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_REGENRING.DAT
+Hexenring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_05_RING_ALT_C.DAT
+Highridge Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MOUNTAIN_01_RING_ALT_SET.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_A_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_C_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_D_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_E_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_F_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_G_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_01_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_A_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_C_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_D_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_E_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_F_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_G_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_01_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_A_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_C_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_D_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_E_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_F_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_G_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_01_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_A_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_C_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_D_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_E_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_F_RING_I.DAT
+Ice Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_G_RING_I.DAT
+Imperial Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PIMP_01_RING_E.DAT
+Imperial Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PIMP_01_RING_P.DAT
+Imperial Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PIMP_01_RING_F.DAT
+Imperial Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PIMP_01_RING_I.DAT
+Inquisitor Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_G_RING_ALT_SET.DAT
+Janissary Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DEZROHIR_02_RING.DAT
+Jerich's Ring of Elements.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_JERICHS_RING.DAT
+Liberation Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_04_RING_ALT_SET.DAT
+Mainspring Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_E.DAT
+Mondon's Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_06_RING_ALT_SET.DAT
+Mosby's Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_05_RING_ALT_B.DAT
+Nargothrel's Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_BONE_01_RING_NARGOTHREL .DAT
+Necrotic Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_E_ALT_SET.DAT
+Orrery Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_I_ALT_C.DAT
+Outburst.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_03_RING.DAT
+Pandectos.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_04_RING_ALT_C.DAT
+Piston Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_02_RING_ALT_B.DAT
+Plunderlust.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_05_RING_ALT_C.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_A_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_C_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_D_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_E_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_F_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOTH_G_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_01_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_A_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_C_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_D_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_E_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_F_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HEAVY_G_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_01_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_A_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_C_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_D_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_E_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_F_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_G_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_01_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_A_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_C_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_D_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_E_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_F_RING_P.DAT
+Poison Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MEDIUM_G_RING_P.DAT
+Railspike Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_02_RING.DAT
+Ratchet Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_F.DAT
+Rawhide Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FURHIDE_01_RING_E.DAT
+Rawhide Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FURHIDE_01_RING_P.DAT
+Rawhide Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FURHIDE_01_RING_F.DAT
+Rawhide Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FURHIDE_01_RING_I.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_01_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_02_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_03_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_04_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_05_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_06_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_07_RING_E.DAT
+Red Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_08_RING_E.DAT
+Red Forest Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FOREST_01_RING_F.DAT
+Red Glow Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DESERT_01_RING_P.DAT
+Red Lich Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_LICHRING_HEALTH.DAT
+Red Mountain Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MOUNTAIN_01_RING_F.DAT
+Red Vanquisher Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VANQUISHER_01_RING_F.DAT
+Regent Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_02_RING_E.DAT
+Regent Fang Vo Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_02_RING_P.DAT
+Regent Flame Vo Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_02_RING_F.DAT
+Regent Shard Vo Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_02_RING_I.DAT
+Ring of Assessment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_04_RING_ALT_B.DAT
+Ring of Dead Kings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_06_RING.DAT
+Ring of Exploration.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_03_RING_ALT_B.DAT
+Ring of Fallen Heroes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_06_RING_ALT_B.DAT
+Ring of Larissa the Autocrat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_02_RING.DAT
+Ring of Legend.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_06_RING_ALT_C.DAT
+Ring of Oan.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_E.DAT
+Ring of Rings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_03_RING_ALT_C.DAT
+Ring of Sim.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_F_ALT_C.DAT
+Ring of Thayn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_05_RING.DAT
+Ring of the Arch-Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_06_RING_ALT_C.DAT
+Ring of the Dragon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_I_ALT_B.DAT
+Ring of the Dungeon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_I_ALT_C.DAT
+Ring of the Fetcher King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_F_ALT_B.DAT
+Ring of the Five Legends.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_03_RING.DAT
+Ring of the Lords.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_03_RING_ALT_B.DAT
+Ring of the Marauder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_05_RING.DAT
+Ring of the Oathbreaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HUNTER_01_RING_ALT_B.DAT
+Ring of the Players.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_05_RING_ALT_B.DAT
+Ring of the Rising Road.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_03_RING.DAT
+Ring of the Steward.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_05_RING_ALT_C.DAT
+Ring of the Warlock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HUNTER_01_RING.DAT
+Ring of the West.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_04_RING.DAT
+Ring of the Wick.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_06_RING.DAT
+Ring of the Witchfinder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\HUNTER_01_RING_ALT_C.DAT
+Ring of the Wordbinder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_04_RING_ALT_C.DAT
+Ritual Janissary Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DEZROHIR_02_RING_ALT_SET.DAT
+Runemaster Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STURM_01_RING_ALT_SET.DAT
+Runering.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_02_RING.DAT
+Sentinel Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VANQUISHER_01_RING_ALT_SET.DAT
+Shadowdoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_I.DAT
+Shadowthorn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_P_ALT_C.DAT
+Shandor's Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_05_RING.DAT
+Shatterdark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_I_ALT_C.DAT
+Signet of the Jarls.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_02_RING_ALT_C.DAT
+Sinistrix.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_E_ALT_C.DAT
+Six-Stick Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_I.DAT
+Smokebox Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_03_RING_ALT_B.DAT
+Spellfire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_05_RING_ALT_B.DAT
+Spellgunner's Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_05_RING.DAT
+Spinechill.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_P_ALT_B.DAT
+Splinterdark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_P.DAT
+Splintergloom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_P_ALT_B.DAT
+Splinterjade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_I_ALT_B.DAT
+Stone Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STONE_01_RING_E.DAT
+Stone Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STONE_01_RING_P.DAT
+Stone Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STONE_01_RING_F.DAT
+Stone Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STONE_01_RING_I.DAT
+Sturm Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STURM_01_RING_E.DAT
+Sturm Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STURM_01_RING_P.DAT
+Sturm Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STURM_01_RING_F.DAT
+Sturm Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\STURM_01_RING_I.DAT
+The Astrolabe Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_P.DAT
+The Blackburne Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_F.DAT
+The Blackburne Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_F_ALT_B.DAT
+The Blackburne Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_F_ALT_C.DAT
+The Broken Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_04_RING.DAT
+The Cast-Iron Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_06_RING.DAT
+The Circle of Shadows.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_01_RING_I_ALT_B.DAT
+The Corona.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_06_RING_ALT_C.DAT
+The Deep One Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_06_RING_ALT_B.DAT
+The Effrenatus Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_02_RING_ALT_B.DAT
+The Ethereal Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_E_ALT_B.DAT
+The Funkenring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_P.DAT
+The Gann Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_02_RING_ALT_B.DAT
+The Ghoulfire Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_F_ALT_B.DAT
+The Glittergreen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_P_ALT_B.DAT
+The Halo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_06_RING_ALT_B.DAT
+The Howling Flame.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_F_ALT_B.DAT
+The Ivory Signet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_02_RING_ALT_B.DAT
+The Laughing Blaze.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_F_ALT_C.DAT
+The Long and Winding Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_03_RING_ALT_C.DAT
+The Nether-Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_E_ALT_C.DAT
+The Nimbus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_06_RING.DAT
+The Ravenous Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_P_ALT_C.DAT
+The Ring of Bolruk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_04_RING.DAT
+The Ring of Ethereal Flame.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_F.DAT
+The Ring of Fangs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_05_RING_ALT_B.DAT
+The Ring of Ludo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_F.DAT
+The Ring of Necromius.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_E.DAT
+The Ring of Steel on Steel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_06_RING_ALT_C.DAT
+The Ring of Versipellis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\PONYA_01_RING_P_ALT_B.DAT
+The Ring of Vitrifilius.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_02_RING_ALT_C.DAT
+The Runeband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_04_RING_ALT_B.DAT
+The Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_04_RING_ALT_C.DAT
+The Singing Fire.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_F.DAT
+The Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZZZ_SKULLRING.DAT
+The Spellband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_04_RING.DAT
+The Spellring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_04_RING_ALT_C.DAT
+The Stormring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_03_RING_ALT_C.DAT
+The Sundered Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_04_RING_ALT_B.DAT
+The Vitruvian Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_05_RING_ALT_C.DAT
+The Watchweald Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_P.DAT
+The Wrought-Iron Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ENGINEER_06_RING_ALT_B.DAT
+The Wyrdfire Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_F_ALT_C.DAT
+The Wyrdshard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_I.DAT
+The Wyrdsplinter Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_I_ALT_B.DAT
+Threaded Nut.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\Z_ENGINEER_05_RING_SET.DAT
+Tinkerband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_I_ALT_B.DAT
+Torque Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_F_ALT_B.DAT
+Torquetum Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_P_ALT_C.DAT
+Trancendent Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CASTER_06_RING_ALT_SET.DAT
+True Estheria Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ESTHERIAN_01_RING_ALT_SET.DAT
+Turquet Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\CLOCKWORK_01_RING_P_ALT_B.DAT
+Twisted Companion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_SET_TWISTEDTOOLS.DAT
+Unearthly Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_06_RING_ALT_SET.DAT
+Valkyrie Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\LIGHT_G_RING_ALT_SET.DAT
+Varkolyn Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VARKOLYN_01_RING_E.DAT
+Varkolyn Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VARKOLYN_01_RING_P.DAT
+Varkolyn Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VARKOLYN_01_RING_F.DAT
+Varkolyn Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VARKOLYN_01_RING_I.DAT
+Viridiax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BONE_01_RING_I_ALT_C.DAT
+Wanderer Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_E.DAT
+Wazir Ka Bolt Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_02_RING_E.DAT
+Wazir Ka Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_02_RING_P.DAT
+Wazir Ka Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_02_RING_F.DAT
+Wazir Ka Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_02_RING_I.DAT
+Wildwood Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FOREST_01_RING_ALT_SET.DAT
+Wrathring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_03_RING_ALT_B.DAT
+Wright's Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\WANDERER_04_RING_ALT_B.DAT
+Wyrdwrath.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\NETHERIM_02_RING_I_ALT_C.DAT
+Xtro's Horn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\BERSERKER_04_RING_SET_XTRO.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_01_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_02_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_03_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_04_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_05_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_06_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_07_RING_P.DAT
+Yellow Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\COLONIST_08_RING_P.DAT
+Yellow Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\DESERT_01_RING_I.DAT
+Yellow Forest Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\FOREST_01_RING_E.DAT
+Yellow Mountain Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\MOUNTAIN_01_RING_E.DAT
+Yellow Vanquisher Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\VANQUISHER_01_RING_E.DAT
+Zeraphi Fang Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_P.DAT
+Zeraphi Flame Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_F.DAT
+Zeraphi Shard Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RINGS\ZERAPHI_01_RING_I.DAT

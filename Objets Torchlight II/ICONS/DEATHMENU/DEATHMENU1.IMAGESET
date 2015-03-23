@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "deathmenu1" Imagefile="media/ui/icons/deathmenu/deathmenu1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ig_resurrection_panel_entrance_selected" XPos="1" YPos="1" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_entrance_rollover" XPos="243" YPos="1" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_entrance" XPos="485" YPos="1" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_current_selected" XPos="727" YPos="1" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_current_rollover" XPos="1" YPos="368" Width="240" Height="365" />
+	<Image Name="ig_resurrection_panel_current" XPos="243" YPos="368" Width="240" Height="365" />
+</Imageset>

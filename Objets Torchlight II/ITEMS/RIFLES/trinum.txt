@@ -1,0 +1,80 @@
+﻿1:Rookie Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N00.DAT
+3:Shortbarrel Carbine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M01.DAT
+4:Farmer's Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N01.DAT
+6:Flintlock Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M01B.DAT
+6:Scout Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N01B.DAT
+6:Bearstopper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U01.DAT
+9:Boxlock Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M01C.DAT
+9:Ember-Sights Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M01SLOTS.DAT
+9:Musketoon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N01C.DAT
+10:Boomstick.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U01B.DAT
+12:Levergun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M02.DAT
+12:Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N02.DAT
+14:Baron Falkenstein's Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U01C.DAT
+15:Eight Gauge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M02B.DAT
+15:MacReady's Shotgun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\ZZZ_RIFLE_U02_MACREADYS.DAT
+16:Long Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N02B.DAT
+18:Seven Gauge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M02C.DAT
+18:Four-Gauge Heavy Rifle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M02SLOTS.DAT
+18:Thundergun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U02.DAT
+20:Big Bore Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N02C.DAT
+21:Bladed Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M03.DAT
+22:Thunderbuss.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U02B.DAT
+24:Roomsweeper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M03B.DAT
+25:Military Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N03.DAT
+26:Thunderstrike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U02C.DAT
+27:Imperial Trench-Rifle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M03SLOTS.DAT
+28:Black-Powder Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M03C.DAT
+30:Soldier's Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N03B.DAT
+31:Cold-Gas Blastgun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U03.DAT
+32:Drumfed Musket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M04.DAT
+35:Twelve Gauge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N03C.DAT
+36:Vented Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M04B.DAT
+36:Raleigh Claire.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U03B.DAT
+39:Air-Cooled Battle Rifle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M04SLOTS.DAT
+40:Leadthrower.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M04C.DAT
+40:Leone's Masterpiece.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U06_SET_LEONE.DAT
+41:Breach Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N04.DAT
+41:Lifespring Sniper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U03C.DAT
+44:Scattergun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M05.DAT
+46:Lupara.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U04.DAT
+47:Brass-Barrel Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N04B.DAT
+48:Bone-Barrel Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M05B.DAT
+51:Bone-Spined Carbine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M05SLOTS.DAT
+51:Gray Sky Omen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U04B.DAT
+52:Spinegun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M05C.DAT
+54:Coach Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N04C.DAT
+56:Quad-Barrel Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M06.DAT
+56:Fleshrender.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U04C.DAT
+59:Mutant Action.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY_RIFLE01.DAT
+61:Foursquare Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M06B.DAT
+61:Heavy Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N05.DAT
+61:Bulletsnake.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U05.DAT
+64:Quad-Barrel Mine Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M06SLOTS.DAT
+66:Rotating Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M06C.DAT
+66:Lead-Spitting Cobra.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U05B.DAT
+68:Hunter's Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N05B.DAT
+71:Rune-Barrel Musket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M07.DAT
+71:Bullet Naga.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U05C.DAT
+75:Over-Under Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N05C.DAT
+76:Rune-Barrel Carbine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M07B.DAT
+76:Screwbarrel Express.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U06.DAT
+79:800 Bullets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY_RIFLE02.DAT
+79:Rune-Etched Ember Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M07SLOTS.DAT
+81:Runic Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M07C.DAT
+81:Tesla's Coilgun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U06B.DAT
+82:Blundergun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N06.DAT
+86:Steampowered Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M08.DAT
+86:Menace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U06C.DAT
+89:Bayonet Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N06B.DAT
+91:Cog and Gear Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M08B.DAT
+91:The Clonus Horror.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U07.DAT
+94:Steam-Valve Rifle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M08SLOTS.DAT
+96:Pneumatic Blastgun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_M08C.DAT
+96:Pump Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_N06C.DAT
+96:Tesla's Lament.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U07B.DAT
+99:The Day of the Beast.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY_RIFLE03.DAT
+100:Earth's Roar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\RIFLE_U07C.DAT
+105:Tri-force Catalyst.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY2_RIFLE04.DAT
+105:Bloom's Margin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY2_RIFLE04B.DAT
+105:Netherrealm Shotgonne.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\RIFLES\LEGENDARY2_RIFLE04C.DAT

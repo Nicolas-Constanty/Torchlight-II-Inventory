@@ -1,0 +1,90 @@
+﻿-1:The Earth Dies Screaming.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY_WAND05.DAT
+2:Fire Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N01.DAT
+3:Glowing Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M01.DAT
+5:Ice Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N01B.DAT
+6:Bone Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M01B.DAT
+6:Powerspike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U01.DAT
+8:Poison Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N01C.DAT
+9:Witch-Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M01C.DAT
+9:Gem-Studded Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M01SLOTS.DAT
+10:Worldspike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U01B.DAT
+10:Grell's Toxic Reach.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\ZZZ_GRELLS_WAND1.DAT
+10:Grell's Shocking Reach.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\ZZZ_GRELLS_WAND2.DAT
+12:Shard-Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M02.DAT
+12:Ice-Crystal Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N02.DAT
+14:Iceberg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U01C.DAT
+15:Shard-Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M02B.DAT
+15:Infested Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U02X.DAT
+15:Twinferno Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\Z_WAND_M01_SET.DAT
+16:Plague-Crystal Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N02B.DAT
+18:Shard-Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M02C.DAT
+18:Shalestone Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M02SLOTS.DAT
+18:Goat Head Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U02.DAT
+20:Glow-Crystal Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N02C.DAT
+21:Old-Tooth Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M03.DAT
+22:Grimbone Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U02B.DAT
+24:Fang Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M03B.DAT
+25:Poison Branch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N03.DAT
+26:Suicide Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U02C.DAT
+27:Dragonclaw Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M03SLOTS.DAT
+28:Spike-Tooth Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M03C.DAT
+30:Electric Branch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N03B.DAT
+31:Parafex.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U03.DAT
+31:Ariki'ku'tara kon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U06X.DAT
+32:Ceremonial Brand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M04.DAT
+35:Fire Branch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N03C.DAT
+35:The Scorcher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_UM05X.DAT
+36:Brass Brand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M04B.DAT
+36:Timefork.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U03B.DAT
+39:Ember Crook.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M04SLOTS.DAT
+40:Steel Brand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M04C.DAT
+41:Electric Barsom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N04.DAT
+41:Victory's Bend.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U03C.DAT
+41:Shocking Grasp.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U03_SET_SHOCKSHARDS.DAT
+44:Beacon Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M05.DAT
+44:Fraxl's Star.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U07X.DAT
+46:The Snow Witch Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U04.DAT
+47:Fire Barsom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N04B.DAT
+48:Mage Beacon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M05B.DAT
+51:Cinder Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M05SLOTS.DAT
+51:The Ice Doom Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U04B.DAT
+51:Fractured Nexus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U05X.DAT
+52:Mage Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M05C.DAT
+54:A Song for Tomorrow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY_WAND01.DAT
+54:Poison Barsom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N04C.DAT
+56:Iceburn Focus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M06.DAT
+56:The Primitive God.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U04C.DAT
+61:Pestilence Focus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M06B.DAT
+61:Fire Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N05.DAT
+61:Fingerbone Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U05.DAT
+64:Arbiter Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M06SLOTS.DAT
+65:The Black Glove.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY_WAND02.DAT
+66:Storm Focus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M06C.DAT
+66:Lichlore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U05B.DAT
+68:Ice Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N05B.DAT
+71:Serpent Spike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M07.DAT
+71:The Banewand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U05C.DAT
+75:Poison Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N05C.DAT
+75:The Swarm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U04X.DAT
+76:Wyvern Spike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M07B.DAT
+76:Cryptdrinker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U06.DAT
+76:Blizzard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U07_SET_WINTERSREACH.DAT
+77:The Astonished Heart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY_WAND03.DAT
+79:Silverisle Dracoduceus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M07SLOTS.DAT
+81:Dragon Spike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M07C.DAT
+81:The Wyrdwand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U06B.DAT
+82:Mage Barsom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N06.DAT
+86:Archmage Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M08.DAT
+86:Duncaen's Hazel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U06C.DAT
+88:Four Sided Triangle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY_WAND04.DAT
+89:Mage Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N06B.DAT
+91:Archmage Baton.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M08B.DAT
+91:Fraxl's Astrolabe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U07.DAT
+94:Bedima Augur Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M08SLOTS.DAT
+96:Archmage Scepter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_M08C.DAT
+96:Mage Brand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_N06C.DAT
+96:The Light of Dawn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U07B.DAT
+100:Galaxy Quest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\WAND_U07C.DAT
+105:The Prophecy.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY2_WAND06.DAT
+105:Magus Scream.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY2_WAND06B.DAT
+105:Netherrealm Wand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\WANDS\LEGENDARY2_WAND06C.DAT

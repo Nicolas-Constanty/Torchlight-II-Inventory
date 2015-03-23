@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "quest" Imagefile="media/ui/icons/questitems/quest.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="zeraphi_wrappings" XPos="0" YPos="0" Width="62" Height="62" />
+	<Image Name="trollcrown" XPos="62" YPos="0" Width="62" Height="62" />
+	<Image Name="trillbot_pipes" XPos="124" YPos="0" Width="62" Height="62" />
+	<Image Name="trillbot_head" XPos="186" YPos="0" Width="62" Height="62" />
+	<Image Name="trillbot_drum" XPos="0" YPos="62" Width="62" Height="62" />
+	<Image Name="trillbot_body" XPos="62" YPos="62" Width="62" Height="62" />
+	<Image Name="trillbot_arm" XPos="124" YPos="62" Width="62" Height="62" />
+	<Image Name="treasure" XPos="186" YPos="62" Width="62" Height="62" />
+	<Image Name="spider_egg" XPos="0" YPos="124" Width="62" Height="62" />
+	<Image Name="skull_quest" XPos="62" YPos="124" Width="62" Height="62" />
+	<Image Name="scroll" XPos="124" YPos="124" Width="62" Height="62" />
+	<Image Name="rosa_mortis" XPos="186" YPos="124" Width="62" Height="62" />
+	<Image Name="rift_ember" XPos="0" YPos="186" Width="62" Height="62" />
+	<Image Name="power_crystal" XPos="62" YPos="186" Width="62" Height="62" />
+	<Image Name="pocketwatch" XPos="124" YPos="186" Width="62" Height="62" />
+	<Image Name="plunger" XPos="186" YPos="186" Width="62" Height="62" />
+</Imageset>

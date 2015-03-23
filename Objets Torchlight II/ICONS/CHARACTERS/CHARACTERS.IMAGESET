@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "characters" Imagefile="media/ui/icons/characters/characters.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="wanderericonselectedmale" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="wanderericonselectedfemale" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="wanderericonmale" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="wanderericonhovermale" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="wanderericonhoverfemale" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="wanderericonfemale" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="unknownhover" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="unknown" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="engineericonselectedmale" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="engineericonselectedfemale" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="engineericonmale" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="engineericonhovermale" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="engineericonhoverfemale" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="engineericonfemale" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="berserkericonselectedmale" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="berserkericonselectedfemale" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

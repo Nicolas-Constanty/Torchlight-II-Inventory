@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets1" Imagefile="media/ui/icons/pets/pets1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="ferreticonhover" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="ferreticon" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="falcoriconselected" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="falcoriconhover" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="falcoricon" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="dogiconselected" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="dogiconhover" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="dogicon" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="deericonselected" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="deericonhover" XPos="128" YPos="256" Width="128" Height="128" />
+	<Image Name="deericon" XPos="256" YPos="256" Width="128" Height="128" />
+	<Image Name="chakawaryiconselected" XPos="384" YPos="256" Width="128" Height="128" />
+	<Image Name="chakawaryiconhover" XPos="0" YPos="384" Width="128" Height="128" />
+	<Image Name="chakawaryicon" XPos="128" YPos="384" Width="128" Height="128" />
+	<Image Name="bulldogiconselected" XPos="256" YPos="384" Width="128" Height="128" />
+	<Image Name="bulldogiconhover" XPos="384" YPos="384" Width="128" Height="128" />
+</Imageset>

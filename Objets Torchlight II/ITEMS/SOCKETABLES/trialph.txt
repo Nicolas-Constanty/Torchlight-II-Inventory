@@ -1,0 +1,172 @@
+﻿Assarian Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL002.DAT
+Black Basilisk Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\ZZZ_BASILISK_EYE3.DAT
+Blood Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK2.DAT
+Blood Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK3.DAT
+Blood Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK1.DAT
+Blood Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_BASE.DAT
+Blood Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK4.DAT
+Bondron Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL004.DAT
+Celh Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL006.DAT
+Chaos Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK2.DAT
+Chaos Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK3.DAT
+Chaos Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK1.DAT
+Chaos Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK4.DAT
+Claptrap's Bolt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CLAPTRAPBOLT.DAT
+Claptrap's Nut.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CLAPTRAPNUT.DAT
+Demoza Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL008.DAT
+Devil Fish Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\GEM_FISH_DEVIL.DAT
+Enchanted Component.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_PARTS_WEAPON3.DAT
+Eziro Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL010.DAT
+Fendix Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL012.DAT
+Flame Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK2.DAT
+Flame Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK3.DAT
+Flame Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK1.DAT
+Flame Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK4.DAT
+Giant Blood Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK7.DAT
+Giant Chaos Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK7.DAT
+Giant Flame Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK7.DAT
+Giant Ice Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK7.DAT
+Giant Iron Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK7.DAT
+Giant Spark Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK7.DAT
+Giant Venom Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK7.DAT
+Giant Void Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK7.DAT
+Grapilio Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL014.DAT
+Green Basilisk Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\ZZZ_BASILISK_EYE1.DAT
+Hokobo Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL016.DAT
+Huge Blood Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK6.DAT
+Huge Chaos Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK6.DAT
+Huge Flame Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK6.DAT
+Huge Ice Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK6.DAT
+Huge Iron Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK6.DAT
+Huge Spark Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK6.DAT
+Huge Venom Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK6.DAT
+Huge Void Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK6.DAT
+Ice Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK2.DAT
+Ice Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK3.DAT
+Ice Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK1.DAT
+Ice Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK4.DAT
+Iron Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK2.DAT
+Iron Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK3.DAT
+Iron Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK1.DAT
+Iron Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK4.DAT
+Ismeldan Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL018.DAT
+Jendenny Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL020.DAT
+Kelton's Rock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_KELTONSROCK.DAT
+Korox Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL022.DAT
+Large Blood Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_BLOODEMBER_RANK5.DAT
+Large Chaos Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_CHAOSEMBER_RANK5.DAT
+Large Flame Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_FLAMEEMBER_RANK5.DAT
+Large Ice Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_ICEEMBER_RANK5.DAT
+Large Iron Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_IRONEMBER_RANK5.DAT
+Large Spark Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK5.DAT
+Large Venom Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK5.DAT
+Large Void Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK5.DAT
+Lito Inso's Lens.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LENS.DAT
+Lovantine Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL024.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM1.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM2.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM3.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM4.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM5.DAT
+Lucky Coin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_GOLDGEM6.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM1.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM2.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM3.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM4.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM5.DAT
+Lucky Die.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_LUCKGEM6.DAT
+Lucky Fish Tooth.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\GEM_FISH_UNICORN.DAT
+Magic Component.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_PARTS_WEAPON2.DAT
+Marvelous Component.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_PARTS_WEAPON4.DAT
+Meerko Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL026.DAT
+Nephanic Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL028.DAT
+One-Eyed Willy's Other Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_WILLIESEYE.DAT
+Orpantile Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL030.DAT
+Penderal Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL032.DAT
+Pogg Slammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_POGGSLAMMER.DAT
+Qzmonda Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL034.DAT
+Rambren Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL036.DAT
+Rift Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\QUEST_MANAVENT_ACQUIRE.DAT
+Rift Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\QUEST_MANAVENT_REWARD.DAT
+Runic Component.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_PARTS_WEAPON5.DAT
+Shimmering Fish Scale.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\GEM_FISH_BONE.DAT
+Skull of Ando.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL001.DAT
+Skull of Benzirim.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL003.DAT
+Skull of Crimone.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL005.DAT
+Skull of Dakyte.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL007.DAT
+Skull of Erimony.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL009.DAT
+Skull of Festuur.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL011.DAT
+Skull of Grimdor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL013.DAT
+Skull of Haskool.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL015.DAT
+Skull of Imeena.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL017.DAT
+Skull of Joskin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL019.DAT
+Skull of Karandir.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL021.DAT
+Skull of Limoany.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL023.DAT
+Skull of Macaburg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL025.DAT
+Skull of Nopsil.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL027.DAT
+Skull of Omorox.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL029.DAT
+Skull of Pruntis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL031.DAT
+Skull of Quato.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL033.DAT
+Skull of Riechliu.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL035.DAT
+Skull of Samadow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL037.DAT
+Skull of Trenkay.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL039.DAT
+Skull of Umbarmun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL041.DAT
+Skull of Vastok.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL043.DAT
+Skull of Whorlbarb.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL045.DAT
+Skull of X'n!troph.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL047.DAT
+Skull of Yanfeer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL049.DAT
+Skull of Zardon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL051.DAT
+Sossimu Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL038.DAT
+Spark Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK2.DAT
+Spark Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK3.DAT
+Spark Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK1.DAT
+Spark Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SPARKEMBER_RANK4.DAT
+The Eye of Aleera.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFSISTER_ALEERA.DAT
+The Eye of Aruk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFARIKI_TARA.DAT
+The Eye of Bloatfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFBLOATFANG.DAT
+The Eye of Boletus Rex.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOBOLETUS.DAT
+The Eye of Cacklespit.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYECACKLESPIT.DAT
+The Eye of Eldrayn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFELDRAYN.DAT
+The Eye of Ezrek Khan.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFEZREK_KHAN.DAT
+The Eye of Gallo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFGALLO.DAT
+The Eye of Grell.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFGRELL.DAT
+The Eye of Grom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFGROM.DAT
+The Eye of Gunnbren.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFGUNNBREN.DAT
+The Eye of Jutham Kasam.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFJUTHAMA_KASAM.DAT
+The Eye of Kidrik.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFKIDRIK.DAT
+The Eye of King Pogg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFKINGPOGG.DAT
+The Eye of Marishka.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFSISTER_MARISHKA.DAT
+The Eye of Mordrox.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFMORDROX.DAT
+The Eye of Prion-Kuru.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFELDERKURU.DAT
+The Eye of Stennbrun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFSTENNBRUN.DAT
+The Eye of the Artificer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEARTIFICER.DAT
+The Eye of the Dark Alchemist.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFDARKALCHEMIST.DAT
+The Eye of the Dragon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEKILLBOT.DAT
+The Eye of the Grizzled Alpha.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEWEREWOLF.DAT
+The Eye of the Killbot.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEDRAGON.DAT
+The Eye of the Mana Guardian.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEMANAGUARDIAN.DAT
+The Eye of the Manaforged.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEMANAFORGED.DAT
+The Eye of the Manticore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEMANTICORE.DAT
+The Eye of the Netherlord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFNETHERLORD.DAT
+The Eye of the Wraith Lord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTHEWRAITHLORD.DAT
+The Eye of Tiamat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFTIAMAT.DAT
+The Eye of Verona.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFSISTER_VERONA.DAT
+The Eye of Winter Widow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_EYEOFWINTERWIDOW.DAT
+Tibbeek Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL040.DAT
+Unapom Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL042.DAT
+Unusual Component.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_PARTS_WEAPON1.DAT
+Vellinque Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL044.DAT
+Venom Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK2.DAT
+Venom Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK3.DAT
+Venom Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK1.DAT
+Venom Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VENOMEMBER_RANK4.DAT
+Void Ember Chip.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK2.DAT
+Void Ember Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK3.DAT
+Void Ember Speck.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK1.DAT
+Void Ember.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_VOIDEMBER_RANK4.DAT
+Vyrax's Heartfire.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_DRAGON_HEARTFIRE.DAT
+Wfuntir Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL046.DAT
+Xax Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL048.DAT
+Yellow Basilisk Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\ZZZ_BASILISK_EYE2.DAT
+Yololo Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL050.DAT
+Zardon's Mighty Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\SOCKETABLES\TL2_SKULL052.DAT

@@ -1,0 +1,303 @@
+﻿Adeptus Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_03_GLOVES_ALT_C.DAT
+Adventurer Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_08_GLOVES_ALT_B.DAT
+Adventurer Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_08_GLOVES_ALT_C.DAT
+Adventurer Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_08_GLOVES.DAT
+Alchemical Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_01_GLOVES_ALT_SET.DAT
+Anger Managers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_05_GLOVES.DAT
+Argonaut Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PONYA_01_GLOVES_ALT_SET.DAT
+Aristocrat Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PIMP_01_GLOVES_ALT_SET.DAT
+Ascendant Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_X07_GLOVES.DAT
+Babu's Lockpicking Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PONYA_01_GLOVES_ALT_C.DAT
+Backhanders.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_03_GLOVES.DAT
+Badlands Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DESERT_01_GLOVES_ALT_SET.DAT
+Battlemage Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_04_GLOVES_ALT_C.DAT
+Blood Leather Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VARKOLYN_01_GLOVES_SET_BLOODLEATHER.DAT
+Bloodsteam Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_G_GLOVES_ALT_SET.DAT
+Bludgeon Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_06_GLOVES_ALT_B.DAT
+Blunt Object Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_06_GLOVES_ALT_C.DAT
+Bracers ex Machina.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_03_GLOVES_ALT_B.DAT
+Bracers of the Accused.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_01_GLOVES_ALT_C.DAT
+Bracers of the Grimknight.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_02_GLOVES_ALT_B.DAT
+Bracers of the Winter Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_06_GLOVES_ALT_B.DAT
+Bracers of Wonder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_03_GLOVES_ALT_B.DAT
+Brawndonian Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_02_GLOVES_ALT_B.DAT
+Brixtan's Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_01_GLOVES_ALT_B.DAT
+Bronze Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_C_GLOVES_ALT_C.DAT
+Bronze Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_C_GLOVES.DAT
+Bronze Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_C_GLOVES_ALT_B.DAT
+Brujeria Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_02_GLOVES_ALT_C.DAT
+Builder Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_05_GLOVES_ALT_B.DAT
+Cabalist Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_02_GLOVES_ALT_SET.DAT
+Celestial Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOCKWORK_01_GLOVES_ALT_SET.DAT
+Ceremonial Ezrohir Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_01_GLOVES_ALT_SET.DAT
+Chain Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_C_GLOVES_ALT_B.DAT
+Chain Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_C_GLOVES_ALT_C.DAT
+Chain Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_C_GLOVES.DAT
+Chainmail Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_F_GLOVES_ALT_B.DAT
+Chainmail Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_F_GLOVES_ALT_C.DAT
+Chainmail Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_F_GLOVES.DAT
+Clockwork Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOCKWORK_01_GLOVES_ALT_C.DAT
+Cloth Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_A_GLOVES.DAT
+Cloth Mittens.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_A_GLOVES_ALT_C.DAT
+Cloth Mitts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_A_GLOVES_ALT_B.DAT
+Clovenhoof Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FURHIDE_01_GLOVES_ALT_SET.DAT
+Coldfingers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_01_GLOVES_ALT_C.DAT
+Colonist Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_01_GLOVES_ALT_C.DAT
+Colonist Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_01_GLOVES.DAT
+Colonist Wrist-Straps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_01_GLOVES_ALT_B.DAT
+Cool Hand Dukes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_01_GLOVES_ALT_B.DAT
+Corpseleather Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_02_GLOVES.DAT
+Cudgel Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_06_GLOVES.DAT
+Damascus Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_F_GLOVES_ALT_E.DAT
+Desert Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DESERT_01_GLOVES_ALT_C.DAT
+Desert Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DESERT_01_GLOVES.DAT
+Desert Wrist-Wraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DESERT_01_GLOVES_ALT_B.DAT
+Dominion Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_X07_GLOVES.DAT
+Dragonrift Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_G_GLOVES_ALT_SET.DAT
+Draketalon Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_X07_GLOVES.DAT
+Dwarfking Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DWARF_01_GLOVES_ALT_SET.DAT
+Dwarven Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DWARF_01_GLOVES_ALT_B.DAT
+Dwarven Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DWARF_01_GLOVES.DAT
+Dwarven Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DWARF_01_GLOVES_ALT_C.DAT
+Emberclad Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\EMBER_01_GLOVES_ALT_B.DAT
+Embercraft Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_04_GLOVES_ALT_SET.DAT
+Emberheart Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\EMBER_01_GLOVES.DAT
+Emberplate Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\EMBER_01_GLOVES_ALT_C.DAT
+Emberweave Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_05_GLOVES_ALT_SET.DAT
+Estherian Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_01_GLOVES_ALT_B.DAT
+Estherian Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_01_GLOVES.DAT
+Estherian Wrist-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_01_GLOVES_ALT_C.DAT
+Everfrost Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_02_GLOVES.DAT
+Exile Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_02_GLOVES_ALT_B.DAT
+Exorcist Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VARKOLYN_01_GLOVES_ALT_SET.DAT
+Explorer Glovelettes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_05_GLOVES_ALT_C.DAT
+Explorer Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_05_GLOVES.DAT
+Explorer Hand-Wraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_05_GLOVES_ALT_B.DAT
+Ezrohir Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_01_GLOVES_ALT_B.DAT
+Ezrohir Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_01_GLOVES_ALT_C.DAT
+Ezrohir Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_01_GLOVES.DAT
+Falcon's Grasp.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DESERT_01_GLOVES_SET_FALCON.DAT
+Feral Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_04_GLOVES_ALT_SET.DAT
+Filthy Mitts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_01_GLOVES_ALT_B.DAT
+Fine-Crafted Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES_ALT_F.DAT
+Fine-Thread Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES_ALT_E.DAT
+Fists of Fury.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_01_GLOVES.DAT
+Forest Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FOREST_01_GLOVES_ALT_B.DAT
+Forest Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FOREST_01_GLOVES_ALT_C.DAT
+Forest Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FOREST_01_GLOVES.DAT
+Forgecrafted Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_04_GLOVES_ALT_SET.DAT
+Forged Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_F_GLOVES_ALT_D.DAT
+Formal Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES_ALT_F.DAT
+Formal Regent Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_02_GLOVES_ALT_SET.DAT
+Frost Tide.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_02_GLOVES_SET_WINTERSREACH.DAT
+Fused Iron Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\Z_ENGINEER_04_GLOVES_SET.DAT
+Gauntlets of Clan Bloodhand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_05_GLOVES_ALT_C.DAT
+Gauntlets of Killious the Troll-Slayer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_04_GLOVES_ALT_C.DAT
+Gauntlets of the Cindermen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_06_GLOVES_ALT_C.DAT
+Gauntlets of the North Wind.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_02_GLOVES_ALT_B.DAT
+Gauntlets of the Tick-Tock Duke.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOCKWORK_01_GLOVES_ALT_B.DAT
+Gauntlets of True North.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_04_GLOVES_ALT_C.DAT
+Gauntlets of Workings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_06_GLOVES_ALT_C.DAT
+Gearmaster's Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_01_GLOVES_ALT_C.DAT
+Ghastly Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZZZ_GHASTLY_GLOVES.DAT
+Glamer-Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_01_GLOVES.DAT
+Gloves of the Ebon Magister.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_01_GLOVES.DAT
+Gloves of the Ember Adventurers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_03_GLOVES.DAT
+Gloves of the Far Reaches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_02_GLOVES.DAT
+Gloves of the Golden Dawn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_05_GLOVES.DAT
+Gloves of Urban Planning.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_05_GLOVES.DAT
+Grand Architect Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_05_GLOVES_ALT_SET.DAT
+Grand Wazir Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_02_GLOVES_ALT_SET.DAT
+Granite Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STONE_01_GLOVES_ALT_SET.DAT
+Grimy Work-Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_01_GLOVES.DAT
+Hands of Orlac.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\Z_GLOVES_ASPHYX.DAT
+Harbinger Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_06_GLOVES_ALT_SET.DAT
+Heavy Metal Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_06_GLOVES_ALT_B.DAT
+Heavyhands.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_04_GLOVES_ALT_C.DAT
+Hexenjaeger Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_05_GLOVES_ALT_C.DAT
+High-Gear Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_06_GLOVES.DAT
+Highridge Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MOUNTAIN_01_GLOVES_ALT_SET.DAT
+Homesteader Glovelettes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_04_GLOVES_ALT_C.DAT
+Homesteader Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_04_GLOVES.DAT
+Homesteader Hand-Wraps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_04_GLOVES_ALT_B.DAT
+Icy Hands of Death.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_02_GLOVES_ALT_C.DAT
+Imperial Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PIMP_01_GLOVES.DAT
+Incantus Arm-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_03_GLOVES_ALT_B.DAT
+Incubus Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_02_GLOVES_ALT_SET.DAT
+Inlayed Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES_ALT_E.DAT
+Inquisitor Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_G_GLOVES_ALT_SET.DAT
+Iron Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_E_GLOVES_ALT_C.DAT
+Iron Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_E_GLOVES.DAT
+Iron Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_E_GLOVES_ALT_B.DAT
+Ironmail Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_F_GLOVES_ALT_D.DAT
+Ironwrought Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_F_GLOVES_ALT_E.DAT
+Janissary Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_02_GLOVES_ALT_B.DAT
+Janissary Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_02_GLOVES_ALT_C.DAT
+Janissary Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_02_GLOVES.DAT
+Karz's  Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_01_GLOVES_ALT_B.DAT
+King's Mail Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_G_GLOVES_ALT_B.DAT
+King's Mail Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_G_GLOVES_ALT_C.DAT
+King's Mail Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_G_GLOVES.DAT
+Labarinto Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_05_GLOVES_ALT_SET.DAT
+Laminated Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_D_GLOVES_ALT_B.DAT
+Laminated Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_D_GLOVES_ALT_C.DAT
+Laminated Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_D_GLOVES.DAT
+Leather Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_A_GLOVES_ALT_B.DAT
+Leather Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_A_GLOVES_ALT_C.DAT
+Leather Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_A_GLOVES.DAT
+Legionnaire Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_E_GLOVES_ALT_B.DAT
+Legionnaire Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_E_GLOVES_ALT_C.DAT
+Legionnaire Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_E_GLOVES.DAT
+Liberation Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_04_GLOVES_ALT_SET.DAT
+Light Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_01_GLOVES_ALT_B.DAT
+Light Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_01_GLOVES_ALT_C.DAT
+Light Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_01_GLOVES.DAT
+Linen Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_D_GLOVES.DAT
+Linen Mittens.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_D_GLOVES_ALT_C.DAT
+Linen Mitts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_D_GLOVES_ALT_B.DAT
+Link Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_A_GLOVES_ALT_B.DAT
+Link Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_A_GLOVES_ALT_C.DAT
+Link Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_A_GLOVES.DAT
+Lizard-Hide Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES_ALT_D.DAT
+Lord Arkham's Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_03_GLOVES_ALT_C.DAT
+Machine-Shop Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_03_GLOVES_ALT_C.DAT
+Machinist Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_03_GLOVES.DAT
+Mail Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_D_GLOVES_ALT_B.DAT
+Mail Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_D_GLOVES_ALT_C.DAT
+Mail Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_D_GLOVES.DAT
+Mondon's Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_06_GLOVES_ALT_SET.DAT
+Mountain Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MOUNTAIN_01_GLOVES_ALT_B.DAT
+Mountain Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MOUNTAIN_01_GLOVES_ALT_C.DAT
+Mountain Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MOUNTAIN_01_GLOVES.DAT
+Necromius Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BONE_01_GLOVES.DAT
+Necrotic Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BONE_01_GLOVES_ALT_SET.DAT
+Oathbreaker Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HUNTER_01_GLOVES_ALT_B.DAT
+Obscure Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_01_GLOVES_ALT_SET.DAT
+Outercore Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_X07_GLOVES.DAT
+Padded Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES_ALT_C.DAT
+Padded Glovelettes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES_ALT_B.DAT
+Patchwork Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_C_GLOVES.DAT
+Patchwork Mittens.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_C_GLOVES_ALT_C.DAT
+Patchwork Mitts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_C_GLOVES_ALT_B.DAT
+Pathfinder Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_06_GLOVES_ALT_B.DAT
+Pathfinder Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_06_GLOVES_ALT_C.DAT
+Pathfinder Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_06_GLOVES.DAT
+Perdurabo Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_04_GLOVES_ALT_B.DAT
+Phoenix Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_G_GLOVES_ALT_B.DAT
+Phoenix Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_G_GLOVES_ALT_C.DAT
+Phoenix Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_G_GLOVES.DAT
+Pioneer Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_03_GLOVES_ALT_C.DAT
+Pioneer Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_03_GLOVES.DAT
+Pioneer Wrist-Straps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_03_GLOVES_ALT_B.DAT
+Plate Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_A_GLOVES_ALT_C.DAT
+Plate Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_A_GLOVES.DAT
+Plate Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_A_GLOVES_ALT_B.DAT
+Pleated Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_E_GLOVES_ALT_C.DAT
+Pleated Glovelettes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_E_GLOVES_ALT_B.DAT
+Pleated Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_E_GLOVES.DAT
+Pleated Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES.DAT
+Plumb-Bob Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_04_GLOVES_ALT_B.DAT
+Ponya Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PONYA_01_GLOVES.DAT
+Postern Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_05_GLOVES_ALT_C.DAT
+Praetorian Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_G_GLOVES_ALT_B.DAT
+Praetorian Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_G_GLOVES_ALT_C.DAT
+Praetorian Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_G_GLOVES.DAT
+Precision Manumorphic Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOCKWORK_01_GLOVES.DAT
+Pummelmitts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_04_GLOVES.DAT
+Rail-Forge Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_06_GLOVES_ALT_C.DAT
+Railforged Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_02_GLOVES_ALT_SET.DAT
+Railman Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_02_GLOVES_ALT_C.DAT
+Rawhide Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FURHIDE_01_GLOVES_ALT_B.DAT
+Rawhide Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FURHIDE_01_GLOVES.DAT
+Rawhide Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FURHIDE_01_GLOVES_ALT_C.DAT
+Red Paw Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\PONYA_01_GLOVES_ALT_B.DAT
+Redscale Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_C_GLOVES_ALT_B.DAT
+Redscale Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_C_GLOVES_ALT_C.DAT
+Redscale Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_C_GLOVES.DAT
+Regent Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_02_GLOVES_ALT_B.DAT
+Regent Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_02_GLOVES.DAT
+Regent Wrist-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_02_GLOVES_ALT_C.DAT
+Rhino-Hide Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES_ALT_B.DAT
+Rhino-Hide Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES_ALT_C.DAT
+Rhino-Hide Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_F_GLOVES.DAT
+Ringed Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_01_GLOVES_ALT_B.DAT
+Ringed Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_01_GLOVES_ALT_C.DAT
+Ringed Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_01_GLOVES.DAT
+Ritual Janissary Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\DEZROHIR_02_GLOVES_ALT_SET.DAT
+Rough Handlers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_05_GLOVES_ALT_B.DAT
+Runemaster Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STURM_01_GLOVES_ALT_SET.DAT
+Salamander Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_G_GLOVES_ALT_C.DAT
+Salamander Glovelettes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_G_GLOVES_ALT_B.DAT
+Salamander Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_G_GLOVES.DAT
+Savage Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_05_GLOVES_ALT_SET.DAT
+Scale Fists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_E_GLOVES_ALT_B.DAT
+Scale Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_E_GLOVES_ALT_C.DAT
+Scale Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\MEDIUM_E_GLOVES.DAT
+Segmented Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_D_GLOVES_ALT_C.DAT
+Segmented Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_D_GLOVES.DAT
+Segmented Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_D_GLOVES_ALT_B.DAT
+Sentinel Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VANQUISHER_01_GLOVES_ALT_SET.DAT
+Settler Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_02_GLOVES_ALT_C.DAT
+Settler Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_02_GLOVES.DAT
+Settler Wrist-Straps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_02_GLOVES_ALT_B.DAT
+Shank's Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_04_GLOVES.DAT
+Slamfists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_04_GLOVES_ALT_B.DAT
+Sodalis Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_06_GLOVES.DAT
+Steel Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_F_GLOVES_ALT_C.DAT
+Steel Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_F_GLOVES.DAT
+Steel Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_F_GLOVES_ALT_B.DAT
+Stone Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STONE_01_GLOVES_ALT_B.DAT
+Stone Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STONE_01_GLOVES.DAT
+Stone Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STONE_01_GLOVES_ALT_C.DAT
+Sturdy Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_01_GLOVES_ALT_C.DAT
+Sturdy Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_01_GLOVES.DAT
+Sturdy Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HEAVY_01_GLOVES_ALT_B.DAT
+Sturmbeorn Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STURM_01_GLOVES_ALT_B.DAT
+Sturmbeorn Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STURM_01_GLOVES.DAT
+Sturmbeorn Steelfists.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\STURM_01_GLOVES_ALT_C.DAT
+Surveyor Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_04_GLOVES.DAT
+Tarroch's Battle-Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_05_GLOVES_ALT_C.DAT
+Tarroch's Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_05_GLOVES.DAT
+Tarroch's Leather Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_05_GLOVES_ALT_B.DAT
+Tenebra's Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_01_GLOVES_ALT_B.DAT
+Tenebris Arm-Guards.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_02_GLOVES_ALT_B.DAT
+The Beatdowners.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_03_GLOVES_ALT_C.DAT
+The Beckoners.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_04_GLOVES_ALT_B.DAT
+The Bracers of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BONE_01_GLOVES_ALT_C.DAT
+The Double-Deckers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_03_GLOVES_ALT_B.DAT
+The Flamegloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_06_GLOVES.DAT
+The Gauntlets of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BONE_01_GLOVES_ALT_B.DAT
+The Gloomgloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_01_GLOVES.DAT
+The Searing Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_06_GLOVES_ALT_B.DAT
+The Voynich Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_03_GLOVES.DAT
+Trailblazer Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_07_GLOVES_ALT_B.DAT
+Trailblazer Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_07_GLOVES_ALT_C.DAT
+Trailblazer Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\COLONIST_07_GLOVES.DAT
+Trancendent Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_06_GLOVES_ALT_SET.DAT
+True Estheria Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ESTHERIAN_01_GLOVES_ALT_SET.DAT
+True North Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\BERSERKER_02_GLOVES_ALT_SET.DAT
+Twilight Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_01_GLOVES_ALT_C.DAT
+Unearthly Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_06_GLOVES_ALT_SET.DAT
+Valkyrie Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\LIGHT_G_GLOVES_ALT_SET.DAT
+Vambraces of Lady Brantley.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_02_GLOVES_ALT_C.DAT
+Vambraces of the Bloodless Count.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\NETHERIM_02_GLOVES_ALT_C.DAT
+Vambraces of Vitrifilius.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_01_GLOVES_ALT_C.DAT
+Vance's Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_02_GLOVES.DAT
+Vanquisher Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VANQUISHER_01_GLOVES.DAT
+Varkolyn Claw-Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VARKOLYN_01_GLOVES_ALT_B.DAT
+Varkolyn Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VARKOLYN_01_GLOVES.DAT
+Varkolyn Talon-Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\VARKOLYN_01_GLOVES_ALT_C.DAT
+Wanderlust Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\WANDERER_02_GLOVES_ALT_SET.DAT
+Warcaster Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_05_GLOVES_ALT_B.DAT
+Warlock Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CASTER_04_GLOVES.DAT
+Warlock Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HUNTER_01_GLOVES.DAT
+Wazir Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_02_GLOVES_ALT_B.DAT
+Wazir Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_02_GLOVES.DAT
+Wazir Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_02_GLOVES_ALT_C.DAT
+Wildwood Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\FOREST_01_GLOVES_ALT_SET.DAT
+Witchfinder Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\HUNTER_01_GLOVES_ALT_C.DAT
+Woven Gauntlets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\CLOTH_F_GLOVES_ALT_D.DAT
+Zeraphi Bracers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_01_GLOVES_ALT_B.DAT
+Zeraphi Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_01_GLOVES.DAT
+Zeraphi Vambraces.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ZERAPHI_01_GLOVES_ALT_C.DAT
+Zugmeister's Gloves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\GLOVES\ENGINEER_02_GLOVES.DAT

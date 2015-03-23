@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "potions" Imagefile="media/ui/icons/potions/potions.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="icons_potions_respec" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_resist_poison" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_resist_ice" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_resist_fire" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_resist_electric" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_ultimate" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_strong" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_small" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_mega" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_medium" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_grand" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_common" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_rejuv_ample" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_misc" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_ultimate" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_strong" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_small" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_mega" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_medium" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_grand" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_common" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_mana_ample" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_health_ultimate" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_health_strong" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="icons_potions_health_small" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_potions_health_mega" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_potions_health_medium" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_potions_health_grand" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_potions_health_common" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="icons_potions_health_ample" XPos="321" YPos="193" Width="62" Height="62" />
+</Imageset>

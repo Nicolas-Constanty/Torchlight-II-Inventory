@@ -1,0 +1,32 @@
+﻿Bandit Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\BANDITCHESTUNLOCKKEY.DAT
+Bell.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\BELL.DAT
+Bottle of Poison.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEASTANTIVENOM.DAT
+Cash Box.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\CASHBOX.DAT
+Coin Purse.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\COINPURSE.DAT
+Coward's Heart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\WITCH_INGREDIENT_HEART.DAT
+Crab Legs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-CRABLEGS.DAT
+Crystal Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\DRAGONCRYSTALPICKUP.DAT
+Door Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-CHOICE_KEY.DAT
+Firewood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-FIREWOOD.DAT
+Gate Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\DRAGONGATEKEY.DAT
+Golden Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\CHESTUNLOCKKEY.DAT
+Golem Soul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\GOLEM SOUL.DAT
+Iridian Focus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\IRIDIAN FOCUS.DAT
+Ironwood Thorns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\WITCH_INGREDIENT_BONES.DAT
+Master Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\MASTERKEY.DAT
+Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\MEDALLION.DAT
+Murderer's Mask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\WITCH_INGREDIENT_HOOD.DAT
+Mysterious Gem.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\A2_POI_LARGESKELETON_EYE_ITEM.DAT
+Mysterious Gem.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-MYSTERIOUSGEM.DAT
+Necklace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\NECKLACE.DAT
+Plunger.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PLUNGER.DAT
+Pocketwatch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\POCKETWATCH.DAT
+Power Crystal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\POWER CRYSTAL.DAT
+Prison Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\BANDITCELLUNLOCKKEY.DAT
+Prison Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\TOWEROFMOONUNLOCKKEY.DAT
+Rusted Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\KENNELKEY.DAT
+Rusted Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\SPIDEREGG.DAT
+Sanguine Gem.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\A3-ROTCRYPTGEM.DAT
+Shovel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-SHOVEL.DAT
+Tranquil Censer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\EVT_CENSER.DAT
+Treasure Map.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\LEVELITEMS\PHASEBEAST-TREASUREMAP.DAT

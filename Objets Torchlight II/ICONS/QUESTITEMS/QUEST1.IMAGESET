@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "quest1" Imagefile="media/ui/icons/questitems/quest1.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="passkey_ember" XPos="0" YPos="0" Width="62" Height="62" />
+	<Image Name="necklace" XPos="62" YPos="0" Width="62" Height="62" />
+	<Image Name="mysterious_gem" XPos="124" YPos="0" Width="62" Height="62" />
+	<Image Name="medallion" XPos="186" YPos="0" Width="62" Height="62" />
+	<Image Name="mask_poison" XPos="0" YPos="62" Width="62" Height="62" />
+	<Image Name="mask_ice" XPos="62" YPos="62" Width="62" Height="62" />
+	<Image Name="mask_fire" XPos="124" YPos="62" Width="62" Height="62" />
+	<Image Name="lotion" XPos="186" YPos="62" Width="62" Height="62" />
+	<Image Name="locket" XPos="0" YPos="124" Width="62" Height="62" />
+	<Image Name="leatherhood" XPos="62" YPos="124" Width="62" Height="62" />
+	<Image Name="latchkey_ember" XPos="124" YPos="124" Width="62" Height="62" />
+	<Image Name="lamp_of_wonders" XPos="186" YPos="124" Width="62" Height="62" />
+	<Image Name="lamp_of_marvels" XPos="0" YPos="186" Width="62" Height="62" />
+	<Image Name="key" XPos="62" YPos="186" Width="62" Height="62" />
+	<Image Name="golden_gear" XPos="124" YPos="186" Width="62" Height="62" />
+	<Image Name="glowing_automaton_powersource" XPos="186" YPos="186" Width="62" Height="62" />
+</Imageset>

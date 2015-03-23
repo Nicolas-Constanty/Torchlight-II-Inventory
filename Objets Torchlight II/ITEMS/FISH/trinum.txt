@@ -1,0 +1,48 @@
+﻿0:Crab Egg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ADZEFISH.DAT
+0:Big Crab Egg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ADZEFISH_BIG.DAT
+0:Giant Crab Egg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ADZEFISH_PERM.DAT
+0:Warsnout.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BATFISH.DAT
+0:Big Warsnout.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BATFISH_BIG.DAT
+0:Giant Warsnout.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BATFISH_PERM.DAT
+0:Flying Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BIRDFISH.DAT
+0:Big Flying Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BIRDFISH_BIG.DAT
+0:Giant Flying Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_BIRDFISH_PERM.DAT
+0:Catfish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_CAT_RETURN.DAT
+0:Dogfish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_DOG_RETURN.DAT
+0:Prismatic Morey.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ELEMCRITBOOST.DAT
+0:Firefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_FIRE_ELEMENTAL.DAT
+0:Big Firefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_FIRE_ELEMENTAL_BIG.DAT
+0:Giant Firefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_FIRE_ELEMENTAL_PERM.DAT
+0:Frenzy Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_FRENZY.DAT
+0:Trufflesnout Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_GOLDFIND.DAT
+0:Gold Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_GOLDFISH.DAT
+0:Ice Angel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ICE_ELEMENTAL.DAT
+0:Big Ice Angel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ICE_ELEMENTAL_BIG.DAT
+0:Giant Ice Angel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_ICE_ELEMENTAL_PERM.DAT
+0:Imaginary Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_IMAGINARYPET.DAT
+0:Tunnel Shark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LAMPFISH.DAT
+0:Big Tunnel Shark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LAMPFISH_BIG.DAT
+0:Giant Tunnel Shark.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LAMPFISH_PERM.DAT
+0:Electric Eel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LIGHTNING_ELEMENTAL.DAT
+0:Big Electric Eel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LIGHTNING_ELEMENTAL_BIG.DAT
+0:Giant Electric Eel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_LIGHTNING_ELEMENTAL_PERM.DAT
+0:Jackal Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_MUCKFISH.DAT
+0:Big Jackal Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_MUCKFISH_BIG.DAT
+0:Giant Jackal Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_MUCKFISH_PERM.DAT
+0:Largemouth Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POCKETFISH.DAT
+0:Big Largemouth Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POCKETFISH_BIG.DAT
+0:Giant Largemouth Bass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POCKETFISH_PERM.DAT
+0:Venomfish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POISON_ELEMENTAL.DAT
+0:Big Venomfish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POISON_ELEMENTAL_BIG.DAT
+0:Giant Venomfish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_POISON_ELEMENTAL_PERM.DAT
+0:Bonefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TORSOFISH.DAT
+0:Big Bonefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TORSOFISH_BIG.DAT
+0:Gaint Bonefish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TORSOFISH_GIANT.DAT
+0:Bog Perch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TREEFISH.DAT
+0:Big Bog Perch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TREEFISH_BIG.DAT
+0:Giant Bog Perch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TREEFISH_PERM.DAT
+0:Improbably Large Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TROLLFISH.DAT
+0:Web Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TROUT.DAT
+0:Big Web Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TROUT_BIG.DAT
+0:Giant Web Fish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_TROUT_PERM.DAT
+0:Vampiric Spider Egg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\FISH\FISH_VAMPIRIC_SPIDER.DAT

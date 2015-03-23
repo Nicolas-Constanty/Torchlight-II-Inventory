@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TorchlightIIInventory
+</name>
+</assembly>
+<members>
+<member name="T:Torchlight_II__Inventory.Donnée_torchlight_IIDataSet.DataTable1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Torchlight_II__Inventory.Donnée_torchlight_IIDataSet.DataTable1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Torchlight_II__Inventory.Donnée_torchlight_IIDataSet.DataTable1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Torchlight_II__Inventory.Donnée_torchlight_IIDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.ResourceManager">
+	<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Culture">
+	<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Amulet">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.background">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Belt">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Boots">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Bordure">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Bordure1">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Bordure2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.button_moins_off">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.button_plus_off">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Carac">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Chest">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Défense">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Dextérité">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Focus">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Force">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Glove">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Helmet">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Legendary">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Magic">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Menu_app">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Menu_app2">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Normal">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Pants">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Ring">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Shield">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Shoulders">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Unique">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Torchlight_II__Inventory.My.Resources.Resources.Weapon">
+	<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Torchlight_II__Inventory.My.Resources.Resources">
+	<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+</members>
+</doc>

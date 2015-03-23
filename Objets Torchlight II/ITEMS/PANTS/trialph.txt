@@ -1,0 +1,301 @@
+﻿Adeptus  Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_03_PANTS_ALT_C.DAT
+Adventurer Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_08_PANTS_ALT_C.DAT
+Adventurer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_08_PANTS.DAT
+Adventurer Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_08_PANTS_ALT_B.DAT
+Alchemical Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_01_PANTS_ALT_SET.DAT
+Argonaut Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PONYA_01_PANTS_ALT_SET.DAT
+Aristocrat Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PIMP_01_PANTS_ALT_SET.DAT
+Ascendant Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_X07_PANTS.DAT
+Ashenbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_06_PANTS_ALT_B.DAT
+Badlands Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DESERT_01_PANTS_ALT_SET.DAT
+Battlemage Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_04_PANTS.DAT
+Beastling Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PONYA_01_PANTS_ALT_B.DAT
+Bloodbath Waders.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_05_SET_BLOODBATH.DAT
+Bloodsteam Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_G_PANTS_ALT_SET.DAT
+Breeches of Bloody Slaughter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_05_PANTS.DAT
+Breeches of Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_01_PANTS_ALT_B.DAT
+Breeches of the Clumsy Apprentice.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_01_PANTS_ALT_B.DAT
+Breeches of the Wastewalker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_03_PANTS_ALT_B.DAT
+Breeches of the Waywalker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_03_PANTS.DAT
+Breeches of the Wraithborn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_02_PANTS.DAT
+Breeks of Despair.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_04_PANTS_ALT_B.DAT
+Breeks of Havoc.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_06_PANTS_ALT_B.DAT
+Breeks of the Breathtaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_01_PANTS.DAT
+Breeks of the Counter-Monkey.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_04_PANTS_ALT_C.DAT
+Breeks of the Feud.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_06_PANTS_ALT_C.DAT
+Breeks of the North Wind.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_02_PANTS.DAT
+Breeks of the Pyrophage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_06_PANTS_ALT_C.DAT
+Breeks of the Railsmith.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_06_PANTS.DAT
+Bronze Full-Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_C_PANTS_ALT_C.DAT
+Bronze Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_C_PANTS_ALT_B.DAT
+Bronze Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_C_PANTS.DAT
+Builder Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_05_PANTS_ALT_C.DAT
+Cabalist Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_02_PANTS_ALT_SET.DAT
+Celestial Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOCKWORK_01_PANTS_ALT_SET.DAT
+Ceremonial Ezrohir Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_01_PANTS_ALT_SET.DAT
+Chain Cuisses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_C_PANTS_ALT_C.DAT
+Chain Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_C_PANTS_ALT_B.DAT
+Chain Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_C_PANTS.DAT
+Chainmail Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_F_PANTS_ALT_B.DAT
+Chainmail Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_F_PANTS.DAT
+Chainmail Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_F_PANTS_ALT_C.DAT
+Charmer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_03_PANTS.DAT
+Clamorpants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_03_PANTS.DAT
+Clanbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_03_PANTS_ALT_C.DAT
+Clockwork Demi-Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOCKWORK_01_PANTS_ALT_B.DAT
+Cloth Hose.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_A_PANTS_ALT_B.DAT
+Cloth Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_A_PANTS_ALT_C.DAT
+Cloth Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_A_PANTS.DAT
+Clovenhoof Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FURHIDE_01_PANTS_ALT_SET.DAT
+Colonist Kegs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_01_PANTS_ALT_C.DAT
+Colonist Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_01_PANTS_ALT_B.DAT
+Colonist Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_01_PANTS.DAT
+Corpseleather Robe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_02_PANTS_ALT_C.DAT
+Crucible Chaps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_06_PANTS_ALT_C.DAT
+Damascus Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_F_PANTS_ALT_E.DAT
+Desert Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DESERT_01_PANTS_ALT_C.DAT
+Desert Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DESERT_01_PANTS.DAT
+Desert Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DESERT_01_PANTS_ALT_B.DAT
+Dominion Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_X07_PANTS.DAT
+Dragonrift Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_G_PANTS_ALT_SET.DAT
+Draketalon Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_X07_PANTS.DAT
+Dwarfking Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DWARF_01_PANTS_ALT_SET.DAT
+Dwarven Full Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DWARF_01_PANTS_ALT_C.DAT
+Dwarven Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DWARF_01_PANTS.DAT
+Dwarven Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DWARF_01_PANTS_ALT_B.DAT
+Emberclad Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\EMBER_01_PANTS_ALT_B.DAT
+Embercraft Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_04_PANTS_ALT_SET.DAT
+Emberheart Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\EMBER_01_PANTS.DAT
+Emberplate Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\EMBER_01_PANTS_ALT_C.DAT
+Emberweave Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_05_PANTS_ALT_SET.DAT
+Estherian Cassock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_01_PANTS_ALT_B.DAT
+Estherian Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_01_PANTS.DAT
+Estherian Robe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_01_PANTS_ALT_C.DAT
+Exorcist Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VARKOLYN_01_PANTS_ALT_SET.DAT
+Explorer Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_05_PANTS_ALT_B.DAT
+Explorer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_05_PANTS.DAT
+Explorer Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_05_PANTS_ALT_C.DAT
+Ezrohir Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_01_PANTS_ALT_B.DAT
+Ezrohir Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_01_PANTS_ALT_C.DAT
+Ezrohir Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_01_PANTS.DAT
+Fine-Crafted Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS_ALT_F.DAT
+Fine-Thread Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS_ALT_E.DAT
+Forest Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FOREST_01_PANTS_ALT_B.DAT
+Forest Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FOREST_01_PANTS.DAT
+Forest Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FOREST_01_PANTS_ALT_C.DAT
+Forged Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_F_PANTS_ALT_D.DAT
+Formal Regent Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_02_PANTS_ALT_SET.DAT
+Formal Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS_ALT_F.DAT
+Furs of Fury.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_01_PANTS_ALT_C.DAT
+Grand Architect Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_05_PANTS_ALT_SET.DAT
+Grand Wazir Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_02_PANTS_ALT_SET.DAT
+Granite Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STONE_01_PANTS_ALT_SET.DAT
+Greaves of Striding.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_04_PANTS_ALT_C.DAT
+Greaves of the Tick-Tock Guard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOCKWORK_01_PANTS_ALT_C.DAT
+Grimy Work-Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_01_PANTS.DAT
+Grundig's Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\Z_ZERAPHI_02_PANTS_SET.DAT
+Harbinger Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_06_PANTS_ALT_SET.DAT
+Hexenjaeger Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_05_PANTS.DAT
+Highridge Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MOUNTAIN_01_PANTS_ALT_SET.DAT
+Homesteader Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_04_PANTS_ALT_B.DAT
+Homesteader Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_04_PANTS.DAT
+Homesteader Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_04_PANTS_ALT_C.DAT
+Hose of the Ebon Magister.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_01_PANTS_ALT_B.DAT
+House Carl Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_05_PANTS.DAT
+Imperial Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PIMP_01_PANTS.DAT
+Incubus Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_02_PANTS_ALT_SET.DAT
+Inlayed Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS_ALT_E.DAT
+Inquisitor Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_G_PANTS_ALT_SET.DAT
+Iron Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_E_PANTS_ALT_B.DAT
+Iron Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_E_PANTS.DAT
+Iron Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_E_PANTS_ALT_C.DAT
+Ironmail Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_F_PANTS_ALT_D.DAT
+Ironwrought Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_F_PANTS_ALT_E.DAT
+Janissary Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_02_PANTS_ALT_B.DAT
+Janissary Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_02_PANTS_ALT_C.DAT
+Janissary Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_02_PANTS.DAT
+Karzenbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_04_PANTS_ALT_C.DAT
+Karz's Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_01_PANTS_ALT_C.DAT
+Kilt of Ire.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_01_PANTS.DAT
+King's Mail Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_G_PANTS_ALT_B.DAT
+King's Mail Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_G_PANTS.DAT
+King's Mail Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_G_PANTS_ALT_C.DAT
+Labarinto Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_05_PANTS_ALT_SET.DAT
+Laminated Chaps.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_D_PANTS_ALT_B.DAT
+Laminated Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_D_PANTS_ALT_C.DAT
+Laminated Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_D_PANTS.DAT
+Leather Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_A_PANTS_ALT_B.DAT
+Leather Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_A_PANTS.DAT
+Leather Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_A_PANTS_ALT_C.DAT
+Leggings of Laughing Shadows.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_02_PANTS_ALT_B.DAT
+Legionnaire Kilt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_E_PANTS_ALT_B.DAT
+Legionnaire Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_E_PANTS.DAT
+Legionnaire Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_E_PANTS_ALT_C.DAT
+Leone's Fancy Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_03_PANTS_SET_LEONE.DAT
+Light Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_01_PANTS_ALT_B.DAT
+Light Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_01_PANTS.DAT
+Light Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_01_PANTS_ALT_C.DAT
+Linen Hose.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_D_PANTS_ALT_B.DAT
+Linen Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_D_PANTS_ALT_C.DAT
+Linen Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_D_PANTS.DAT
+Link Cuisses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_A_PANTS_ALT_C.DAT
+Link Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_A_PANTS_ALT_B.DAT
+Link Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_A_PANTS.DAT
+Lizard-Hide Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS_ALT_D.DAT
+Machine Forged Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_03_PANTS_ALT_SET.DAT
+Machine-Shop Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_03_PANTS_ALT_C.DAT
+Machinist Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_03_PANTS_ALT_B.DAT
+Mail Cuisses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_D_PANTS_ALT_C.DAT
+Mail Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_D_PANTS_ALT_B.DAT
+Mail Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_D_PANTS.DAT
+Mechano-Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_02_PANTS.DAT
+Merciless Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_03_PANTS_ALT_SET.DAT
+Mondon's Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_06_PANTS_ALT_SET.DAT
+Mountain Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MOUNTAIN_01_PANTS_ALT_C.DAT
+Mountain Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MOUNTAIN_01_PANTS_ALT_B.DAT
+Mountain Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MOUNTAIN_01_PANTS.DAT
+Necromius Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BONE_01_PANTS_ALT_B.DAT
+Necrotic Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BONE_01_PANTS_ALT_SET.DAT
+Oathbreaker Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HUNTER_01_PANTS_ALT_B.DAT
+Obscure Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_01_PANTS_ALT_SET.DAT
+Oglaf's Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_04_PANTS.DAT
+Oil-Stained Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_01_PANTS_ALT_C.DAT
+Outercore Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_X07_PANTS.DAT
+Padded Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS_ALT_B.DAT
+Padded Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS_ALT_C.DAT
+Pantaloons of the Bamboo Bandit.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PONYA_01_PANTS_ALT_C.DAT
+Pantaloons of Wild Magic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_05_PANTS_ALT_C.DAT
+Pants of the Tribune.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_01_PANTS.DAT
+Patchwork Hose.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_C_PANTS_ALT_B.DAT
+Patchwork Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_C_PANTS_ALT_C.DAT
+Patchwork Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_C_PANTS.DAT
+Pathfinder Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_06_PANTS_ALT_B.DAT
+Pathfinder Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_06_PANTS.DAT
+Pathfinder Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_06_PANTS_ALT_C.DAT
+Pearce's Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_01_PANTS_ALT_C.DAT
+Perdurabo Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_04_PANTS_ALT_B.DAT
+Phoenix Faulds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_G_PANTS_ALT_B.DAT
+Phoenix Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_G_PANTS.DAT
+Phoenix Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_G_PANTS_ALT_C.DAT
+Pioneer Kegs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_03_PANTS_ALT_C.DAT
+Pioneer Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_03_PANTS_ALT_B.DAT
+Pioneer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_03_PANTS.DAT
+Plainslord Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_03_PANTS_ALT_SET.DAT
+Plate Full-Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_A_PANTS_ALT_C.DAT
+Plate Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_A_PANTS_ALT_B.DAT
+Plate Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_A_PANTS.DAT
+Pleated Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_E_PANTS_ALT_B.DAT
+Pleated Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_E_PANTS.DAT
+Pleated Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS.DAT
+Pleated Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_E_PANTS_ALT_C.DAT
+Plumb-Bob T-Square Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_04_PANTS_ALT_B.DAT
+Ponya Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\PONYA_01_PANTS.DAT
+Praetorian Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_G_PANTS_ALT_B.DAT
+Praetorian Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_G_PANTS.DAT
+Praetorian Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_G_PANTS_ALT_C.DAT
+Precision Pedimorphic Impulsors.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOCKWORK_01_PANTS.DAT
+Pyromancer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_02_PANTS.DAT
+Rail-Forge Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_06_PANTS_ALT_B.DAT
+Railforged Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_02_PANTS_ALT_SET.DAT
+Railman Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_02_PANTS_ALT_B.DAT
+Rawhide Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FURHIDE_01_PANTS_ALT_B.DAT
+Rawhide Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FURHIDE_01_PANTS_ALT_C.DAT
+Rawhide Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FURHIDE_01_PANTS.DAT
+Redscale Kilt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_C_PANTS_ALT_B.DAT
+Redscale Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_C_PANTS.DAT
+Redscale Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_C_PANTS_ALT_C.DAT
+Regent Cassock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_02_PANTS_ALT_B.DAT
+Regent Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_02_PANTS.DAT
+Regent Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_02_PANTS_ALT_C.DAT
+Rhino-Hide Faulds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS_ALT_B.DAT
+Rhino-Hide Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS.DAT
+Rhino-Hide Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_F_PANTS_ALT_C.DAT
+Ringed Cuisses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_01_PANTS_ALT_C.DAT
+Ringed Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_01_PANTS_ALT_B.DAT
+Ringed Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_01_PANTS.DAT
+Ritual Janissary Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\DEZROHIR_02_PANTS_ALT_SET.DAT
+Runemaster Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STURM_01_PANTS_ALT_SET.DAT
+Salamander Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_G_PANTS_ALT_B.DAT
+Salamander Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_G_PANTS.DAT
+Salamander Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_G_PANTS_ALT_C.DAT
+Savage Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_03_PANTS_ALT_B.DAT
+Savage Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_05_PANTS_ALT_SET.DAT
+Scale Cuisses.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_E_PANTS_ALT_C.DAT
+Scale Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_E_PANTS_ALT_B.DAT
+Scale Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\MEDIUM_E_PANTS.DAT
+Segmented Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_D_PANTS_ALT_B.DAT
+Segmented Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_D_PANTS.DAT
+Segmented Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_D_PANTS_ALT_C.DAT
+Sentinel Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VANQUISHER_01_PANTS_ALT_SET.DAT
+Settler Kegs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_02_PANTS_ALT_C.DAT
+Settler Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_02_PANTS_ALT_B.DAT
+Settler Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_02_PANTS.DAT
+Shank's Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_04_PANTS.DAT
+Slagbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_06_PANTS.DAT
+Slaughterbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_05_PANTS_ALT_C.DAT
+Sodalis Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_06_PANTS_ALT_C.DAT
+Spellbreaker Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_06_PANTS.DAT
+Spellweaver Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_03_PANTS_ALT_SET.DAT
+Splitkick Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_01_PANTS_ALT_B.DAT
+Steel Greaves.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_F_PANTS_ALT_B.DAT
+Steel Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_F_PANTS.DAT
+Steel Poleyns.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_F_PANTS_ALT_C.DAT
+Stone Faulds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STONE_01_PANTS_ALT_C.DAT
+Stone Kilt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STONE_01_PANTS_ALT_B.DAT
+Stone Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STONE_01_PANTS.DAT
+Sturdy Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_01_PANTS_ALT_C.DAT
+Sturdy Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_01_PANTS_ALT_B.DAT
+Sturdy Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HEAVY_01_PANTS.DAT
+Sturmbeorn Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STURM_01_PANTS_ALT_B.DAT
+Sturmbeorn Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STURM_01_PANTS.DAT
+Sturmbeorn Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\STURM_01_PANTS_ALT_C.DAT
+Support Schynbalds.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_05_PANTS_ALT_B.DAT
+Surveyor Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_04_PANTS.DAT
+Tarroch's Battlebreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_05_PANTS_ALT_C.DAT
+Tarroch's Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_05_PANTS_ALT_B.DAT
+Tarroch's Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_05_PANTS.DAT
+Tenebris Hose.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_02_PANTS_ALT_B.DAT
+The Black Knight's Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_03_PANTS_ALT_C.DAT
+The Breeks of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BONE_01_PANTS_ALT_C.DAT
+The Duskers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_01_PANTS_ALT_C.DAT
+The Fraybreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_06_PANTS.DAT
+The Goonbreeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_04_PANTS_ALT_B.DAT
+The Pants of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BONE_01_PANTS.DAT
+The Red Legs.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_05_PANTS_ALT_B.DAT
+The Shadowpants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_01_PANTS.DAT
+The Voynich Hose.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_03_PANTS_ALT_B.DAT
+The Wanderlusters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_02_PANTS.DAT
+Trailblazer Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_07_PANTS_ALT_C.DAT
+Trailblazer Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_07_PANTS.DAT
+Trailblazer Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\COLONIST_07_PANTS_ALT_B.DAT
+Trancendent Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_06_PANTS_ALT_SET.DAT
+Travelling Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_02_PANTS_ALT_C.DAT
+Trousers of the Overseer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_03_PANTS.DAT
+Trousers of the Winter Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_06_PANTS_ALT_B.DAT
+True Estheria Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ESTHERIAN_01_PANTS_ALT_SET.DAT
+True North Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_02_PANTS_ALT_SET.DAT
+Tweeds of the Big Yin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_02_PANTS_ALT_B.DAT
+Umbral Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\NETHERIM_01_PANTS_ALT_B.DAT
+Unearthly Breeks.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_06_PANTS_ALT_SET.DAT
+Valkyrie Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\LIGHT_G_PANTS_ALT_SET.DAT
+Vance's Leggings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_02_PANTS_ALT_C.DAT
+Vanquisher Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VANQUISHER_01_PANTS.DAT
+Varkolyn Kirtle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VARKOLYN_01_PANTS_ALT_B.DAT
+Varkolyn Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VARKOLYN_01_PANTS.DAT
+Varkolyn Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\VARKOLYN_01_PANTS_ALT_C.DAT
+Wanderlust Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\WANDERER_02_PANTS_ALT_SET.DAT
+Warcaster Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_05_PANTS_ALT_B.DAT
+Warlock Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CASTER_04_PANTS_ALT_C.DAT
+Warlock Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HUNTER_01_PANTS.DAT
+Wazir Kilt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_02_PANTS_ALT_B.DAT
+Wazir Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_02_PANTS.DAT
+Wazir Tassets.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_02_PANTS_ALT_C.DAT
+Wildwood Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\FOREST_01_PANTS_ALT_SET.DAT
+Windchillers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_02_PANTS_ALT_C.DAT
+Windshear Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\BERSERKER_02_PANTS_ALT_B.DAT
+Witchfinder Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\HUNTER_01_PANTS_ALT_C.DAT
+Woven Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\CLOTH_F_PANTS_ALT_D.DAT
+Zeraphi Breeches.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_01_PANTS_ALT_B.DAT
+Zeraphi Pantaloons.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_01_PANTS_ALT_C.DAT
+Zeraphi Pants.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ZERAPHI_01_PANTS.DAT
+Zugmeister's Trousers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\PANTS\ENGINEER_02_PANTS_ALT_C.DAT

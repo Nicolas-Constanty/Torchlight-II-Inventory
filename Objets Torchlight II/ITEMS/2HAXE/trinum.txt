@@ -1,0 +1,79 @@
+﻿1:bland greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_BLAND.DAT
+3:Felling Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N01.DAT
+4:Primitive Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M01.DAT
+6:Lumber Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N01B.DAT
+7:Tribal Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M01B.DAT
+7:Trollcutter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U01.DAT
+9:Timber Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N01C.DAT
+10:Totemic Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M01C.DAT
+10:Tribal Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M01SLOTS.DAT
+11:Trollsapper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U01B.DAT
+13:Stone-Blade Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M02.DAT
+13:Two-Handed Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N02.DAT
+15:Trollcleaver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U01C.DAT
+16:Bronze-Blade Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M02B.DAT
+17:Long Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N02B.DAT
+19:Iron-Blade Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M02C.DAT
+19:Spikebeard Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M02SLOTS.DAT
+19:Shieldbasher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U02.DAT
+21:Bull Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N02C.DAT
+22:Creed Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M03.DAT
+23:Helmsplitter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U02B.DAT
+25:Ceremonial Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M03B.DAT
+26:Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N03.DAT
+27:Boneshredder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U02C.DAT
+28:Arrowhead Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M03SLOTS.DAT
+29:Ritual Voulge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M03C.DAT
+31:War Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N03B.DAT
+32:The Honorguard's Touch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U03.DAT
+33:Double Pole Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M04.DAT
+36:Mattock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N03C.DAT
+37:Zeraphi Mattock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M04B.DAT
+37:The Executioner's Kiss.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U03B.DAT
+40:Two-Headed Viper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M04SLOTS.DAT
+41:Broadblade Hewer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M04C.DAT
+42:Pole Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N04.DAT
+42:The Headsman's Caress.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U03C.DAT
+45:Sacrificial Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M05.DAT
+47:Reptimortis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U04.DAT
+48:Voulge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N04B.DAT
+49:Long-Bearded Chopper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M05B.DAT
+52:Headsman's Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M05SLOTS.DAT
+52:Headhunter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U04B.DAT
+53:Gold-Bearded Chopper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M05C.DAT
+55:Bardiche.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N04C.DAT
+57:Valgang War Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M06.DAT
+57:test kill.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_TEST_AUGMENT.DAT
+57:Cutthroat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U04C.DAT
+59:Blade of the Ripper .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY_GREATAXE01.DAT
+62:Ezrohir Heirloom Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M06B.DAT
+62:Halberd.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N05.DAT
+62:The Axe of the Ogre King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U05.DAT
+65:Ezrohir Field Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M06SLOTS.DAT
+67:Imperial Scorpion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M06C.DAT
+67:The Axe of Broken Pacts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U05B.DAT
+69:Hippe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N05B.DAT
+72:Hook-Billed Chopper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M07.DAT
+72:The Axe of War.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U05C.DAT
+76:Scorpion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N05C.DAT
+77:Half-Moon Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M07B.DAT
+77:The Dragonhorn Halberd.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U06.DAT
+79:All the Colors of the Dark .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY_GREATAXE02.DAT
+80:Steel-Thorn Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M07SLOTS.DAT
+82:Crowbill.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M07C.DAT
+82:Dragonaxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U06B.DAT
+83:Beaked Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N06.DAT
+87:Estherian Hippe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M08.DAT
+87:Dragondoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U06C.DAT
+90:Double Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N06B.DAT
+92:Desert Chopper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M08B.DAT
+92:The Gearhead.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U07.DAT
+95:Dwarven Bane-Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M08SLOTS.DAT
+97:Nomad Voulge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_M08C.DAT
+97:Grandaxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_N06C.DAT
+97:The Mechano-Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U07B.DAT
+99:Mountain of the Cannibal God .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY_GREATAXE03.DAT
+100:Axe-Bot 2525.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\GREATAXE_U07C.DAT
+105:Foe's Collapse.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY2_GREATAXE04.DAT
+105:Ribcleave.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY2_GREATAXE04B.DAT
+105:Netherrealm Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HAXE\LEGENDARY2_GREATAXE04C.DAT

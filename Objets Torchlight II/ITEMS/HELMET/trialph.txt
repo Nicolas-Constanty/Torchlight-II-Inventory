@@ -1,0 +1,296 @@
+﻿Adeptus Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_03_HELMET.DAT
+Adventurer Capeline.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_08_HELMET_ALT_B.DAT
+Adventurer Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_08_HELMET.DAT
+Adventurer Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_08_HELMET_ALT_C.DAT
+Alchemical Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_01_HELMET_ALT_SET.DAT
+Argonaut Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PONYA_01_HELMET_ALT_SET.DAT
+Aristocrat Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PIMP_01_HELMET_ALT_SET.DAT
+Ascendant Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_X07_HELMET.DAT
+Badgermask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_03_HELMET_ALT_B.DAT
+Badlands Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DESERT_01_HELMET_ALT_SET.DAT
+Battlemage Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_04_HELMET_ALT_C.DAT
+Beastling Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PONYA_01_HELMET.DAT
+Belfry Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_05_HELMET.DAT
+Black Mask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BONE_01_HELMET_SET_THEGRAY.DAT
+Bloodsteam Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_G_HELMET_ALT_SET.DAT
+Bronze Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_C_HELMET_ALT_C.DAT
+Bronze Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_C_HELMET.DAT
+Bronze Spangenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_C_HELMET_ALT_B.DAT
+Buffadon Bill's Hide Mask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_SLAVERS_EASTEREGG_HELM.DAT
+Celestial Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOCKWORK_01_HELMET_ALT_SET.DAT
+Ceremonial Ezrohir Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_01_HELMET_ALT_SET.DAT
+Chain Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_C_HELMET_ALT_B.DAT
+Chain Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_C_HELMET.DAT
+Chain Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_C_HELMET_ALT_C.DAT
+Chainmail Cervelliere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_F_HELMET_ALT_C.DAT
+Chainmail Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_F_HELMET_ALT_B.DAT
+Chainmail Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_F_HELMET.DAT
+Clamorhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_03_HELMET_ALT_C.DAT
+Clockwork Armet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOCKWORK_01_HELMET_ALT_C.DAT
+Closerlook Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_05_HELMET_ALT_B.DAT
+Closerlook Mask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_05_HELMET_ALT_C.DAT
+Cloth Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_A_HELMET.DAT
+Cloth Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_A_HELMET_ALT_C.DAT
+Cloth Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_A_HELMET_ALT_B.DAT
+Clovenhoof Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FURHIDE_01_HELMET_ALT_SET.DAT
+Coif of the Ember Adventurers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_02_HELMET_ALT_B.DAT
+Coldheart Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_02_HELMET_ALT_C.DAT
+Colonist Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_01_HELMET_ALT_C.DAT
+Colonist Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_01_HELMET.DAT
+Colonist Pileus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_01_HELMET_ALT_B.DAT
+Conjurer Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_02_HELMET_ALT_C.DAT
+Corbucci's Fame.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_06_HELMET_SET_CORBUCCI.DAT
+Coronet of the Midnight King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_02_HELMET_ALT_B.DAT
+Crown of Taskmaster Tempus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_06_HELMET_ALT_C.DAT
+Crown of the Winter Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_06_HELMET_ALT_C.DAT
+Damascus Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_F_HELMET_ALT_E.DAT
+Desert Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DESERT_01_HELMET.DAT
+Desert Keffiyeh.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DESERT_01_HELMET_ALT_C.DAT
+Desert Turban.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DESERT_01_HELMET_ALT_B.DAT
+Dominion Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_X07_HELMET.DAT
+Dragonrift Cervelliere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_G_HELMET_ALT_SET.DAT
+Draketalon Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_X07_HELMET.DAT
+Dwarfking Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DWARF_01_HELMET_ALT_SET.DAT
+Dwarven Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DWARF_01_HELMET_ALT_C.DAT
+Dwarven Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DWARF_01_HELMET.DAT
+Dwarven Spangenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DWARF_01_HELMET_ALT_B.DAT
+Emberclad Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\EMBER_01_HELMET_ALT_B.DAT
+Embercraft Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_04_HELMET_ALT_SET.DAT
+Emberheart Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\EMBER_01_HELMET.DAT
+Emberplate Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\EMBER_01_HELMET_ALT_C.DAT
+Emberweave Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_05_HELMET_ALT_SET.DAT
+Estherian Headdress.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_01_HELMET_ALT_B.DAT
+Estherian Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_01_HELMET.DAT
+Estherian Mitre.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_01_HELMET_ALT_C.DAT
+Exorcist Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VARKOLYN_01_HELMET_ALT_SET.DAT
+Explorer Capeline.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_05_HELMET_ALT_C.DAT
+Explorer Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_05_HELMET.DAT
+Explorer Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_05_HELMET_ALT_B.DAT
+Ezrohir Hood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_01_HELMET.DAT
+Ezrohir Keffiyeh.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_01_HELMET_ALT_B.DAT
+Ezrohir Shemagh.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_01_HELMET_ALT_C.DAT
+Feral Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_04_HELMET_ALT_SET.DAT
+Fine-Crafted Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET_ALT_F.DAT
+Fine-Thread Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET_ALT_E.DAT
+Forest Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FOREST_01_HELMET_ALT_B.DAT
+Forest Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FOREST_01_HELMET.DAT
+Forest Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FOREST_01_HELMET_ALT_C.DAT
+Forgecrafted Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_04_HELMET_ALT_SET.DAT
+Forged Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_F_HELMET_ALT_D.DAT
+Formal Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET_ALT_F.DAT
+Formal Regent Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_02_HELMET_ALT_SET.DAT
+General Grell's Command.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_STURM_01_HELMET.DAT
+General Grell's Doomhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_STURM_01_HELMET_ALT_C.DAT
+General Grell's Headpiece.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_STURM_01_HELMET_ALT_B.DAT
+General Grell's Hornhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_STURM_01_HELMET_ALT_D.DAT
+Grand Architect Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_05_HELMET_ALT_SET.DAT
+Grand Wazir Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_02_HELMET_ALT_SET.DAT
+Granite Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STONE_01_HELMET_ALT_SET.DAT
+Harbinger Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_06_HELMET_ALT_SET.DAT
+Heavy Metal Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_06_HELMET_ALT_B.DAT
+Helm of Good Measure.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_04_HELMET.DAT
+Helm of Lamentations.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_03_HELMET.DAT
+Helm of Silenced Screams.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_05_HELMET_ALT_C.DAT
+Helm of the Cindermen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_06_HELMET_ALT_B.DAT
+Helm of the Edition Wars.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_04_HELMET_ALT_B.DAT
+Helm of the Faceless Railman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_03_HELMET.DAT
+Helm of the Grimknight.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_02_HELMET.DAT
+Helm of the Laughing Vagabond.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_04_HELMET.DAT
+Helm of the North Wind.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_02_HELMET.DAT
+Helm of the Tick-Tock Prince.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOCKWORK_01_HELMET.DAT
+Helm of the Wastes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_02_HELMET_ALT_B.DAT
+Hexenjaeger Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_05_HELMET_ALT_C.DAT
+High Wizard's Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_06_HELMET_ALT_B.DAT
+Highridge Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MOUNTAIN_01_HELMET_ALT_SET.DAT
+Homesteader Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_04_HELMET_ALT_B.DAT
+Homesteader Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_04_HELMET.DAT
+Homesteader Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_04_HELMET_ALT_C.DAT
+Hood of the Golden Dawn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_05_HELMET_ALT_B.DAT
+Imperial Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PIMP_01_HELMET.DAT
+Incantus Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_03_HELMET_ALT_C.DAT
+Incubus Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_02_HELMET_ALT_SET.DAT
+Inlayed Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET_ALT_E.DAT
+Inquisitor Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_G_HELMET_ALT_SET.DAT
+Iron Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_E_HELMET_ALT_C.DAT
+Iron Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_E_HELMET.DAT
+Iron Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_E_HELMET_ALT_B.DAT
+Ironmail Cervelliere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_F_HELMET_ALT_D.DAT
+Ironwrought Cervelliere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_F_HELMET_ALT_E.DAT
+Janissary Capotain.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_02_HELMET_ALT_C.DAT
+Janissary Headdress.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_02_HELMET_ALT_B.DAT
+Janissary Hood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_02_HELMET.DAT
+Karzenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_04_HELMET_ALT_C.DAT
+King Mob's Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_03_HELMET_ALT_B.DAT
+King's Mail Cervelliere .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_G_HELMET_ALT_C.DAT
+King's Mail Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_G_HELMET_ALT_B.DAT
+King's Mail Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_G_HELMET.DAT
+Labarinto Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_05_HELMET_ALT_SET.DAT
+Laminated Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_D_HELMET.DAT
+Laminated Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_D_HELMET_ALT_C.DAT
+Laminated Skull-Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_D_HELMET_ALT_B.DAT
+Leather Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_A_HELMET_ALT_B.DAT
+Leather Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_A_HELMET.DAT
+Leather Skull-Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_A_HELMET_ALT_C.DAT
+Legionnaire Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_E_HELMET_ALT_C.DAT
+Legionnaire Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_E_HELMET.DAT
+Legionnaire Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_E_HELMET_ALT_B.DAT
+Liberation Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_04_HELMET_ALT_SET.DAT
+Light Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_01_HELMET_ALT_C.DAT
+Light Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_01_HELMET_ALT_B.DAT
+Light Hood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_01_HELMET.DAT
+Linen Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_D_HELMET.DAT
+Linen Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_D_HELMET_ALT_C.DAT
+Linen Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_D_HELMET_ALT_B.DAT
+Link Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_A_HELMET_ALT_B.DAT
+Link Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_A_HELMET.DAT
+Link Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_A_HELMET_ALT_C.DAT
+Lizard-Hide Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET_ALT_D.DAT
+Machine Forged Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_03_HELMET_ALT_SET.DAT
+Machine-Shop Visor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_03_HELMET_ALT_C.DAT
+Machinist Facemask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_03_HELMET_ALT_B.DAT
+Mail Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_D_HELMET_ALT_B.DAT
+Mail Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_D_HELMET.DAT
+Mail Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_D_HELMET_ALT_C.DAT
+Mask of Mother Night.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_01_HELMET_ALT_C.DAT
+Merciless Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_03_HELMET_ALT_SET.DAT
+Mondon's Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_06_HELMET_ALT_SET.DAT
+Mountain Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MOUNTAIN_01_HELMET_ALT_C.DAT
+Mountain Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MOUNTAIN_01_HELMET.DAT
+Mountain Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MOUNTAIN_01_HELMET_ALT_B.DAT
+Necromius Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BONE_01_HELMET_ALT_B.DAT
+Necrotic Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BONE_01_HELMET_ALT_SET.DAT
+Oathbreaker Hat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HUNTER_01_HELMET_ALT_B.DAT
+Obscure Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_01_HELMET_ALT_SET.DAT
+Ole's Mighty Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\Z_ESTHERIAN_01_HELMET_SET.DAT
+Outercore Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_X07_HELMET.DAT
+Padded Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET_ALT_C.DAT
+Padded Bonnet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET_ALT_B.DAT
+Patchwork Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_C_HELMET.DAT
+Patchwork Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_C_HELMET_ALT_C.DAT
+Patchwork Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_C_HELMET_ALT_B.DAT
+Pathfinder Capeline.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_06_HELMET_ALT_C.DAT
+Pathfinder Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_06_HELMET.DAT
+Pathfinder Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_06_HELMET_ALT_B.DAT
+Perdurabo Hood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_04_HELMET_ALT_B.DAT
+Phoenix Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_G_HELMET_ALT_C.DAT
+Phoenix Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_G_HELMET.DAT
+Phoenix Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_G_HELMET_ALT_B.DAT
+Pioneer Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_03_HELMET_ALT_B.DAT
+Pioneer Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_03_HELMET.DAT
+Pioneer Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_03_HELMET_ALT_C.DAT
+Plainslord Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_03_HELMET_ALT_SET.DAT
+Plate Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_A_HELMET_ALT_C.DAT
+Plate Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_A_HELMET.DAT
+Plate Spangenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_A_HELMET_ALT_B.DAT
+Pleated Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_E_HELMET_ALT_C.DAT
+Pleated Bonnet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_E_HELMET_ALT_B.DAT
+Pleated Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_E_HELMET.DAT
+Pleated Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET.DAT
+Ponya Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PONYA_01_HELMET_ALT_B.DAT
+Praetorian Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_G_HELMET_ALT_C.DAT
+Praetorian Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_G_HELMET.DAT
+Praetorian Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_G_HELMET_ALT_B.DAT
+Precision Phrenologic Headgear.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOCKWORK_01_HELMET_ALT_B.DAT
+Raider's Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_05_HELMET.DAT
+Rail-Forge Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_06_HELMET.DAT
+Railman Lamp-Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_02_HELMET_ALT_B.DAT
+Rawhide Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FURHIDE_01_HELMET_ALT_B.DAT
+Rawhide Caubeen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FURHIDE_01_HELMET_ALT_C.DAT
+Rawhide Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FURHIDE_01_HELMET.DAT
+Redscale Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_C_HELMET_ALT_B.DAT
+Redscale Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_C_HELMET.DAT
+Redscale Skull-Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_C_HELMET_ALT_C.DAT
+Regent Headdress.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_02_HELMET_ALT_B.DAT
+Regent Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_02_HELMET.DAT
+Regent Mitre.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_02_HELMET_ALT_C.DAT
+Rhino-Hide Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET.DAT
+Rhino-Hide Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET_ALT_B.DAT
+Rhino-Hide Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_F_HELMET_ALT_C.DAT
+Ringed Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_01_HELMET.DAT
+Ringed Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_01_HELMET_ALT_B.DAT
+Ringed Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_01_HELMET_ALT_C.DAT
+Ritual Janissary Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\DEZROHIR_02_HELMET_ALT_SET.DAT
+Runemaster Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STURM_01_HELMET_ALT_SET.DAT
+Salamander Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_G_HELMET_ALT_C.DAT
+Salamander Bonnet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_G_HELMET_ALT_B.DAT
+Salamander Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_G_HELMET.DAT
+Savage Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_05_HELMET_ALT_SET.DAT
+Scale Cervelliere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_E_HELMET_ALT_C.DAT
+Scale Coif.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_E_HELMET_ALT_B.DAT
+Scale Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\MEDIUM_E_HELMET.DAT
+Segmented Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_D_HELMET_ALT_C.DAT
+Segmented Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_D_HELMET.DAT
+Segmented Spangenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_D_HELMET_ALT_B.DAT
+Sentinel Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VANQUISHER_01_HELMET_ALT_SET.DAT
+Servo-Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_02_HELMET.DAT
+Settler Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_02_HELMET_ALT_C.DAT
+Settler Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_02_HELMET.DAT
+Settler Pileus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_02_HELMET_ALT_B.DAT
+Skullcap of Effrenatus the Thinker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_03_HELMET_ALT_C.DAT
+Skullcap of the Sojourner.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_02_HELMET_ALT_C.DAT
+Sodalis Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_06_HELMET.DAT
+Spellweaver Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_03_HELMET_ALT_SET.DAT
+Steel Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_F_HELMET_ALT_C.DAT
+Steel Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_F_HELMET.DAT
+Steel Sallet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_F_HELMET_ALT_B.DAT
+Stone Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STONE_01_HELMET_ALT_C.DAT
+Stone Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STONE_01_HELMET.DAT
+Stone Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STONE_01_HELMET_ALT_B.DAT
+Sturdy Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_01_HELMET.DAT
+Sturdy Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_01_HELMET_ALT_B.DAT
+Sturdy Spangenhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HEAVY_01_HELMET_ALT_C.DAT
+Sturmbeorn Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STURM_01_HELMET.DAT
+Sturmbeorn Houndskull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STURM_01_HELMET_ALT_B.DAT
+Sturmbeorn Hundsgugel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\STURM_01_HELMET_ALT_C.DAT
+Surveyor Goggle-Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_04_HELMET_ALT_B.DAT
+Tarroch's Greathelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_05_HELMET_ALT_B.DAT
+Tarroch's Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_05_HELMET.DAT
+Tarroch's Masterhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_05_HELMET_ALT_C.DAT
+Telescoping Goggle-Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_04_HELMET_ALT_C.DAT
+Tenebra's Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_01_HELMET.DAT
+Tenebris Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_02_HELMET.DAT
+test proc.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZZZ_TESTPROC.DAT
+Thargo's Mighty Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_04_HELMET_ALT_B.DAT
+The Asphyx.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\Z_HELMET_ASPHYX.DAT
+The Battlecrown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_06_HELMET_ALT_B.DAT
+The Black Knight's Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_03_HELMET.DAT
+The Bloody Red Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_05_HELMET_ALT_B.DAT
+The Coif of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BONE_01_HELMET_ALT_C.DAT
+The Critter-King's Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\PONYA_01_HELMET_ALT_C.DAT
+The Crown of Ashes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_06_HELMET_ALT_C.DAT
+The Direhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_04_HELMET_ALT_C.DAT
+The Harrowhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_06_HELMET.DAT
+The Helm of Conquest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_04_HELMET.DAT
+The Helm of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BONE_01_HELMET.DAT
+The Slaghelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\BERSERKER_06_HELMET.DAT
+The Ultimate Foundation.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\Z_BERSERKER_05_HELMET_SET.DAT
+The Voynich Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_03_HELMET_ALT_B.DAT
+The Wanderhelm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_02_HELMET.DAT
+The Whisperveil.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_01_HELMET_ALT_B.DAT
+The Wightcrown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\NETHERIM_02_HELMET_ALT_C.DAT
+The Ziddercrown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_06_HELMET_ALT_C.DAT
+Trailblazer Capeline.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_07_HELMET_ALT_C.DAT
+Trailblazer Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_07_HELMET.DAT
+Trailblazer Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\COLONIST_07_HELMET_ALT_B.DAT
+Trancendent Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_06_HELMET_ALT_SET.DAT
+True Estheria Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ESTHERIAN_01_HELMET_ALT_SET.DAT
+Unearthly Helmet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\WANDERER_06_HELMET_ALT_SET.DAT
+Valkyrie Burgonet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\LIGHT_G_HELMET_ALT_SET.DAT
+Vance's Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_02_HELMET_ALT_B.DAT
+Vanquisher Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VANQUISHER_01_HELMET.DAT
+Varkolyn Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VARKOLYN_01_HELMET.DAT
+Varkolyn Hood.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VARKOLYN_01_HELMET_ALT_C.DAT
+Varkolyn Skullcap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\VARKOLYN_01_HELMET_ALT_B.DAT
+Warcaster Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_05_HELMET.DAT
+Warlock Cap.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HUNTER_01_HELMET.DAT
+Warlock Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CASTER_04_HELMET.DAT
+Wazir Barbute.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_02_HELMET_ALT_B.DAT
+Wazir Gorget.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_02_HELMET_ALT_C.DAT
+Wazir Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_02_HELMET.DAT
+Wildwood Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\FOREST_01_HELMET_ALT_SET.DAT
+Witchfinder Hat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\HUNTER_01_HELMET_ALT_C.DAT
+Woven Beret.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\CLOTH_F_HELMET_ALT_D.DAT
+Zeraphi Helm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_01_HELMET.DAT
+Zeraphi Igal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_01_HELMET_ALT_B.DAT
+Zeraphi Niqaab.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ZERAPHI_01_HELMET_ALT_C.DAT
+Zugmeister's Torchlighter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\HELMET\ENGINEER_02_HELMET_ALT_C.DAT

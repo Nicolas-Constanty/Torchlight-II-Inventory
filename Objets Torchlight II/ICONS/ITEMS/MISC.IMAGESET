@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "misc" Imagefile="media/ui/icons/misc/misc.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="map_vault" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="map_shrine" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="map_scroll" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="map_icecave" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="map_dragon" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="map_cave" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="map_catacombs" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_scroll_portal" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="icons_scroll_identify" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="dynamite" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="icon_to_town" XPos="129" YPos="129" Width="32" Height="32" />
+	<Image Name="icon_to_portal" XPos="163" YPos="129" Width="32" Height="32" />
+	<Image Name="icon_alert" XPos="197" YPos="129" Width="28" Height="28" />
+	<Image Name="icon_ping_poor" XPos="227" YPos="129" Width="10" Height="32" />
+	<Image Name="icon_ping_low" XPos="239" YPos="129" Width="10" Height="32" />
+	<Image Name="icon_ping_good" XPos="197" YPos="159" Width="10" Height="32" />
+</Imageset>

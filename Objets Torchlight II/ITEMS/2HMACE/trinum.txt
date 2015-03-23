@@ -1,0 +1,94 @@
+﻿1:Railman Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N00.DAT
+1:Rat Killer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\RATKILLER.DAT
+1:Ritual Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZOMBIESUMMONER.DAT
+2:Farmer's Greatclub.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M01.DAT
+3:Greatclub.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N01.DAT
+5:Prison Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M01B.DAT
+5:War Club.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N01B.DAT
+5:The Cavitator.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U01.DAT
+8:Lumber Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M01C.DAT
+8:Stonewheel Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M01SLOTS.DAT
+8:War Caber.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N01C.DAT
+9:Dwarfbreaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U01B.DAT
+10:The Gristmill.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U01X.DAT
+10:Grell's Stone Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZZZ_GRELLS_HAMMER.DAT
+11:Bone Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M02.DAT
+11:Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N02.DAT
+13:Shieldcrusher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U01C.DAT
+14:Iron Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M02B.DAT
+15:War Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N02B.DAT
+15:Ole's Massive Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\Z_GREATHAMMER_M03_SET.DAT
+17:Steel Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M02C.DAT
+17:Ironblock Greathammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M02SLOTS.DAT
+17:Heartbreaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U02.DAT
+19:Great Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N02C.DAT
+20:Rail Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M03.DAT
+21:Misery.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U02B.DAT
+23:Combat Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M03B.DAT
+24:Sledgehammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N03.DAT
+25:Tormentor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U02C.DAT
+26:Gear-Monkey Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M03SLOTS.DAT
+27:Steelhead Fixer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M03C.DAT
+29:Greatsledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N03B.DAT
+30:Mansmasher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U03.DAT
+31:Mandible Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M04.DAT
+34:War Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N03C.DAT
+35:Hog Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M04B.DAT
+35:The Paladin's Fist.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U03B.DAT
+38:Jawbone Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M04SLOTS.DAT
+39:Beast Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M04C.DAT
+39:Wraith Lord's Axe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZZZ_WRAITHAXE.DAT
+39:Wraith Lord's Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZZZ_WRAITHHAMMER.DAT
+39:Wraith Lord's Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZZZ_WRAITHMACE.DAT
+39:Wraith Lord's Spear.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\ZZZ_WRAITHSPEAR.DAT
+40:Round Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N04.DAT
+40:Manswatter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U03C.DAT
+40:Fused Iron Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\Z_GREATHAMMER_U05_SET.DAT
+43:Tombstone Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M05.DAT
+45:Mace of the Twin Gods.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U04.DAT
+46:Ironstar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N04B.DAT
+46:The Monster Mash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U05X.DAT
+47:Graveyard Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M05B.DAT
+48:The Grammar Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U07D.DAT
+50:Runestone Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M05SLOTS.DAT
+50:Blackfang Bludgeon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U04B.DAT
+51:Burial Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M05C.DAT
+53:Warstar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N04C.DAT
+55:Stonesplitter Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M06.DAT
+55:The Stamp of Disapproval.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U04C.DAT
+55:Threaded Bolt Driver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\Z_GREATHAMMER_U06_SET.DAT
+59:The Rules of the Game .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY_GREATHAMMER01.DAT
+60:Stonewedge Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M06B.DAT
+60:Greathammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N05.DAT
+60:Dwarven Skullpunch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U05.DAT
+63:Wealdhammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M06SLOTS.DAT
+65:Stonecrush Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M06C.DAT
+65:Spikedriver.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U05B.DAT
+67:Longhammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N05B.DAT
+70:Magma Mace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M07.DAT
+70:Spinecracker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U05C.DAT
+74:Trench Hammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N05C.DAT
+75:Railman's Standard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M07B.DAT
+75:The Ogre's Fist.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U06.DAT
+78:Torchbearer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M07SLOTS.DAT
+79:Grand Illusion .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY_GREATHAMMER02.DAT
+80:Hellfire Club.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M07C.DAT
+80:The Administrator.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U06B.DAT
+81:Giant Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N06.DAT
+85:Bonebreaker Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M08.DAT
+85:The Troll's Knuckle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U06C.DAT
+88:Greatstar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N06B.DAT
+90:Beasthead Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M08B.DAT
+90:Gatecrasher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U07.DAT
+93:Hammerhead Maul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M08SLOTS.DAT
+95:Tribal War-Sledge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_M08C.DAT
+95:Engineer Wrench.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_N06C.DAT
+95:Demolisher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U07B.DAT
+99:Whirlpool of Fate .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY_GREATHAMMER03.DAT
+100:Siegebreaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\GREATHAMMER_U07C.DAT
+105:Foe's Collapse.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATAXE04.DAT
+105:Ribcleave.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATAXE04B.DAT
+105:Netherrealm Greataxe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATAXE04C.DAT
+105:Quietus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATHAMMER04.DAT
+105:The Final Embrace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATHAMMER04B.DAT
+105:Netherrealm Greathammer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HMACE\LEGENDARY2_GREATHAMMER04C.DAT

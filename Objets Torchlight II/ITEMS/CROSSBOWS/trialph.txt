@@ -1,0 +1,77 @@
+﻿Adanced Stock-Bow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M07.DAT
+Arbalest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N05.DAT
+Arcuballista.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N05B.DAT
+Ballista.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N05C.DAT
+Battle Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N06C.DAT
+Belly-Bow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N04.DAT
+Bitter Moon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\LEGENDARY_CROSSBOW02.DAT
+Bolt-Launcher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M03C.DAT
+Boltspray.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U06.DAT
+Bolt-Thrower.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M05.DAT
+Bone Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M03B.DAT
+Boneyard Bolt-Spitter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M03SLOTS.DAT
+Cavalry Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N03C.DAT
+Clockwork Kestrel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U07C.DAT
+Colonial Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M04B.DAT
+Composite Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M07C.DAT
+Compound Multibow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M08SLOTS.DAT
+Cranequin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M02B.DAT
+Crankbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N06.DAT
+Cranked Leverbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M08C.DAT
+Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N02.DAT
+Crosshawk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U07.DAT
+Deadbolter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U04C.DAT
+Dwarven Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M06C.DAT
+Earpiercer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U02C.DAT
+Eater of the Dead.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U03B.DAT
+Ezrohir Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M06B.DAT
+Ezrohir Winchbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M06SLOTS.DAT
+Falcon's Reach.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M04_SET_FALCON.DAT
+Fiendfinder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U06C.DAT
+Foefinder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U06B.DAT
+Four-Bones Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M02SLOTS.DAT
+Gargoyle's Crank.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U01.DAT
+Gastraphetes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N04B.DAT
+Heartpiercer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U02B.DAT
+Heavy Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N03.DAT
+Hemp-Cord Arbalest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M02.DAT
+Hidepiercer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U02.DAT
+Horn-Prod Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M01C.DAT
+Hunting Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N02C.DAT
+Imperial Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M06.DAT
+Industrium Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M01SLOTS.DAT
+Industrium Master-Bow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M05SLOTS.DAT
+Iron Windlass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M04.DAT
+Iron-Prod Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M01B.DAT
+Lever-Action Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M02C.DAT
+Lightning Bolter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U04B.DAT
+Manuballista.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N01C.DAT
+Marksman's Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M05C.DAT
+Mastercrafted Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M05B.DAT
+Military Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N02B.DAT
+Netherrealm Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\LEGENDARY2_CROSSBOW03C.DAT
+Over-Under Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M07SLOTS.DAT
+Peasant Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M01.DAT
+Pulley-Bow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M08B.DAT
+Quarreler.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U05B.DAT
+Quarrel's Lover.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U05.DAT
+Reflex Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M07B.DAT
+Repeating Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N03B.DAT
+Sailor's Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M04C.DAT
+Siege Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N04C.DAT
+Simple Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N01.DAT
+Skullfire Fangbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\LEGENDARY2_CROSSBOW03B.DAT
+Soldier's Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N06B.DAT
+Spinecord Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M03.DAT
+Stock Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_N01B.DAT
+The Emperor's Wrath.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U01C.DAT
+The Hornet's Nest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U01B.DAT
+The Mandlebow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\LEGENDARY2_CROSSBOW03.DAT
+The Manticore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U03C.DAT
+The Ninth Gate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\LEGENDARY_CROSSBOW01.DAT
+The Peregrine Gun.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U07B.DAT
+The Scorpion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U03.DAT
+Thunderbolter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U04.DAT
+Vilderan Oxbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M04SLOTS.DAT
+Webshredder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_U05C.DAT
+Zeraphi Crossbow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CROSSBOWS\CROSSBOW_M08.DAT

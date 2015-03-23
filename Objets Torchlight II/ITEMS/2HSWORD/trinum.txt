@@ -1,0 +1,84 @@
+﻿1:Ancient Bone Golem Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_BONEGOLEM01.DAT
+1:Oathkeeper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_DESTROYER.DAT
+1:Seafarer's Claymore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_PIRATEBOSS.DAT
+1:Skeleton Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_SKELETON01.DAT
+1:Skeleton Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_SKELETON2.DAT
+2:Broadsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N01.DAT
+3:Steel Longsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M01.DAT
+5:Heavy Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N01B.DAT
+6:Field Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M01B.DAT
+6:Three-Hand Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U01.DAT
+8:Two-Hander.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N01C.DAT
+9:Battlefielder.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M01C.DAT
+9:Ancestral Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M01SLOTS.DAT
+10:Bear-Baiter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U01B.DAT
+12:Razor Edge Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M02.DAT
+12:War Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N02.DAT
+14:Decapitator.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U01C.DAT
+15:Headsman's Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M02B.DAT
+16:Infantry Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N02B.DAT
+18:Executioner's Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M02C.DAT
+18:Great-Razor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M02SLOTS.DAT
+18:Equalizer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U02.DAT
+20:Fighting Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N02C.DAT
+20:TEST.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\Z_TEST_FIRESWORD.DAT
+21:Curved Broadsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M03.DAT
+22:Goblinskewer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U02B.DAT
+24:Northern Tulwar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M03B.DAT
+25:Longsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N03.DAT
+26:Severance.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U02C.DAT
+27:Ashenfeld Slasher.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M03SLOTS.DAT
+28:Southern Tulwar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M03C.DAT
+30:Battle Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N03B.DAT
+31:The Extension Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U03.DAT
+32:Beheading Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M04.DAT
+35:Bastard Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N03C.DAT
+36:Cryptkeeper Claymore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M04B.DAT
+36:Scrapper.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U03B.DAT
+39:Corsair's Cutlass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M04SLOTS.DAT
+40:Tormbrock Claymore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M04C.DAT
+41:Two-Handed Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N04.DAT
+41:The Savage Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U03C.DAT
+44:Stone Giant Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M05.DAT
+46:Netherbane.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U04.DAT
+47:Hand-and-a-Half Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N04B.DAT
+48:Hill Giant Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M05B.DAT
+51:Lord's Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M05SLOTS.DAT
+51:The Sword of Oakeshott.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U04B.DAT
+52:Mountain Giant Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M05C.DAT
+54:Both-Hands Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N04C.DAT
+55:The Gray.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U02_SET_THEGRAY.DAT
+56:Royal Tulwar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M06.DAT
+56:Dragonsbane.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U04C.DAT
+59:Blood and Black Lace .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY_GREATSWORD01.DAT
+61:Zeraphesque Tulwar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M06B.DAT
+61:Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N05.DAT
+61:Experimental Chainsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U05.DAT
+64:Zeraphi Greatblade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M06SLOTS.DAT
+66:Ezrohir Slaughtersword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M06C.DAT
+66:Dwarven Gearblade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U05B.DAT
+68:Greatblade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N05B.DAT
+71:Flammenschwert.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M07.DAT
+71:Gearbladed Grindsaw.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U05C.DAT
+75:Double-Hander.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N05C.DAT
+76:Black Haven Schiavona.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M07B.DAT
+76:Ogre Dagger.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U06.DAT
+79:Sprawler's Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M07SLOTS.DAT
+79:The Evil Eye .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY_GREATSWORD02.DAT
+81:Imperial Battle Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M07C.DAT
+81:Valgang Toothpick.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U06B.DAT
+82:Soldier's Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N06.DAT
+86:Desert Riftsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M08.DAT
+86:Dragonfang Skewer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U06C.DAT
+89:Eastern Two-Hander.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N06B.DAT
+91:Goblin-Splitter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M08B.DAT
+91:The Starlight Blade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U07.DAT
+94:Estherian Manablade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M08SLOTS.DAT
+96:Trollrender.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_M08C.DAT
+96:True Sword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_N06C.DAT
+96:Starblade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U07B.DAT
+99:Twitch of the Death Nerve .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY_GREATSWORD03.DAT
+100:Comet's Tail.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\GREATSWORD_U07C.DAT
+105:Glyphforge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY2_GREATSWORD04.DAT
+105:Mortal Edge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY2_GREATSWORD04B.DAT
+105:Netherrealm Greatsword.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\2HSWORD\LEGENDARY2_GREATSWORD04C.DAT

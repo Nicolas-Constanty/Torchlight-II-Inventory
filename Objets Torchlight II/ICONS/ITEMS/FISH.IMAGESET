@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "fish" Imagefile="media/ui/icons/fish/fish.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="fish_undead" XPos="1" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_sushi" XPos="65" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_spine" XPos="129" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_spectre" XPos="193" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_ordrake_polyp" XPos="257" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_meat" XPos="321" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_magmamouth" XPos="385" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_leviathon" XPos="449" YPos="1" Width="62" Height="62" />
+	<Image Name="fish_lava" XPos="1" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_ember_corrupt" XPos="65" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_ember" XPos="129" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_crownjelly" XPos="193" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_blind" XPos="257" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_bearded" XPos="321" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_ax" XPos="385" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_ancient" XPos="449" YPos="65" Width="62" Height="62" />
+	<Image Name="fish_albino" XPos="1" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_9" XPos="65" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_8" XPos="129" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_7" XPos="193" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_6" XPos="257" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_5" XPos="321" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_4" XPos="385" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_3" XPos="449" YPos="129" Width="62" Height="62" />
+	<Image Name="fish_2" XPos="1" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_15" XPos="65" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_14" XPos="129" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_13" XPos="193" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_12" XPos="257" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_11" XPos="321" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_10" XPos="385" YPos="193" Width="62" Height="62" />
+	<Image Name="fish_1" XPos="449" YPos="193" Width="62" Height="62" />
+</Imageset>

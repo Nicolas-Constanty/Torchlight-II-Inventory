@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "help" Imagefile="media/ui/icons/help/help.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="secondhelpscreen" XPos="1" YPos="1" Width="800" Height="500" />
+	<Image Name="firsthelpscreen" XPos="1" YPos="503" Width="800" Height="500" />
+	<Image Name="blackbackground" XPos="803" YPos="1" Width="128" Height="128" />
+	<Image Name="help_button_normal" XPos="933" YPos="1" Width="42" Height="42" />
+	<Image Name="help_button_hover" XPos="977" YPos="1" Width="42" Height="42" />
+	<Image Name="black_transparent" XPos="933" YPos="45" Width="32" Height="32" />
+	<Image Name="arrow_uphelp" XPos="967" YPos="45" Width="32" Height="32" />
+	<Image Name="arrow_right" XPos="933" YPos="79" Width="32" Height="32" />
+	<Image Name="arrow_left" XPos="967" YPos="79" Width="32" Height="32" />
+	<Image Name="arrow_downhelp" XPos="933" YPos="113" Width="32" Height="32" />
+	<Image Name="line_vert" XPos="1001" YPos="45" Width="16" Height="16" />
+	<Image Name="line_horz" XPos="1001" YPos="63" Width="16" Height="16" />
+	<Image Name="corner_topright" XPos="1001" YPos="81" Width="16" Height="16" />
+	<Image Name="corner_topleft" XPos="1001" YPos="99" Width="16" Height="16" />
+	<Image Name="corner_bottomright" XPos="967" YPos="113" Width="16" Height="16" />
+	<Image Name="corner_bottomleft" XPos="1001" YPos="117" Width="16" Height="16" />
+</Imageset>

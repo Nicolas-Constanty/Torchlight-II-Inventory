@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "quest2" Imagefile="media/ui/icons/questitems/quest2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="firewood" XPos="0" YPos="0" Width="62" Height="62" />
+	<Image Name="explosives" XPos="62" YPos="0" Width="62" Height="62" />
+	<Image Name="dragon_key" XPos="124" YPos="0" Width="62" Height="62" />
+	<Image Name="crystal_red" XPos="186" YPos="0" Width="62" Height="62" />
+	<Image Name="crystal_purple" XPos="0" YPos="62" Width="62" Height="62" />
+	<Image Name="crystal_green" XPos="62" YPos="62" Width="62" Height="62" />
+	<Image Name="crystal_blue" XPos="124" YPos="62" Width="62" Height="62" />
+	<Image Name="crimson_flame" XPos="186" YPos="62" Width="62" Height="62" />
+	<Image Name="crest_of_tides" XPos="0" YPos="124" Width="62" Height="62" />
+	<Image Name="crest_of_rivers" XPos="62" YPos="124" Width="62" Height="62" />
+	<Image Name="crest_of_pools" XPos="124" YPos="124" Width="62" Height="62" />
+	<Image Name="crablegs" XPos="186" YPos="124" Width="62" Height="62" />
+	<Image Name="censure" XPos="0" YPos="186" Width="62" Height="62" />
+	<Image Name="bones_of_wood" XPos="62" YPos="186" Width="62" Height="62" />
+	<Image Name="boletus_flesh" XPos="124" YPos="186" Width="62" Height="62" />
+	<Image Name="bloody_gem" XPos="186" YPos="186" Width="62" Height="62" />
+</Imageset>

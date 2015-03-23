@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "beta" Imagefile="media/ui/icons/beta/beta.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="logo" XPos="1" YPos="1" Width="800" Height="256" />
+</Imageset>

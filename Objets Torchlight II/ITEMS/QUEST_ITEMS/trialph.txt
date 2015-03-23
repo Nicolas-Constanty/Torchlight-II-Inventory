@@ -1,0 +1,104 @@
+﻿Banner of Koschei.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_BANNEROFKOSCHEI.DAT
+Bar of Orichalcum.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_BAROFORICHALCUM.DAT
+Blue Boletus Flesh.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-BELLYFATOFFUNGUS.DAT
+Bone of Ullr.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_BONEOFULLR.DAT
+Carved Ivory Cup.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CARVEDIVORYCUP.DAT
+Carved Onyx Gargoyle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CARVEDONYXGARGOYLE.DAT
+Celestial Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CELESTIALEYE.DAT
+Chain of Torment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CHAINOFTORMENT.DAT
+Chromium Bell.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CHROMIUMBELL.DAT
+Chunk of Adamant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CHUNKOFADAMANT.DAT
+Clockwork Sphere.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CLOCKWORKSPHERE.DAT
+Copper Tablet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_COPPERTABLET.DAT
+Coral Hairpin.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CORALHAIRPIN.DAT
+Crest of the Regent.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CRESTOFTHEREGENT.DAT
+Crest of the Warden.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CRESTOFTHEWARDEN.DAT
+Crystalline Soul.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CRYSTALINESOUL.DAT
+Cyclopean Lens.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_CYCLOPEANLENS.DAT
+Dagger of Koschei.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DAGGEROFKOSCHEI.DAT
+Death Mask.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DEATHMASK.DAT
+Dragon's Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DRAGONSEYE.DAT
+Dragon's Tooth.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DRAGONSTOOTH.DAT
+Dungeon Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DUNGEONKEY.DAT
+Dwarven Cog.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_DWARVENCOG.DAT
+Dynamite.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-DYNOMITE.DAT
+Electric Crystal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-CRYSTAL_ELECTRIC.DAT
+Elixir of Joy.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_ELIXIROFJOY.DAT
+Elixir of Terror.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_ELIXIROFTERROR.DAT
+Enchanter's Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_ENCHANTERAMULET.DAT
+Fael's Heart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_FAELSHEART.DAT
+Fire Crystal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-CRYSTAL_FIRE.DAT
+Flame Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_FLAMESHARD.DAT
+Fleshbound Tome.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_FLESHBOUNDTOME.DAT
+Forsaken Vessel.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_FORSAKENVESSEL.DAT
+Goblin Crown.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-GOBLIN_CROWN.DAT
+Golden Lantern.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_GOLDENCANDLESTICK.DAT
+Golden Lantern.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_GOLDENLANTERN.DAT
+Golden Sickle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_GOLDENSICKLE.DAT
+Golden Trobet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_GOLDENTROBET.DAT
+Grimoire of Death.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_GRIMOIREOFDEATH.DAT
+Hammer of Weyland.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_HAMMEROFWEYLAND.DAT
+Ice Crystal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-CRYSTAL_ICE.DAT
+Infernal Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_ICEAMULET.DAT
+Infernal Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_INFERNALEYE.DAT
+Jade Falcon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_JADEFALCON.DAT
+Jessa's Locket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-LOCKET.DAT
+Jeweled Idol.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_JEWELEDIDOL.DAT
+Kaleidoscope Pearl.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_KALEIDOSCOPEPEARL.DAT
+Labyrinthine Device.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_LABYRINTHINEDEVICE.DAT
+Labyrinthine Map.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_LABYRINTHINEMAP.DAT
+Lapis Music Box.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_LAPISMUSICBOX.DAT
+Last Will of the Green Warden.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_LASTWILL.DAT
+Libram ex Mortis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_LIBRAMEXMORTIS.DAT
+Malachite Seal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MALACHITESEAL.DAT
+Manacle of Domination.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MANACLEOFDOMINATION.DAT
+Masterwork Tankard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MASTERWORKTANKARD.DAT
+Miniature Ornithopter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MINIATUREORNITHOPTER.DAT
+Mortar and Pestle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PESTLEVESSEL.DAT
+Mosaical Rod.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MOSAICALROD.DAT
+Mutilated Skull of Baldree.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-SKULL_THREE.DAT
+Mythite Monocle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_MYTHITEMONOCLE.DAT
+Nightshade Chalice.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_NIGHTSHADECHALIS.DAT
+Pathfinder's Journal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PATHFINDERSJOURNAL.DAT
+Phial of Distilled Aether.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PHIALOFDISTILLEDAETHER.DAT
+Phial of Distilled Aether.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PHILTEROFDREAMS.DAT
+Piquant Truffle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PIQUANTTRUFFLE.DAT
+Poison Crystal.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-CRYSTAL_POISON.DAT
+Portait of the Master.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PORTAITOFTHEMASTER.DAT
+Preserved Keg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PRESERVEDKEG.DAT
+Primal Emblem.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PRIMALEMBLEM.DAT
+Prospector's Cache.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_PROSPECTORSCACHE.DAT
+Rare Mushroom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_RAREMUSHROOM.DAT
+Raw Gem.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_RAWGEM.DAT
+Ritual Scythe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_RITUALSCYTHE.DAT
+Rune of Storm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_RUNEOFSTORM.DAT
+Runic Flagon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_RUNICFLAGON.DAT
+Runic Flagon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SIGNETRING.DAT
+Runic Flagon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_WEDDINGRING.DAT
+Scale of the Arbiter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SCALEOFTHEARBITER.DAT
+Scroll of Anom-Irek.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\SCROLLSOFANOM-IREK.DAT
+Scroll of Estherian Law.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SCROLLOFESTHERIANLAW.DAT
+Seal of the Overseer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SEALOFTHEOVERSEER.DAT
+Sealed Relic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SEALEDRELIC.DAT
+Shadowstone Urn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SHADOWSTONEURN.DAT
+Shard of Luminite.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SHARDOFLUMINITE.DAT
+Silver Chalice.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SILVERCHALICE.DAT
+Silver Skull.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SILVERSKULL.DAT
+Simulacrum of Zard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SIMULACRUMOFZARD.DAT
+Skull of Erich.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-SKULL_ONE.DAT
+Skull of Max.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-SKULL_TWO.DAT
+Skull of Russell.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-SKULL_FOUR.DAT
+Soulbound Phylactery.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SOULBOUNDPHYLACTERY.DAT
+Spirit Key.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-DRAGONTOWERKEY.DAT
+Sun Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_SUNMEDALLION.DAT
+Talisman of Yendor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TALISMANOFYENDOR.DAT
+Tentacle Statue.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TENTACLESTATUE.DAT
+Token of Safe Passage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TOKENOFSAFEPASSAGE.DAT
+Transcendent Lyre.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TRANSCENDENTLYRE.DAT
+Traveler's Charm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TRAVELERSCHARM.DAT
+Truesilver Compass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_TRUESILVERCOMPASS.DAT
+Varkolyn Mage's Staff.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\A3-VARKOLYN_STAFF.DAT
+Warder's Badge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_WARDERSBADGE.DAT
+Wax Fruit Bowl.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_WAXFRUITBOWL.DAT
+Wicked Talisman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_WICKEDTALISMAN.DAT
+Wine Bottle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\QUEST_ITEMS\RQ_WINEBOTTLE.DAT

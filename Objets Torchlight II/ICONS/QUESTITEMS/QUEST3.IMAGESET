@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "quest3" Imagefile="media/ui/icons/questitems/quest3.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="blackheart" XPos="0" YPos="0" Width="62" Height="62" />
+	<Image Name="bell" XPos="62" YPos="0" Width="62" Height="62" />
+	<Image Name="automaton_powersource" XPos="124" YPos="0" Width="62" Height="62" />
+</Imageset>

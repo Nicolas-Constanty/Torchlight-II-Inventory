@@ -1,0 +1,173 @@
+﻿1:Light Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_01_BELT.DAT
+1:Luck Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LUCK_BELT.DAT
+3:Sturmbeorn Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\STURM_01_BELT.DAT
+5:Colonist Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_01_BELT.DAT
+5:Ringed Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_01_BELT.DAT
+6:Cloth Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_A_BELT.DAT
+7:Runemaster Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\STURM_01_BELT_ALT_SET.DAT
+10:Rawhide Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\FURHIDE_01_BELT.DAT
+10:Sturdy Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_01_BELT.DAT
+13:Leather Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_A_BELT.DAT
+14:Runebelt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_02_BELT.DAT
+14:The Celsus Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_02_BELT.DAT
+14:Pioneer Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_03_BELT.DAT
+14:The Trane Track.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_02_BELT.DAT
+14:Sash of the First Baker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_02_BELT.DAT
+15:Clovenhoof Cord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\FURHIDE_01_BELT_ALT_SET.DAT
+16:The Girdle of Ludo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PONYA_01_BELT.DAT
+17:Regent Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ESTHERIAN_02_BELT.DAT
+17:Link Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_A_BELT.DAT
+18:Patchwork Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_C_BELT.DAT
+19:Carlsbelt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_02_BELT_ALT_B.DAT
+19:Murial's Girdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_02_BELT_ALT_B.DAT
+19:Boilerbelter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_02_BELT_ALT_B.DAT
+19:Estherian Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ESTHERIAN_01_BELT.DAT
+19:Belt of the Prime Smith.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_02_BELT_ALT_B.DAT
+20:Regent Eldrayn's Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ZZZ_ELDRAYNS_BELT.DAT
+21:Formal Regent Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ESTHERIAN_02_BELT_ALT_SET.DAT
+22:Desert Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DESERT_01_BELT.DAT
+22:Plate Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_A_BELT.DAT
+22:Argonaut Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PONYA_01_BELT_ALT_SET.DAT
+23:The Belt of Bone.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BONE_01_BELT.DAT
+23:True Estheria Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ESTHERIAN_01_BELT_ALT_SET.DAT
+24:Jarlsbelt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_02_BELT_ALT_C.DAT
+24:MacAlister's Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_02_BELT_ALT_C.DAT
+24:Janissary Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DEZROHIR_02_BELT.DAT
+24:Locomotor Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_02_BELT_ALT_C.DAT
+24:Sash of the Second Baker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_02_BELT_ALT_C.DAT
+25:Redscale Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_C_BELT.DAT
+25:Blood Leather Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\VARKOLYN_01_BELT_SET_BLOODLEATHER.DAT
+26:The Band of Bone.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BONE_01_BELT_ALT_B.DAT
+26:Badlands Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DESERT_01_BELT_ALT_SET.DAT
+26:Ezrohir Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DEZROHIR_01_BELT.DAT
+27:Necrotic Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BONE_01_BELT_ALT_SET.DAT
+29:The Ossarch.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BONE_01_BELT_ALT_C.DAT
+29:Chain Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_C_BELT.DAT
+29:Zeraphi Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ZERAPHI_01_BELT.DAT
+30:Linen Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_D_BELT.DAT
+30:Ceremonial Ezrohir Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DEZROHIR_01_BELT_ALT_SET.DAT
+31:Girdle of Howling Fury.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_03_BELT.DAT
+31:The Red Hook Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_03_BELT.DAT
+31:Bale Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_03_BELT.DAT
+31:Six-Stick Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PONYA_01_BELT_ALT_B.DAT
+31:Sladen's Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_03_BELT.DAT
+31:Wazir Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ZERAPHI_02_BELT.DAT
+33:Stone Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\STONE_01_BELT.DAT
+33:Alchemical Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ZERAPHI_01_BELT_ALT_SET.DAT
+34:Ritual Janissary Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DEZROHIR_02_BELT_ALT_SET.DAT
+34:Emberheart Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\EMBER_01_BELT.DAT
+34:Bronze Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_C_BELT.DAT
+35:Grand Wazir Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ZERAPHI_02_BELT_ALT_SET.DAT
+36:The Stormgirdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_03_BELT_ALT_B.DAT
+36:Merciless Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_03_BELT_ALT_SET.DAT
+36:The Starry Wisdom Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_03_BELT_ALT_B.DAT
+36:Spellweaver Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_03_BELT_ALT_SET.DAT
+36:Homesteader Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_04_BELT.DAT
+36:Smokebox Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_03_BELT_ALT_B.DAT
+36:Machine Forged Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_03_BELT_ALT_SET.DAT
+36:Solace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_03_BELT_ALT_B.DAT
+36:Plainslord Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_03_BELT_ALT_SET.DAT
+37:Emberstud Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\EMBER_01_BELT_ALT_B.DAT
+37:Laminated Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_D_BELT.DAT
+37:Granite Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\STONE_01_BELT_ALT_SET.DAT
+38:Forest Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\FOREST_01_BELT.DAT
+40:Brightember Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\EMBER_01_BELT_ALT_C.DAT
+40:Varkolyn Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\VARKOLYN_01_BELT.DAT
+41:Girdle of Savage Frenzy.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_03_BELT_ALT_C.DAT
+41:The Belt Ex Oblivione.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_03_BELT_ALT_C.DAT
+41:Firebox Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_03_BELT_ALT_C.DAT
+41:Warlock Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HUNTER_01_BELT.DAT
+41:Mail Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_D_BELT.DAT
+41:Whootcord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_03_BELT_ALT_C.DAT
+42:Pleated Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_E_BELT.DAT
+42:Wildwood Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\FOREST_01_BELT_ALT_SET.DAT
+43:Settler Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_02_BELT.DAT
+44:Oathbreaker Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HUNTER_01_BELT_ALT_B.DAT
+44:Exorcist Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\VARKOLYN_01_BELT_ALT_SET.DAT
+45:Dwarven Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DWARF_01_BELT.DAT
+46:Segmented Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_D_BELT.DAT
+46:Kwat Pai Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PONYA_01_BELT_ALT_C.DAT
+47:Witchfinder Band.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HUNTER_01_BELT_ALT_C.DAT
+48:The Brutal Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_04_BELT.DAT
+48:The Spellbinding.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_04_BELT.DAT
+48:Explorer Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_05_BELT.DAT
+48:Geodetic Ring.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_04_BELT.DAT
+48:Hyne's Girdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_04_BELT.DAT
+49:Dwarfking Girdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\DWARF_01_BELT_ALT_SET.DAT
+49:Legionnaire Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_E_BELT.DAT
+50:Trailblazer Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_07_BELT.DAT
+52:Wyrdband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_02_BELT.DAT
+53:The Savage Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_04_BELT_ALT_B.DAT
+53:The Runebinding.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_04_BELT_ALT_B.DAT
+53:The Belt of Bolruk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_04_BELT_ALT_B.DAT
+53:Scale Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_E_BELT.DAT
+53:Belt of Wee Tonn.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_04_BELT_ALT_B.DAT
+54:Padded Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_F_BELT.DAT
+54:Vanquisher Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\VANQUISHER_01_BELT.DAT
+55:White Buckle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_03_BELT_SET_THEGRAY.DAT
+55:Dansebelt Macabre.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_02_BELT_ALT_B.DAT
+57:Mountain Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MOUNTAIN_01_BELT.DAT
+57:Shadowband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_01_BELT.DAT
+58:The Belt of the Mucker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_04_BELT_ALT_C.DAT
+58:The Spelltithe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_04_BELT_ALT_C.DAT
+58:Girdle of Measure.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_04_BELT_ALT_C.DAT
+58:Iron Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_E_BELT.DAT
+58:Ghostband.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_02_BELT_ALT_C.DAT
+58:Sentinel Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\VANQUISHER_01_BELT_ALT_SET.DAT
+58:Belt of the Hunters.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_04_BELT_ALT_C.DAT
+60:Blackbelt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_01_BELT_ALT_B.DAT
+60:Incubus Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_02_BELT_ALT_SET.DAT
+61:Pathfinder Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_06_BELT.DAT
+62:Rhino-Hide Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_F_BELT.DAT
+62:Highridge Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MOUNTAIN_01_BELT_ALT_SET.DAT
+63:Gloomgirdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_01_BELT_ALT_C.DAT
+65:The Belt of Bloodlust.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_05_BELT.DAT
+65:Spellgunner's Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_05_BELT.DAT
+65:Adventurer Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\COLONIST_08_BELT.DAT
+65:Belt of Tools.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_05_BELT.DAT
+65:Obscure Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\NETHERIM_01_BELT_ALT_SET.DAT
+65:The Sash of Brother Jacobi.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_05_BELT.DAT
+66:Chainmail Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_F_BELT.DAT
+68:Salamander Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_G_BELT.DAT
+69:Praetorian Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_G_BELT.DAT
+70:The Belt of Carnage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_05_BELT_ALT_B.DAT
+70:Spellfire Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_05_BELT_ALT_B.DAT
+70:Belt of the Right Tools.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_05_BELT_ALT_B.DAT
+70:The Sash of Doctor Padd.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_05_BELT_ALT_B.DAT
+71:Steel Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_F_BELT.DAT
+73:Mainspring Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOCKWORK_01_BELT.DAT
+73:King's mail Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_G_BELT.DAT
+75:The Belt of Slaughter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_05_BELT_ALT_C.DAT
+75:Hexengirdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_05_BELT_ALT_C.DAT
+75:Belt of the Best Tools.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_05_BELT_ALT_C.DAT
+75:The Belt of Captain Castle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_05_BELT_ALT_C.DAT
+76:Phoenix Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_G_BELT.DAT
+81:Gearspring Girdle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOCKWORK_01_BELT_ALT_B.DAT
+82:Firebelly.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_06_BELT.DAT
+82:Belt of the Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_06_BELT.DAT
+82:The Wrought-Iron Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_06_BELT.DAT
+82:Belt of Dead Kings.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_06_BELT.DAT
+85:Celestial Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOCKWORK_01_BELT_ALT_SET.DAT
+85:Imperial Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PIMP_01_BELT.DAT
+88:Belt of Ignition.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_06_BELT_ALT_B.DAT
+88:Belt of the Thaumaturge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_06_BELT_ALT_B.DAT
+88:The Crucibelt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_06_BELT_ALT_B.DAT
+88:Bloodsteam Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\HEAVY_G_BELT_ALT_SET.DAT
+88:Belt of Fallen Heroes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_06_BELT_ALT_B.DAT
+89:Babbage Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOCKWORK_01_BELT_ALT_C.DAT
+91:Aristocrat Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\PIMP_01_BELT_ALT_SET.DAT
+92:Inquisitor Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CLOTH_G_BELT_ALT_SET.DAT
+94:Girdle of Flambeaux.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_06_BELT_ALT_C.DAT
+94:Girdle of the Arch-Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_06_BELT_ALT_C.DAT
+94:Belt of a Thousand Bolts.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_06_BELT_ALT_C.DAT
+94:Dragonrift Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\MEDIUM_G_BELT_ALT_SET.DAT
+94:Belt of Legend.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_06_BELT_ALT_C.DAT
+96:Valkyrie Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\LIGHT_G_BELT_ALT_SET.DAT
+99:Harbinger Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_06_BELT_ALT_SET.DAT
+99:Trancendent Sash.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_06_BELT_ALT_SET.DAT
+99:Mondon's Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_06_BELT_ALT_SET.DAT
+99:Unearthly Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_06_BELT_ALT_SET.DAT
+105:Draketalon Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\BERSERKER_X07_BELT.DAT
+105:Ascendant Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\CASTER_X07_BELT.DAT
+105:Outercore Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\ENGINEER_X07_BELT.DAT
+105:Dominion Belt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\BELT\WANDERER_X07_BELT.DAT

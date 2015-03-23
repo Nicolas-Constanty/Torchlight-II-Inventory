@@ -1,0 +1,305 @@
+﻿Adeptus Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_03_CHEST_ALT_B.DAT
+Adventurer Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_08_CHEST.DAT
+Adventurer Greatcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_08_CHEST_ALT_C.DAT
+Adventurer Overcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_08_CHEST_ALT_B.DAT
+Alchemical Chestpiece.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_01_CHEST_ALT_SET.DAT
+Alchemist Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_02_CHEST.DAT
+Argonaut Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PONYA_01_CHEST_ALT_SET.DAT
+Aristocrat Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PIMP_01_CHEST_ALT_SET.DAT
+Armor of Bloodshed.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_05_CHEST.DAT
+Armor of Burning Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_01_CHEST_ALT_C.DAT
+Armor of Crushing.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_03_CHEST.DAT
+Armor of the Grimknight.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_02_CHEST.DAT
+Armor of the North Wind.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_02_CHEST.DAT
+Armor of the Savage Horde.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_04_CHEST.DAT
+Armor of the Winter Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_06_CHEST.DAT
+Armor of Wanton Cruelty.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_05_CHEST_ALT_B.DAT
+Ascendant Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_X07_CHEST.DAT
+Axebreaker.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_03_CHEST_ALT_C.DAT
+Badlands Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DESERT_01_CHEST_ALT_SET.DAT
+Baldrick of Turnipz.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_03_CHEST_ALT_C.DAT
+Battlemage Greatcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_04_CHEST_ALT_C.DAT
+Battleplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_03_CHEST_ALT_B.DAT
+Beastling Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PONYA_01_CHEST.DAT
+Bloodbath Bib.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_05_CHEST_SET_BLOODBATH.DAT
+Bloodsteam Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_G_CHEST_ALT_SET.DAT
+Boilerplate Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_03_CHEST_ALT_B.DAT
+Boilerplate Mail.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_01_CHEST_ALT_B.DAT
+Breastplate of the Tick-Tock Knight.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOCKWORK_01_CHEST_ALT_C.DAT
+Brigandine of the Wastes.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_02_CHEST_ALT_B.DAT
+Brigandine of Wild Magic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_05_CHEST_ALT_C.DAT
+Bronze Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_C_CHEST.DAT
+Bronze Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_C_CHEST_ALT_B.DAT
+Bronze Plate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_C_CHEST_ALT_C.DAT
+Cabalist Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_02_CHEST_ALT_SET.DAT
+Celestial Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOCKWORK_01_CHEST_ALT_SET.DAT
+Ceremonial Ezrohir Chestpiece.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_01_CHEST_ALT_SET.DAT
+Chain Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_C_CHEST.DAT
+Chain Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_C_CHEST_ALT_C.DAT
+Chain Haubergeon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_C_CHEST_ALT_B.DAT
+Chainmail Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_F_CHEST.DAT
+Chainmail Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_F_CHEST_ALT_C.DAT
+Chainmail Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_F_CHEST_ALT_B.DAT
+Clockwork Chestplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOCKWORK_01_CHEST_ALT_B.DAT
+Cloth Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_A_CHEST_ALT_B.DAT
+Cloth Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_A_CHEST_ALT_C.DAT
+Cloth Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_A_CHEST.DAT
+Clovenhoof Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FURHIDE_01_CHEST_ALT_SET.DAT
+Coat of Good Measure.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_04_CHEST_ALT_C.DAT
+Coat of the Hellblazer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_04_CHEST_ALT_C.DAT
+Coldheart Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_02_CHEST_ALT_C.DAT
+Colonist Aketon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_01_CHEST_ALT_C.DAT
+Colonist Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_01_CHEST.DAT
+Colonist Gambeson.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_01_CHEST_ALT_B.DAT
+Damascus Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_F_CHEST_ALT_E.DAT
+Desert Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DESERT_01_CHEST.DAT
+Desert Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DESERT_01_CHEST_ALT_B.DAT
+Desert Panoply.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DESERT_01_CHEST_ALT_C.DAT
+Dominion Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_X07_CHEST.DAT
+Doublet of the Condemned.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_01_CHEST_ALT_B.DAT
+Dragonrift Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_G_CHEST_ALT_SET.DAT
+Draketalon Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_X07_CHEST.DAT
+Dwarfking Chest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DWARF_01_CHEST_ALT_SET.DAT
+Dwarven Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DWARF_01_CHEST.DAT
+Dwarven Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DWARF_01_CHEST_ALT_B.DAT
+Dwarven Panoply.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DWARF_01_CHEST_ALT_C.DAT
+Emberclad Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\EMBER_01_CHEST_ALT_B.DAT
+Embercraft Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_04_CHEST_ALT_SET.DAT
+Emberheart Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\EMBER_01_CHEST.DAT
+Emberplate Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\EMBER_01_CHEST_ALT_C.DAT
+Emberweave Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_05_CHEST_ALT_SET.DAT
+Estherian Baldric.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_01_CHEST_ALT_C.DAT
+Estherian Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_01_CHEST.DAT
+Estherian Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_01_CHEST_ALT_B.DAT
+Exile Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_02_CHEST.DAT
+Exorcist Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VARKOLYN_01_CHEST_ALT_SET.DAT
+Explorer Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_05_CHEST.DAT
+Explorer Buff Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_05_CHEST_ALT_B.DAT
+Explorer Longcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_05_CHEST_ALT_C.DAT
+Ezrohir Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_01_CHEST_ALT_C.DAT
+Ezrohir Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_01_CHEST.DAT
+Ezrohir Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_01_CHEST_ALT_B.DAT
+Feral Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_04_CHEST_ALT_SET.DAT
+Fine-Crafted Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST_ALT_F.DAT
+Fine-Thread Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST_ALT_E.DAT
+Forest Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FOREST_01_CHEST.DAT
+Forest Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FOREST_01_CHEST_ALT_B.DAT
+Forest Jack o' Plates.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FOREST_01_CHEST_ALT_C.DAT
+Forgecrafted Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_04_CHEST_ALT_SET.DAT
+Forged Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_F_CHEST_ALT_D.DAT
+Formal Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST_ALT_F.DAT
+Formal Regent Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_02_CHEST_ALT_SET.DAT
+Grand Architect Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_05_CHEST_ALT_SET.DAT
+Grand Wazir Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_02_CHEST_ALT_SET.DAT
+Granite Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STONE_01_CHEST_ALT_SET.DAT
+Grease-Spattered Smock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_01_CHEST_ALT_C.DAT
+Grimy Work-Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_01_CHEST.DAT
+Grundig's Chestplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\Z_ZERAPHI_02_CHEST_SET.DAT
+Harbinger Mailshirt.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_06_CHEST_ALT_SET.DAT
+Hawkn's Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_01_CHEST_ALT_C.DAT
+Heat-Forged Apron.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_02_CHEST_ALT_B.DAT
+Heavy Metal Toolcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_06_CHEST_ALT_C.DAT
+Hexenjaeger Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_05_CHEST_ALT_B.DAT
+High Wizard's Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_06_CHEST_ALT_C.DAT
+Highridge Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MOUNTAIN_01_CHEST_ALT_SET.DAT
+Homesteader Aketon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_04_CHEST_ALT_C.DAT
+Homesteader Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_04_CHEST.DAT
+Homesteader Gambeson.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_04_CHEST_ALT_B.DAT
+House Carl Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_05_CHEST_ALT_C.DAT
+Ice Squall.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_02_CHEST_SET_WINTERSREACH.DAT
+Imperial Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PIMP_01_CHEST.DAT
+Incubus Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_02_CHEST_ALT_SET.DAT
+Inlayed Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST_ALT_E.DAT
+Inquisitor Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_G_CHEST_ALT_SET.DAT
+Iron Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_E_CHEST.DAT
+Iron Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_E_CHEST_ALT_C.DAT
+Iron Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_E_CHEST_ALT_B.DAT
+Ironmail Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_F_CHEST_ALT_D.DAT
+Ironwrought Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_F_CHEST_ALT_E.DAT
+Jacket of Savage Fury.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_01_CHEST.DAT
+Jacket of Smoldering Rage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_01_CHEST_ALT_B.DAT
+Jacket of Sodalis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_06_CHEST_ALT_B.DAT
+Janissary Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_02_CHEST_ALT_C.DAT
+Janissary Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_02_CHEST.DAT
+Janissary Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_02_CHEST_ALT_B.DAT
+Jerich's Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_01_CHEST_ALT_B.DAT
+Justacorps of the Bamboo Bandit.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PONYA_01_CHEST_ALT_C.DAT
+Karz's Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_01_CHEST.DAT
+King's Mail Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_G_CHEST.DAT
+King's Mail Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_G_CHEST_ALT_C.DAT
+King's Mail Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_G_CHEST_ALT_B.DAT
+Labarinto Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_05_CHEST_ALT_SET.DAT
+Laminated Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_D_CHEST.DAT
+Laminated Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_D_CHEST_ALT_B.DAT
+Laminated Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_D_CHEST_ALT_C.DAT
+Leather Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_A_CHEST.DAT
+Leather Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_A_CHEST_ALT_B.DAT
+Leather Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_A_CHEST_ALT_C.DAT
+Legionnaire Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_E_CHEST.DAT
+Legionnaire Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_E_CHEST_ALT_C.DAT
+Legionnaire Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_E_CHEST_ALT_B.DAT
+Liberation Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_04_CHEST_ALT_SET.DAT
+Light Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_01_CHEST_ALT_B.DAT
+Light Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_01_CHEST_ALT_C.DAT
+Light Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_01_CHEST.DAT
+Linen Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_D_CHEST_ALT_B.DAT
+Linen Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_D_CHEST_ALT_C.DAT
+Linen Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_D_CHEST.DAT
+Link Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_A_CHEST.DAT
+Link Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_A_CHEST_ALT_B.DAT
+Link Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_A_CHEST_ALT_C.DAT
+Lizard-Hide Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST_ALT_D.DAT
+Machine Forged Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_03_CHEST_ALT_SET.DAT
+Machine-Shop Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_03_CHEST.DAT
+Machinist Apron.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_03_CHEST_ALT_B.DAT
+Mail Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_D_CHEST.DAT
+Mail Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_D_CHEST_ALT_C.DAT
+Mail Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_D_CHEST_ALT_B.DAT
+Mailcoat of the Invincible Overlord.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_06_CHEST.DAT
+Mailcoat of the Pillager.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_06_CHEST_ALT_B.DAT
+Merciless Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_03_CHEST_ALT_SET.DAT
+Mondon's Plate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_06_CHEST_ALT_SET.DAT
+Mountain Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MOUNTAIN_01_CHEST.DAT
+Mountain Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MOUNTAIN_01_CHEST_ALT_C.DAT
+Mountain Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MOUNTAIN_01_CHEST_ALT_B.DAT
+Necromius Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BONE_01_CHEST_ALT_B.DAT
+Necrotic Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BONE_01_CHEST_ALT_SET.DAT
+Oathbreaker Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HUNTER_01_CHEST_ALT_B.DAT
+Obscure Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_01_CHEST_ALT_SET.DAT
+Omnifas Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_03_CHEST.DAT
+Outercore Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_X07_CHEST.DAT
+Padded Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST_ALT_C.DAT
+Padded Jack-of-Plates.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST_ALT_B.DAT
+Patchwork Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_C_CHEST_ALT_B.DAT
+Patchwork Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_C_CHEST_ALT_C.DAT
+Patchwork Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_C_CHEST.DAT
+Pathfinder Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_06_CHEST.DAT
+Pathfinder Buff Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_06_CHEST_ALT_B.DAT
+Pathfinder Longcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_06_CHEST_ALT_C.DAT
+Perdurabo Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_04_CHEST.DAT
+Phoenix Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_G_CHEST.DAT
+Phoenix Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_G_CHEST_ALT_C.DAT
+Phoenix Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_G_CHEST_ALT_B.DAT
+Pioneer Aketon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_03_CHEST_ALT_C.DAT
+Pioneer Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_03_CHEST.DAT
+Pioneer Gambeson.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_03_CHEST_ALT_B.DAT
+Plainslord Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_03_CHEST_ALT_SET.DAT
+Plate Aegis.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_A_CHEST_ALT_C.DAT
+Plate Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_A_CHEST.DAT
+Plate Plackart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_A_CHEST_ALT_B.DAT
+Pleated Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_E_CHEST_ALT_C.DAT
+Pleated Jack-of-Plates.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_E_CHEST_ALT_B.DAT
+Pleated Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_E_CHEST.DAT
+Pleated Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST.DAT
+Ponya Frock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\PONYA_01_CHEST_ALT_B.DAT
+Praetorian Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_G_CHEST.DAT
+Praetorian Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_G_CHEST_ALT_C.DAT
+Praetorian Plate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_G_CHEST_ALT_B.DAT
+Precision Anamorphic Bodywear.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOCKWORK_01_CHEST.DAT
+Rail-Forge Plate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_06_CHEST_ALT_B.DAT
+Railforged Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_02_CHEST_ALT_SET.DAT
+Railman Coat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_02_CHEST_ALT_C.DAT
+Rawhide Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FURHIDE_01_CHEST.DAT
+Rawhide Blazer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FURHIDE_01_CHEST_ALT_C.DAT
+Rawhide Jack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FURHIDE_01_CHEST_ALT_B.DAT
+Redscale Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_C_CHEST.DAT
+Redscale Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_C_CHEST_ALT_C.DAT
+Redscale Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_C_CHEST_ALT_B.DAT
+Regent Baldric.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_02_CHEST_ALT_C.DAT
+Regent Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_02_CHEST.DAT
+Regent Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_02_CHEST_ALT_B.DAT
+Rhino-Hide Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST.DAT
+Rhino-Hide Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST_ALT_B.DAT
+Rhino-Hide Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_F_CHEST_ALT_C.DAT
+Ringed Byrnie.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_01_CHEST_ALT_B.DAT
+Ringed Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_01_CHEST_ALT_C.DAT
+Ringed Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_01_CHEST.DAT
+Ritual Janissary Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\DEZROHIR_02_CHEST_ALT_SET.DAT
+Robe of the Ebon Magister.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_01_CHEST_ALT_C.DAT
+Runemaster Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STURM_01_CHEST_ALT_SET.DAT
+Salamander Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_G_CHEST_ALT_C.DAT
+Salamander Jack-of-Plates.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_G_CHEST_ALT_B.DAT
+Salamander Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_G_CHEST.DAT
+Savage Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_05_CHEST_ALT_SET.DAT
+Scaffolding Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_05_CHEST_ALT_B.DAT
+Scale Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_E_CHEST.DAT
+Scale Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_E_CHEST_ALT_C.DAT
+Scale Coat-of-Mail.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\MEDIUM_E_CHEST_ALT_B.DAT
+Segmented Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_D_CHEST.DAT
+Segmented Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_D_CHEST_ALT_C.DAT
+Segmented Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_D_CHEST_ALT_B.DAT
+Sentinel Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VANQUISHER_01_CHEST_ALT_SET.DAT
+Settler Aketon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_02_CHEST_ALT_C.DAT
+Settler Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_02_CHEST.DAT
+Settler Gambeson.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_02_CHEST_ALT_B.DAT
+Shroud of Mother Night.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_01_CHEST_ALT_B.DAT
+Shroud of the Winter Wraith.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_02_CHEST_ALT_C.DAT
+Sir Bathingstoke's Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_02_CHEST_ALT_C.DAT
+Smock of Tool Storage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_03_CHEST_ALT_C.DAT
+Sojourn Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_02_CHEST_ALT_B.DAT
+Solima's Pistol Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_06_CHEST_SET_SOLIMA.DAT
+Soulshield Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_03_CHEST.DAT
+Spellweaver Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_03_CHEST_ALT_SET.DAT
+Steel Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_F_CHEST.DAT
+Steel Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_F_CHEST_ALT_C.DAT
+Steel Corslet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_F_CHEST_ALT_B.DAT
+Stone Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STONE_01_CHEST.DAT
+Stone Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STONE_01_CHEST_ALT_C.DAT
+Stone Chestplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STONE_01_CHEST_ALT_B.DAT
+Sturdy Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_01_CHEST_ALT_C.DAT
+Sturdy Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_01_CHEST_ALT_B.DAT
+Sturdy Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HEAVY_01_CHEST.DAT
+Sturmbeorn Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STURM_01_CHEST.DAT
+Sturmbeorn Breastplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STURM_01_CHEST_ALT_C.DAT
+Sturmbeorn Chestplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\STURM_01_CHEST_ALT_B.DAT
+Surveyor Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_04_CHEST_ALT_B.DAT
+Tarroch's Greatcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_05_CHEST_ALT_C.DAT
+Tarroch's Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_05_CHEST.DAT
+Tarroch's Surcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_05_CHEST_ALT_B.DAT
+Telias's Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_01_CHEST.DAT
+Tenebra's Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_01_CHEST.DAT
+Tenebris Doublet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_02_CHEST_ALT_B.DAT
+Thargo's Mighty Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_04_CHEST.DAT
+The Armor of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BONE_01_CHEST.DAT
+The Bloody Red Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_05_CHEST_ALT_C.DAT
+The Brigandine of Severax.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BONE_01_CHEST_ALT_C.DAT
+The Centurius.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_06_CHEST.DAT
+The Chevalion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_06_CHEST_ALT_C.DAT
+The Flamecoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_06_CHEST_ALT_C.DAT
+The Mail of Conquest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_04_CHEST_ALT_C.DAT
+The Mailstromm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_04_CHEST_ALT_B.DAT
+The Myrmidiac.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_06_CHEST_ALT_B.DAT
+The Olenjacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_04_CHEST_ALT_B.DAT
+The Voynich Cassock.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_03_CHEST_ALT_C.DAT
+The Whispershroud.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_01_CHEST_ALT_C.DAT
+Trailblazer Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_07_CHEST.DAT
+Trailblazer Greatcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_07_CHEST_ALT_C.DAT
+Trailblazer Overcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\COLONIST_07_CHEST_ALT_B.DAT
+Trancendent Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_06_CHEST_ALT_SET.DAT
+True Estheria Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ESTHERIAN_01_CHEST_ALT_SET.DAT
+True North Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\BERSERKER_02_CHEST_ALT_SET.DAT
+Tunic of Extreme Comfort.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_05_CHEST.DAT
+Tunic of Taskmaster Tempus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_06_CHEST.DAT
+Tunic of Triangulation .C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_04_CHEST.DAT
+Unearthly Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_06_CHEST_ALT_SET.DAT
+Valkyrie Cataphract.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\LIGHT_G_CHEST_ALT_SET.DAT
+Vance's Robe.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_02_CHEST_ALT_C.DAT
+Vanquisher Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VANQUISHER_01_CHEST.DAT
+Varkolyn Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VARKOLYN_01_CHEST.DAT
+Varkolyn Chestplate.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VARKOLYN_01_CHEST_ALT_C.DAT
+Varkolyn Cuirass.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\VARKOLYN_01_CHEST_ALT_B.DAT
+Wanderlust Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\WANDERER_02_CHEST_ALT_SET.DAT
+Warcaster Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_05_CHEST.DAT
+Warlock Leathers.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HUNTER_01_CHEST.DAT
+Warlock Overcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CASTER_04_CHEST_ALT_B.DAT
+Wazir Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_02_CHEST.DAT
+Wazir Hauberk.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_02_CHEST_ALT_B.DAT
+Wazir Mailcoat.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_02_CHEST_ALT_C.DAT
+Wightcloak.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\NETHERIM_02_CHEST_ALT_B.DAT
+Wildwood Chest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\FOREST_01_CHEST_ALT_SET.DAT
+Witchfinder Jacket.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\HUNTER_01_CHEST_ALT_C.DAT
+Woven Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\CLOTH_F_CHEST_ALT_D.DAT
+Zeraphi Armor.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_01_CHEST.DAT
+Zeraphi Brigandine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_01_CHEST_ALT_C.DAT
+Zeraphi Vest.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ZERAPHI_01_CHEST_ALT_B.DAT
+Zugmeister's Tunic.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\CHEST\ENGINEER_02_CHEST.DAT

@@ -1,0 +1,50 @@
+﻿AMULET=Amulet=Amulettes=I
+AXES=Axes=Haches=W
+BELT=Belt=Ceintures=A
+BOOTS=Boots=Bottes et jambières=A
+BOWS=Bows=Arcs=W
+CANNON=Cannon=Cannon=W
+CHEST=Chest=Cuirasses=A
+CROSSBOWS=Crossbows=Arbalètes=W
+DAGGERS=Daggers=Dagues=W
+FISH=Fish=Poisson=I
+FISTS=Fists=Griffes=W
+GLOVES=Gloves=Gantelets=A
+GOLD=Gold=Or=I
+HELMET=Helmet=Casques et capuches=A
+LEVELITEMS=Level Items=Objets de niveau=I
+MACES=Maces=Masse=W
+MAPS=Maps=Cartes=I
+OTHER=Other=Autre=I
+PANTS=Pants=Pantalons=A
+PISTOLS=Pistols=Pistolets=W
+POLEARMS=Polearms=Armes d'hast=W
+POTIONS=Potions=Potions=I
+QUEST_ITEMS=Quest Items=Objets de quêtes=I
+RIFLES=Rifles=Fusil=W
+RINGS=Rings=Anneaux=I
+SHIELDS=Shields=Boucliers=W
+SHOULDERS=Shoulders=Epaulières=A
+SOCKETABLES=Scocketables=Enfichable=I
+SPELLS=Speels=Sorts=I
+STAVES=Staves=Bâtons=W
+SWORDS=Swords=Epée=W
+2HAXE=Two Hands Axe=Hâches à deux mains=W
+2HMACE=Two Hands Mace=Masses à deux mains=W
+2HSWORD=Two Hands Sword=Epées à deux mains=W
+TL2ARMOR=Pet's item=Objets de familier=I
+WANDS=Wands=Baguettes=W
+
+
+
+
+
+
+
+
+
+
+
+
+
+

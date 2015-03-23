@@ -1,0 +1,362 @@
+﻿Alchemical Token.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_01_AMULET_ALT_SET.DAT
+Alhidade Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_04_AMULET_ALT_B.DAT
+Amulet Ars Technica.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_04_AMULET.DAT
+Amulet of Ponga.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_P.DAT
+Amulet of the Arch-Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_06_AMULET_ALT_C.DAT
+Amulet of the Construct.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_05_AMULET.DAT
+Amulet of the Eternal Champion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_E_ALT_C.DAT
+Amulet of the Fetcher King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_F_ALT_C.DAT
+Amulet of the Old Ones.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_03_AMULET_ALT_C.DAT
+Amulet of the Walrus King.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_05_AMULET.DAT
+Amulet of the War-Miller.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_04_AMULET.DAT
+Amulet of the World-Mage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_E_ALT_B.DAT
+Amulet of Twenty Squares.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_I_ALT_C.DAT
+Argonaut Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_E_ALT_SET.DAT
+Axler's Commendation.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\Z_AMULET_AXLER.DAT
+Badlands Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DESERT_01_AMULET_ALT_SET.DAT
+Bale Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_03_AMULET.DAT
+Blatand.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_P_ALT_B.DAT
+Blatann.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_P_ALT_C.DAT
+Bloodsteam Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_G_AMULET_ALT_SET.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_01_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_02_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_03_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_04_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_05_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_06_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_07_AMULET_F.DAT
+Blue Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_08_AMULET_F.DAT
+Blue Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DESERT_01_AMULET_E.DAT
+Blue Forest Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FOREST_01_AMULET_I.DAT
+Blue Mountain Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MOUNTAIN_01_AMULET_I.DAT
+Blue Vanquisher Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VANQUISHER_01_AMULET_I.DAT
+Boletus' Spore Sack.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZZZ_BOLETUS_AMULET.DAT
+Brightember Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\EMBER_01_AMULET_ALT_C.DAT
+Celestial Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_E_ALT_SET.DAT
+Ceremonial Ezrohir Token.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DEZROHIR_01_AMULET_ALT_SET.DAT
+Clovenhoof Fetish.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FURHIDE_01_AMULET_ALT_SET.DAT
+Coldheart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_02_AMULET_ALT_C.DAT
+Crackledoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_I_ALT_B.DAT
+Darkneedle.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_I_ALT_C.DAT
+Dezrohir Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DEZROHIR_01_AMULET.DAT
+Dragonrift Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_G_AMULET_ALT_SET.DAT
+Dwarfking Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DWARF_01_AMULET_ALT_SET.DAT
+Dwarven Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DWARF_01_AMULET_E.DAT
+Dwarven Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DWARF_01_AMULET_P.DAT
+Dwarven Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DWARF_01_AMULET_F.DAT
+Dwarven Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DWARF_01_AMULET_I.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_A_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_C_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_D_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_E_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_F_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_G_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_01_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_A_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_C_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_D_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_E_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_F_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_G_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_01_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_A_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_C_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_D_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_E_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_F_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_G_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_01_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_A_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_C_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_D_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_E_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_F_AMULET_E.DAT
+Electric Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_G_AMULET_E.DAT
+Ember Eye Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\EMBER_01_AMULET.DAT
+Embershard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\EMBER_01_AMULET_ALT_B.DAT
+Emberweave Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_05_AMULET_ALT_SET.DAT
+Estherian Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_01_AMULET_E.DAT
+Estherian Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_01_AMULET_P.DAT
+Estherian Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_01_AMULET_F.DAT
+Estherian Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_01_AMULET_I.DAT
+Exorcist Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VARKOLYN_01_AMULET_ALT_SET.DAT
+Eye of the Storm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_05_AMULET_ALT_C.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_A_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_C_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_D_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_E_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_F_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_G_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_01_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_A_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_C_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_D_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_E_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_F_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_G_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_01_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_A_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_C_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_D_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_E_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_F_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_G_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_01_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_A_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_C_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_D_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_E_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_F_AMULET_F.DAT
+Fire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_G_AMULET_F.DAT
+Firebox Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_03_AMULET_ALT_C.DAT
+Formal Regent Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_02_AMULET_ALT_SET.DAT
+Fungus Amongus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZZZ_SPORETHING.DAT
+Gallus Medallus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_02_AMULET.DAT
+Glitterdoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_I.DAT
+Grand Architect Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_05_AMULET_ALT_SET.DAT
+Grand Wazir Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_02_AMULET_ALT_SET.DAT
+Granite Talisman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STONE_01_AMULET_ALT_SET.DAT
+Grasp's Adjunct.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_03_AMULET_SET_SHOCKSHARDS.DAT
+Green Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DESERT_01_AMULET_F.DAT
+Green Forest Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FOREST_01_AMULET_P.DAT
+Green Mountain Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MOUNTAIN_01_AMULET_P.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_01_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_02_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_03_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_04_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_05_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_06_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_07_AMULET_I.DAT
+Green Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_08_AMULET_I.DAT
+Green Vanquisher Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VANQUISHER_01_AMULET_P.DAT
+Harbinger Badge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_06_AMULET_ALT_SET.DAT
+Hartnellicon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_02_AMULET.DAT
+Heart of the Fire-Eater.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_06_AMULET.DAT
+Heart of the Ignivore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_06_AMULET_ALT_C.DAT
+Heart of the Pyrophage.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_06_AMULET_ALT_B.DAT
+Hexencharm.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_05_AMULET_ALT_C.DAT
+Highridge Talisman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MOUNTAIN_01_AMULET_ALT_SET.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_A_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_C_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_D_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_E_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_F_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_G_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_01_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_A_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_C_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_D_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_E_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_F_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_G_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_01_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_A_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_C_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_D_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_E_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_F_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_G_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_01_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_A_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_C_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_D_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_E_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_F_AMULET_I.DAT
+Ice Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_G_AMULET_I.DAT
+Ice-Heart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_02_AMULET.DAT
+Imperial Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PIMP_01_AMULET_E.DAT
+Imperial Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PIMP_01_AMULET_P.DAT
+Imperial Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PIMP_01_AMULET_F.DAT
+Imperial Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PIMP_01_AMULET_I.DAT
+Inquisitor Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_G_AMULET_ALT_SET.DAT
+Janissary Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DEZROHIR_02_AMULET.DAT
+Labarinto Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_05_AMULET_ALT_SET.DAT
+Lady Rachel's Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_02_AMULET_ALT_C.DAT
+Loc-Nar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_E.DAT
+Marishka's Broach.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZZZ_MARISHKA_AMULET.DAT
+Mechadallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_05_AMULET_ALT_B.DAT
+Medallion of Miskaton.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_03_AMULET.DAT
+Medallion of the Magus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_06_AMULET.DAT
+Medallion of Triangulation.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_04_AMULET_ALT_C.DAT
+Mondon's Insignia.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_06_AMULET_ALT_SET.DAT
+Necrotic Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_E_ALT_SET.DAT
+Netherfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_P_ALT_C.DAT
+Northstar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_02_AMULET_ALT_B.DAT
+Oathbreaker Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HUNTER_01_AMULET_ALT_B.DAT
+Outlaw's Badge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DEZROHIR_02_AMULET_SET_ELGUAPO.DAT
+Pendant of Pandect.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_05_AMULET_ALT_C.DAT
+Pendant of Rejected Realities.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_05_AMULET_ALT_B.DAT
+Pendant of the Pike.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_06_AMULET_ALT_C.DAT
+Pendant of the Pine.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_06_AMULET_ALT_B.DAT
+Pendant of the Prestidigitator.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_05_AMULET_ALT_C.DAT
+Pendant of the Thaumaturge.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_06_AMULET_ALT_B.DAT
+Pertwee's Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_02_AMULET_ALT_C.DAT
+Pocketwatch of the Tennant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_03_AMULET.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_A_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_C_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_D_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_E_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_F_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOTH_G_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_01_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_A_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_C_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_D_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_E_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_F_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HEAVY_G_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_01_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_A_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_C_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_D_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_E_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_F_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_G_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_01_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_A_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_C_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_D_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_E_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_F_AMULET_P.DAT
+Poison Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MEDIUM_G_AMULET_P.DAT
+Railspike Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_02_AMULET_ALT_C.DAT
+Railspike Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_02_AMULET_ALT_B.DAT
+Railspike Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_02_AMULET.DAT
+Rawhide Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FURHIDE_01_AMULET_E.DAT
+Rawhide Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FURHIDE_01_AMULET_P.DAT
+Rawhide Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FURHIDE_01_AMULET_F.DAT
+Rawhide Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FURHIDE_01_AMULET_I.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_01_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_02_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_03_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_04_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_05_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_06_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_07_AMULET_E.DAT
+Red Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_08_AMULET_E.DAT
+Red Forest Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FOREST_01_AMULET_F.DAT
+Red Glow Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DESERT_01_AMULET_P.DAT
+Red Mountain Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MOUNTAIN_01_AMULET_F.DAT
+Red Vanquisher Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VANQUISHER_01_AMULET_F.DAT
+Regent Bolt Vo Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_02_AMULET_E.DAT
+Regent Fang Vo Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_02_AMULET_P.DAT
+Regent Flame Vo Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_02_AMULET_F.DAT
+Regent Shard Vo Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_02_AMULET_I.DAT
+Remobilizer.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZZZ_IMMOBRESIST.DAT
+Ritual Janissary Necklace.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DEZROHIR_02_AMULET_ALT_SET.DAT
+Runemaster Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STURM_01_AMULET_ALT_SET.DAT
+Savage Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_05_AMULET_ALT_SET.DAT
+Sentinel Talisman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VANQUISHER_01_AMULET_ALT_SET.DAT
+Shadowbarb.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_P_ALT_C.DAT
+Shadowchar.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_F_ALT_B.DAT
+Shadowclasp.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_E.DAT
+Shadowfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_P.DAT
+Shadowflare.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_F.DAT
+Shadowfragment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_I_ALT_B.DAT
+Shadowglow.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_F_ALT_C.DAT
+Shadowhold.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_E_ALT_B.DAT
+Shadowhook.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_E_ALT_C.DAT
+Shadowsplinter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_I.DAT
+Shadowspur.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_01_AMULET_P_ALT_B.DAT
+Silver Amulet of the Butcher's Boy.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_06_AMULET.DAT
+Smokebox Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_03_AMULET_ALT_B.DAT
+Specterflare Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_F.DAT
+Specterheart Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_F_ALT_B.DAT
+Spellfire Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_05_AMULET_ALT_B.DAT
+Spellgunner's Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_05_AMULET.DAT
+Spicer's Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_04_AMULET.DAT
+Splinterdoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_I_ALT_C.DAT
+Stone Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STONE_01_AMULET_E.DAT
+Stone Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STONE_01_AMULET_P.DAT
+Stone Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STONE_01_AMULET_F.DAT
+Stone Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STONE_01_AMULET_I.DAT
+Stormcore.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_03_AMULET_ALT_C.DAT
+Stormheart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_03_AMULET.DAT
+Stormstone.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_03_AMULET_ALT_B.DAT
+Sturm Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STURM_01_AMULET_E.DAT
+Sturm Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STURM_01_AMULET_P.DAT
+Sturm Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STURM_01_AMULET_F.DAT
+Sturm Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\STURM_01_AMULET_I.DAT
+Symbol of the Davi Child.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_03_AMULET_ALT_B.DAT
+The Amulet of Frost.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_04_AMULET_ALT_C.DAT
+The Amulet of Ludo.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_F.DAT
+The Badge of Tos.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_03_AMULET_ALT_C.DAT
+The Blue Fang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_P.DAT
+The deWhalley Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_02_AMULET_ALT_B.DAT
+The Diolkos Device.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_06_AMULET.DAT
+The Emerald Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_E_ALT_B.DAT
+The Emerald Heart.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_F.DAT
+The Evil Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_04_AMULET_ALT_C.DAT
+The Eye of Envy.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_F_ALT_C.DAT
+The Eye of Jade.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_E_ALT_C.DAT
+The Gear of War.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_04_AMULET_ALT_C.DAT
+The Glimmer of Hope.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_P_ALT_C.DAT
+The Glimmergreen.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_P_ALT_B.DAT
+The Guardian's Gaze.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_P.DAT
+The Hairy Eyeball.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_04_AMULET.DAT
+The Hammontree Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_E.DAT
+The Hardy Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_E_ALT_C.DAT
+The Integral Segment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\Z_ENGINEER_05_AMULET_SET.DAT
+The Matchstick Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_E.DAT
+The Necromantium.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_03_AMULET_ALT_B.DAT
+The Overwrought Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_06_AMULET_ALT_C.DAT
+The Pacma Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_P_ALT_B.DAT
+The Pendant of Pegg.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_04_AMULET_ALT_B.DAT
+The Plummer Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_E_ALT_B.DAT
+The Searing Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_F_ALT_B.DAT
+The Searing Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_F_ALT_C.DAT
+The Searing Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CLOCKWORK_01_AMULET_F.DAT
+The Senet Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_F_ALT_B.DAT
+The Shardifact.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_I_ALT_B.DAT
+The Singularity.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_I_ALT_C.DAT
+The Smaragdus.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_F_ALT_B.DAT
+The Star-Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BONE_01_AMULET_I.DAT
+The Stink-Eye.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_04_AMULET_ALT_B.DAT
+The Stormrider.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_05_AMULET_ALT_B.DAT
+The Triskelion Fragment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_I.DAT
+The Wrought-Iron Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ENGINEER_06_AMULET_ALT_B.DAT
+The Wumpus Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_P_ALT_C.DAT
+The Wyrdbolt Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_E_ALT_B.DAT
+The Xiangqi Shard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\PONYA_01_AMULET_I_ALT_B.DAT
+Trancendent Icon.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_06_AMULET_ALT_SET.DAT
+Troughtonius.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_02_AMULET_ALT_B.DAT
+True Estheria Broach.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ESTHERIAN_01_AMULET_ALT_SET.DAT
+Unearthly Token.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\WANDERER_06_AMULET_ALT_SET.DAT
+Valkyrie Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\LIGHT_G_AMULET_ALT_SET.DAT
+Varkolyn Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VARKOLYN_01_AMULET_E.DAT
+Varkolyn Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VARKOLYN_01_AMULET_P.DAT
+Varkolyn Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VARKOLYN_01_AMULET_F.DAT
+Varkolyn Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VARKOLYN_01_AMULET_I.DAT
+Warbinder's Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\CASTER_04_AMULET_ALT_B.DAT
+Warlock Pendant.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HUNTER_01_AMULET.DAT
+Wazir Ka Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_02_AMULET_E.DAT
+Wazir Ka Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_02_AMULET_P.DAT
+Wazir Ka Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_02_AMULET_F.DAT
+Wazir Ka Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_02_AMULET_I.DAT
+Webbstre's Talisman.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\BERSERKER_05_AMULET.DAT
+Whisperdoom.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_I.DAT
+Whispershard.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_I_ALT_C.DAT
+Wightarrow Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_E.DAT
+Wightarrow Fragment.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_E_ALT_C.DAT
+Wightfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_P_ALT_B.DAT
+Wightfire Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_F_ALT_C.DAT
+Wildwood Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FOREST_01_AMULET_ALT_SET.DAT
+Witchfinder Medallion.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\HUNTER_01_AMULET_ALT_C.DAT
+Wraithsplinter.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_I_ALT_B.DAT
+Wyrdfang.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\NETHERIM_02_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_01_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_02_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_03_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_04_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_05_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_06_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_07_AMULET_P.DAT
+Yellow Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\COLONIST_08_AMULET_P.DAT
+Yellow Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\DESERT_01_AMULET_I.DAT
+Yellow Forest Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\FOREST_01_AMULET_E.DAT
+Yellow Mountain Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\MOUNTAIN_01_AMULET_E.DAT
+Yellow Vanquisher Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\VANQUISHER_01_AMULET_E.DAT
+Zeraphi Bolt Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_01_AMULET_E.DAT
+Zeraphi Fang Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_01_AMULET_P.DAT
+Zeraphi Flame Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_01_AMULET_F.DAT
+Zeraphi Shard Amulet.C:\Users\Développement\Documents\Visual Studio 2013\Projects\Torchlight II  Inventory\Torchlight II  Inventory\bin\Debug\Objets Torchlight II\ITEMS\AMULET\ZERAPHI_01_AMULET_I.DAT

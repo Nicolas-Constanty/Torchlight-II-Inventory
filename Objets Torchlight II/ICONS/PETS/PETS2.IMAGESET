@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Imageset Name= "pets2" Imagefile="media/ui/icons/pets/pets2.dds" NativeHorzRes="1024" NativeVertRes="768" AutoScaled="true" >
+	<Image Name="bulldogicon" XPos="0" YPos="0" Width="128" Height="128" />
+	<Image Name="bigcaticonselected" XPos="128" YPos="0" Width="128" Height="128" />
+	<Image Name="bigcaticonhover" XPos="256" YPos="0" Width="128" Height="128" />
+	<Image Name="bigcaticon" XPos="384" YPos="0" Width="128" Height="128" />
+	<Image Name="badgericonselected" XPos="0" YPos="128" Width="128" Height="128" />
+	<Image Name="badgericonhover" XPos="128" YPos="128" Width="128" Height="128" />
+	<Image Name="badgericon" XPos="256" YPos="128" Width="128" Height="128" />
+	<Image Name="alpacaiconselected" XPos="384" YPos="128" Width="128" Height="128" />
+	<Image Name="alpacaiconhover" XPos="0" YPos="256" Width="128" Height="128" />
+	<Image Name="alpacaicon" XPos="128" YPos="256" Width="128" Height="128" />
+</Imageset>
